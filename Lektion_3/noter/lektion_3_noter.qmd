@@ -1,0 +1,1025 @@
+---
+title: "Lektion 3: Lungesygdomme, thoraxsygdomme og brystsygdomme"
+author: "Andreas Svendsen"
+toc: true
+format:
+    html:
+        embed-resources: true
+    docx: default
+    pdf: default
+---
+
+# Introduktion
+
+Dette kapitel omhandler sygdomme i luftvejene, thorax og brystet.
+
+# Luftvejenes anatomi og fysiologi
+
+## Overordnet inddeling
+
+Luftvejene kan inddeles i:
+
+1. **Øvre luftveje** (over stemmelæberne)
+    - Næsehulen
+    - Svælget (pharynx)
+    - Struben (larynx)
+
+2. **Nedre luftveje** (under stemmelæberne)
+    - Luftrøret (trachea)
+    - Bronkier
+    - Bronkioler
+    - Alveoler
+
+## Funktionel anatomi
+
+### Luftvejenes forsvar
+- **Mekanisk barriere**: Slimhinde med fimrehår (cilier) der transporterer slim og partikler opad
+- **Immunologisk forsvar**: Slimhindeassocieret lymfevæv
+- **Hosterefleks**: Beskytter mod aspiration
+
+### Gasudveksling
+- Sker primært i alveolerne
+- Diffusion af O2 og CO2 over alveole-kapillær membranen
+- Styres af:
+    - Ventilation (luftskifte)
+    - Perfusion (blodgennemstrømning)
+    - Diffusion (gennem membranen)
+
+## Relevante strukturer
+
+### Thoraxvæggen
+- Ribben og intercostalmuskler
+- Diafragma (hovedinspirationsmuskel)
+- Auxiliære respirationsmuskler
+
+### Pleura
+- Visceralt og parietalt pleura
+- Pleuraspalten med negativt tryk
+- Vigtig for friktionsfri respirationsbevægelser
+
+### Mediastinum
+- Område mellem lungerne
+- Indeholder hjerte, store kar, spiserør mm.
+
+## Respirationsfysiologi 
+
+### Ventilation
+- **Inspiration**: Aktiv proces - primært diafragma
+- **Ekspiration**: Passiv proces ved hvile
+- **Lungevolumina**:
+    - Tidalvolumen
+      - Normal vejrtrækningsvolumen i hvile
+      - Ca. 500 mL hos voksne
+      - Kan øges betydeligt ved behov (fx under træning)
+    - Vitalkapacitet
+      - Maksimal mængde luft der kan udåndes efter maksimal indånding
+      - Normalt 3-5 L (afhængig af køn, alder, højde)
+      - Vigtig parameter ved lungefunktionsundersøgels
+    - Residualvolumen
+      - Luftmængde der bliver tilbage i lungerne efter maksimal udånding
+      - Ca. 1,2 L hos voksne
+      - Kan ikke måles ved spirometri
+      - Øget ved emfysem/KOL
+* Andet:
+  * FVC
+    * Forceret vitalkapacitat. Total volumen, i liter, der ekspireres efter maksimal inhalation, of så hurtig og fuldstændig ekspiration som muligt. 
+  * FEV1
+    * Udgør første del af FVC målingen. Den volumen der er ekspireret i løbet af 1 sekund. 
+  * FEV1/FVC ratio (Tiffeneaus indeks). 
+    * Forholdet mellem FEV1 og FVC, dvs., hvor stor andel af forceret vitalkapacitet tømmes ud i løbet af første sekund.
+    * Denne variabel definerer obstruktion:
+      * Hvis forholdet er under 0.7 taler man om obstruktiv lungefunktionsnedsættelse. 
+  * Peak flow
+    * Angiver den maksimale lufthastighed, der kan pustes luften ud af lungerne. Det måles i enheden liter pr. minut. 
+
+
+### Respiration under fysisk aktivitet
+- Øget ventilation
+- Rekruttering af auxiliære respirationsmuskler
+- Ændret respirationsmønster
+
+
+## Glat muskulatur i luftvejene
+
+### Anatomi og funktion
+- Findes i bronkier og bronkioler
+- Regulerer luftvejsdiameter
+- Styres af autonome nervesystem:
+  - Parasympatisk stimulation → kontraktion (forsnævring)
+  - Sympatisk stimulation → relaksation (udvidelse)
+
+### Receptorer
+1. **Beta-2 receptorer**:
+   - Stimulering medfører bronkodilatation
+   - Målreceptor for beta-2-agonister ved astmabehandling
+   
+2. **Muskarinerge receptorer**:
+   - Stimulering medfører bronkokonstriktion
+   - Målreceptor for antikolinergika ved KOL-behandling
+
+3. **Inflammatoriske receptorer**:
+   - Responderer på inflammatoriske mediatorer
+   - Vigtige ved astma og allergiske reaktioner
+   - Påvirkes af steroider
+
+## Respiratorisk kontrol
+
+### Centrale regulering
+- **Respirationscenter i hjernestammen**:
+  - Automatisk regulering af vejrtrækning
+  - Responderer på:
+    - pCO2 (primær stimulus)
+    - pH
+    - pO2 (mindre betydning)
+
+### Perifere receptorer
+- **Kemoreceptorer**:
+  - Måler blodets pH, pCO2 og pO2
+  - Findes i carotislegemet og aortalegemet
+
+- **Strækereceptorer**:
+  - I lungerne og thoraxvæggen
+  - Beskytter mod overudspiling
+  - Bidrager til normal respirationsrytme
+
+### Regulering under fysisk aktivitet
+- Øget ventilation drives primært af:
+  - Øget CO2-produktion
+  - Faldende pH
+  - Neural feedback fra arbejdende muskler
+    
+# Lungesygdomme
+
+## Akut bronkitis
+
+### Definition og patofysiologi
+- Inflammation i trachea og større bronkier
+- Primært viralt udløst (>90% af tilfældene)
+- Kan også skyldes bakterien Bordatella Pertussis (kighoste)
+  - Forebygges gennem børnevaccinationsprogrammet
+  - Vaccination tilbydes også til gravide
+
+### Epidemiologi
+- Meget hyppig tilstand
+- Ses ofte i primær sektor
+- Næsten aldrig indlæggelseskrævende
+- Hyppigst i vinterhalvåret
+
+### Kliniske manifestationer
+**Symptomer**:
+- Hoste og hosteanfald
+  - Initialt tør hoste
+  - Senere produktiv hoste med ekspektorat
+- Evt. feber (oftest let forhøjet)
+- Nogle får let åndenød
+- Varighed typisk få dage op til 3 uger
+
+### Diagnostik
+- Primært klinisk diagnose
+- Sjældent behov for supplerende undersøgelser
+- Ved mistanke om kighoste kan tages:
+  - Podning fra næse-svælg
+  - Blodprøver for antistoffer
+
+### Behandling
+- Oftest ingen specifik behandling nødvendig
+- Symptomatisk behandling kan omfatte:
+  - Hvile
+  - Sufficient væskeindtag
+  - Evt. smertestillende/febernedsættende
+- Ved bakteriel årsag (fx kighoste):
+  - Antibiotika
+- Ved disponerede patienter (fx lungesyge):
+  - Prednisolon
+  - Evt. bronkodilaterende medicin
+
+### Fysioterapeutiske overvejelser
+- Normalt ikke behov for fysioterapi
+- Ved produktiv hoste kan overvejes:
+  - Instruktion i effektiv hosteteknik
+  - PEP-fløjte ved sejt sekret
+- Ved kendt lungesygdom:
+  - Vurder behov for pause/modificering af træning
+  - Monitorer evt. forværring af grundsygdom
+
+### Prognose
+- God prognose
+- Selvlimiterende forløb
+- Sjældent komplikationer hos ellers raske
+- Kan evt. udløse eksacerbation hos patienter med kronisk lungesygdom
+  
+## Pneumoni (lungebetændelse)
+
+### Definition og patofysiologi
+- Inflammation i lungeparenkymet med konsolidering af lungevævet
+- Kan være:
+ - Viralt udløst
+ - Bakterielt udløst (hyppigst Streptococcus pneumoniae)
+ - (sjældent andre mikroorganismer)
+ - Aspirationsudløst
+
+### Epidemiologi
+- Meget hyppig årsag til lægekontakt
+- Cirka 20.000 indlægges årligt i DK
+- 60.000-100.000 behandles i almen praksis
+- Inddeling efter smittested:
+ - Samfundserhvervet
+ - Hospitalserhvervet
+ - Aspirationspneumoni
+
+### Kliniske manifestationer
+
+**Kardinalsymptomer:**
+- Feber
+- Hoste med ekspektorat
+- Åndenød
+
+**Øvrige symptomer:**
+- Almen sygdomsfølelse
+- Træthed
+- Evt. thorakale smerter
+- Hos ældre kan symptomerne være meget vage:
+ - Forvirring
+ - Nedsat funktionsniveau
+ - Let temperaturforhøjelse
+
+### Objektive fund
+- Feber (ikke altid)
+- Forhøjede infektionstal i blodprøver
+- Stetoskopi: Krepitation
+- Nedsat saturation
+- Påvirket A-gas (arteriel blodprøve)
+- Positive fund ved diagnostisk percussion
+- Infiltrat på røntgen af thorax
+
+### Risikovurdering - CURB-65 score
+Point gives for hver af følgende:
+- **C**onfusion (nyopstået)
+- **U**rea >7 mmol/L
+- **R**espirationsfrekvens ≥30/min
+- **B**lood pressure (BT systolisk <90 eller diastolisk ≤60)
+- Alder ≥**65** år
+
+Scoring og handling:
+- 0-1 point: Behandles i praksis
+- 2 point: Overvej indlæggelse
+- 3+ point: Altid indlæggelse
+
+### Behandling
+
+**Medicinsk:**
+- Antibiotika tilpasset formodet agens
+- Væskebehandling ved behov
+- Evt. ilttilskud ved hypoksi
+- Evt. bronkodilaterende medicin
+
+**Fysioterapeutisk behandling:**
+- Lejring for optimal ventilation
+- Sekretmobilisering:
+ - PEP-fløjte
+ - Vejrtrækningsøvelser
+ - Hosteinstruktion
+- Tidlig mobilisering når relevant
+
+### Forløb og prognose
+- Store individuelle forskelle:
+ - Nogle har subklinisk forløb
+ - Andre udvikler svær sygdom med behov for intensiv behandling
+- Særlige risikogrupper:
+ - Ældre
+ - Immunsupprimerede
+ - Komorbiditet
+ - Nedsat lungefunktion
+
+### Fysioterapeutiske overvejelser
+
+**Vurdering:**
+- Respirationsfrekvens
+- Saturation
+- Arbejdsgrad af vejrtrækning
+- Sekretproblematik
+- Mobilitetsniveau
+- Udholdenhed
+
+**Intervention:**
+1. Akut fase:
+  - Fokus på lejring og sekretmobilisering
+  - Minimal belastning
+  - Tæt monitorering
+
+2. Subakut fase:
+  - Gradvis mobilisering
+  - Fortsæt sekretmobilisering
+  - Instruktion i hjemmeøvelser
+
+3. Rehabiliteringsfase:
+  - Gradvis genoptræning
+  - Udholdenthedstræning
+  - Styrketræning
+  - Vejrtrækningsøvelser
+
+### Kliniske perspektiver
+
+**Case: Ældre patient med pneumoni**
+Hr. Jensen, 78 år, indlægges med pneumoni. Han har tidligere været selvhjulpen men er nu sengeliggende og afkræftet.
+
+**Fysioterapeutiske overvejelser:**
+1. Initial vurdering:
+  - Hvordan vurderer du sikkert mobiliseringsniveau?
+  - Hvilke parametre monitorerer du?
+  - Hvilke kontraindikationer for mobilisering?
+
+2. Behandlingsplan:
+  - Kort sigt: Forebyggelse af komplikationer
+  - Mellem sigt: Gradvis mobilisering
+  - Lang sigt: Genoptræning til tidligere funktionsniveau
+
+**Mulige svar på overvejelser:**
+
+*Sikker mobiliseringsvurdering:*
+- Vitalparametre i hvile og ved aktivitet
+ - Saturation >90% (eller <4% fald ved aktivitet)
+ - RF <25
+ - Puls <120
+- Patientens subjektive oplevelse
+- Observationer af arbejdsgrad
+
+*Monitorering:*
+- Saturation kontinuerligt under aktivitet
+- Respirationsfrekvens
+- Puls
+- Borg score for dyspnø
+- Subjektiv træthed
+- Hudfarve
+
+*Kontraindikationer for mobilisering:*
+- Feber >38.5°C
+- Betydelig desaturation ved minimal aktivitet
+- Kredsløbsinstabilitet
+- Svær dyspnø i hvile
+- Akut konfusion
+
+### Forebyggelse af komplikationer
+- Immobilisationsrelaterede:
+ - Tryksår
+ - Muskelatrofi
+ - DVT
+- Respirationsrelaterede:
+ - Atelektaser
+ - Sekretstagnation
+ - Superinfektion
+   
+## Tuberkulose
+
+### Patogenese
+- Forårsages af Mycobacterium tuberculosis
+- Primær infektion:
+  1. Bakterier inhaleres til alveolerne
+  2. Fagocyteres af makrofager
+  3. Bakterierne kan overleve i makrofagerne
+  4. Der dannes granulomer ("tuberkler")
+  5. Immunsystemet indkapsler ofte infektionen
+- Reaktivering kan ske ved:
+  - Svækket immunforsvar
+  - HIV
+  - Underernæring
+  - Høj alder
+  - Immunsupprimerende behandling
+
+### Karakteristika
+- Langsom vækst af bakterien
+- Danner karakteristiske granulomer
+- Kan give kaverner (hulrum) i lungevævet
+- Særlig cellevægsstruktur gør bakterien:
+  - Svær at behandle
+  - Modstandsdygtig mod mange antibiotika
+  - Kræver specialiseret farvning for at se i mikroskop
+
+### Epidemiologi
+- Globalt:
+  - 8 millioner nye tilfælde årligt
+  - 1,3 millioner dødsfald
+  - Største infektiøse dræber
+- Danmark:
+  - Ca. 200 tilfælde årligt
+  - Primært i risikogrupper
+  - Effektivt screeningsprogram for risikogrupper
+
+### Diagnostik
+- Røntgen thorax
+  - Karakteristiske forandringer:
+    - Infiltrater i overlapperne
+    - Kavernedannelse
+    - Calcifikationer
+- Mikrobiologisk:
+  - Ekspektorat til dyrkning og resistensbestemmelse
+  - PCR for hurtigt svar
+- IGRA-test (Interferon Gamma Release Assay)
+  - Kan påvise latent infektion
+  
+### Behandling
+- Isolation indtil non-infektiøs (typisk 2 uger)
+- Antibiotika i 6 måneder:
+  - 4-stofsbehandling initial
+  - Senere 2-stofsbehandling
+- Kontrol af komplians essentielt
+- Smitteopsporing af nære kontakter
+
+## KOL (Kronisk Obstruktiv Lungesygdom)
+
+### Patogenese
+- Kronisk inflammation i luftvejene fører til:
+  1. Bronkitis komponent:
+     - Fortykkelse af bronkievæggen
+     - Øget slimdannelse
+     - Nedsat cilefunktion
+  2. Emfysem komponent:
+     - Destruktion af alveolerne
+     - Tab af elasticitet
+     - Nedsat gasudveksling
+- Resulterer i:
+  - Irreversibel luftvejsforsnævring
+  - Air trapping
+  - Dynamisk hyperinflation ved aktivitet
+
+### Mekanismer for åndenød
+1. **Mekanisk komponent:**
+   - Øget respiratorisk arbejde pga. luftvejsobstruktion
+   - Dynamisk hyperinflation → fladere diafragma
+   - Nedsat elasticitet → tidligere luftvejskollaps
+
+2. **Gasudveksling:**
+   - Ventilations-perfusions mismatch
+   - Nedsat diffusionskapacitet
+   - Kan føre til hypoksæmi og hyperkapni
+
+3. **Muskulær dysfunktion:**
+   - Systemisk inflammation
+   - Dekonditionering
+   - Kortikosteroid-induceret myopati
+
+### Systematisk påvirkning
+KOL er ikke kun en lungesygdom, men påvirker hele kroppen:
+- Systemisk inflammation
+- Kardiovaskulær komorbiditet
+- Osteoporose
+- Depression
+- Muskelatrofi
+- Metaboliske forstyrrelser
+
+### Spirometri og lungefunktion
+
+#### Centrale begreber
+- **FEV1** (Forceret Ekspiratorisk Volumen 1. sekund):
+  - Luftmængde der kan udåndes i første sekund ved maksimal udånding
+  - Nedsat ved obstruktion i luftvejene
+
+- **FVC** (Forceret Vital Kapacitet):
+  - Total luftmængde der kan udåndes ved maksimal udånding
+  - Nedsat ved restriktiv lungesygdom
+
+- **FEV1/FVC ratio**:
+  - Normal ratio >70%
+  - Vigtigste parameter til at skelne mellem obstruktiv og restriktiv lungesygdom
+
+#### Obstruktiv vs. Restriktiv lungesygdom
+
+**Obstruktiv lungesygdom (fx KOL og astma):**
+- Karakteriseret ved:
+  - Nedsat luftflow pga. forsnævrede luftveje
+  - FEV1 er markant nedsat
+  - FVC er normal eller let nedsat
+  - FEV1/FVC ratio er <70%
+- Flow-volumen kurve viser:
+  - Konkav kurve
+  - Langsom tømning
+  
+**Restriktiv lungesygdom (fx lungefibrose):**
+- Karakteriseret ved:
+  - Nedsat lungevolumen
+  - Både FEV1 og FVC er nedsat
+  - FEV1/FVC ratio er normal eller forhøjet
+- Flow-volumen kurve viser:
+  - Normal form men reduceret størrelse
+  - Hurtig tømning
+
+### Behandlingsrationale ved KOL
+
+#### Bronkodilaterende behandling
+- **Virkning:**
+  - Afslapning af glat muskulatur i bronkierne
+  - Øger luftvejenes diameter
+  - Reducerer air trapping
+- **Typer:**
+  - Beta-2-agonister (både kort- og langtidsvirkende)
+  - Antikolinergika
+
+#### Inhalationssteroid
+- **Virkning:**
+  - Dæmper inflammation i luftvejene
+  - Reducerer eksacerbationsrisiko
+  - Mindsker slimproduktion
+- **Indikation:**
+  - Primært til patienter med hyppige eksacerbationer
+  - Ofte i kombination med bronkodilaterende medicin
+
+#### PEP/CPAP rationale
+- **Fysiologiske effekter:**
+  - Modvirker tidlig luftvejskollaps
+  - Holder små luftveje åbne længere
+  - Letter sekretmobilisering
+  - Reducerer arbejdet med vejrtrækningen
+- **Kliniske fordele:**
+  - Bedre sekretclearance
+  - Reduceret air trapping
+  - Forbedret gasudveksling
+
+#### Træningsrationale
+1. **Systemiske effekter:**
+   - Forbedrer muskelstyrke og udholdenhed
+   - Øger kardiovaskulær fitness
+   - Reducerer systemisk inflammation
+
+2. **Respiratoriske effekter:**
+   - Forbedrer ventilations-perfusions forhold
+   - Øger respiratorisk muskelstyrke
+   - Reducerer dynamisk hyperinflation ved aktivitet
+
+3. **Psykologiske effekter:**
+   - Øget selvtillid
+   - Bedre sygdomskontrol
+   - Reduceret angst for åndenød
+     
+## Astma
+
+### Patofysiologi
+- Karakteriseret ved kronisk inflammation i luftvejene med:
+  - Hyperreaktive luftveje
+  - Reversibel luftvejsobstruktion
+  - Inflammatorisk celleinfiltration
+  - Bronkial hyperreaktivitet
+
+#### Mekanismer for bronkokonstriktion
+1. **Tidlig fase:**
+   - Allergener/irritanter aktiverer mastceller
+   - Frigivelse af histamin og andre mediatorer
+   - Akut bronkokonstriktion
+   - Øget slimproduktion
+   
+2. **Sen fase:**
+   - Inflammatoriske celler tiltrækkes
+   - Ødem i slimhinden
+   - Fortykket basalmembran
+   - Kronisk inflammation
+
+### Særlige kendetegn vs. KOL
+- Reversibel obstruktion
+- Ofte allergisk komponent
+- Typisk debut i barndommen
+- Bedre prognose
+- God effekt af inhalationssteroid
+- Normal lungefunktion mellem anfald
+
+### Diagnostik
+- Spirometri med reversibilitetstest:
+  - Min. 12% stigning i FEV1 efter beta-2-agonist
+  - Absolut stigning på mindst 200 ml
+- Peak flow monitorering:
+  - Døgnvariation > 20% diagnostisk
+  - Nyttigt til monitorering af sygdomskontrol
+
+### Sygdomskontrol
+Vurderes ud fra:
+1. **Dagsymptomer:**
+   - Hyppighed
+   - Sværhedsgrad
+   - Påvirkning af aktivitet
+
+2. **Natsymptomer:**
+   - Frekvens
+   - Påvirkning af søvn
+
+3. **Medicinforbrug:**
+   - Behov for anfaldsmedicin
+   - Komplians med fast medicin
+
+4. **Lungefunktion:**
+   - FEV1
+   - Peak flow værdier
+
+## Lungecancer
+
+### Epidemiologi og risikofaktorer
+- 4500 nye tilfælde årligt i Danmark
+- Næsthyppigste cancerform
+- Primære risikofaktorer:
+  - Rygning (80-90% af tilfælde)
+  - Passiv rygning
+  - Asbest eksposition
+  - Radon
+  - Luftforurening
+
+### Klassifikation
+1. **Småcellet lungecancer (SCLC):**
+   - 15-20% af tilfælde
+   - Meget aggressiv
+   - Tidlig spredning
+   - Primært kemoterapi
+
+2. **Ikke-småcellet lungecancer (NSCLC):**
+   - 80-85% af tilfælde
+   - Langsommere vækst
+   - Kirurgi hvis mulig
+   - Flere undertyper:
+     - Adenokarcinom
+     - Planocellulært karcinom
+     - Storcellet karcinom
+
+### Klinisk præsentation
+1. **Lokale symptomer:**
+   - Vedvarende hoste (60-70%)
+   - Hæmoptyse (35-40%)
+   - Åndenød (50%)
+   - Thorakale smerter
+   
+2. **Systemiske symptomer:**
+   - B-symptomer
+   - Vægttab
+   - Træthed
+   - Feber
+   
+3. **Særlige præsentationer:**
+   - Pancoast tumor:
+     - Apikal tumor
+     - Horners syndrom
+     - Plexus brachialis påvirkning
+   - Recurrensparese:
+     - Hæshed
+   - Superior vena cava syndrom:
+     - Ødem i ansigt/hals
+     - Venestase
+
+### Metastasering
+- **Lokal spredning:**
+  - Samme/modsatte lunge
+  - Mediastinale lymfeknuder
+  
+- **Fjernmetastaser:**
+  - Knogler (særligt columna)
+  - Lever
+  - Hjerne
+  - CNS
+  
+### Behandling
+1. **Kirurgi:**
+   - Kurativt sigte
+   - Kræver god lungefunktion
+   - Kun ved lokaliseret sygdom
+   
+2. **Kemoterapi:**
+   - Standard ved SCLC
+   - Adjuverende ved NSCLC
+   - Pallierende ved metastatisk sygdom
+   
+3. **Strålebehandling:**
+   - Kurativt eller pallierende
+   - Ofte kombineret med kemo
+   
+4. **Rehabilitering:**
+   - Fysisk træning
+   - Sekretmobilisering
+   - Energibesparelse
+   - Psykosocial støtte
+
+## Lungeemboli
+
+### Patofysiologi
+- Akut tillukning af lungearterie(r) med trombe
+- Konsekvenser afhænger af:
+  1. **Størrelse på emboli:**
+     - Små embolier kan være asymptomatiske
+     - Store embolier kan give akut højresidig belastning
+  2. **Lokalisation:**
+     - Centrale vs. perifere embolier
+     - Saddelemboli særligt alvorlig
+  3. **Kardiopulmonal reservekapacitet:**
+     - Raske tåler større embolier bedre
+     - KOL-patienter særligt sårbare
+
+### Patogenetisk sammenhæng med DVT
+- 90% stammer fra DVT i underekstremiteter
+- Vigtig at huske DVT-profylakse ved:
+  - Immobilisation
+  - Store operationer
+  - Graviditet/barsel
+  - Cancer
+  - Kendte koagulationsforstyrrelser
+
+### Klinisk præsentation
+- **Akutte symptomer:**
+  - Åndenød (85%)
+  - Thorakale smerter (40%)
+  - Hoste (20%)
+  - Synkope (10%)
+- **Objektive fund:**
+  - Takypnø
+  - Takykardi
+  - Evt. højresidigt svigt
+  - Hypoxi
+  
+### Særlige præsentationer
+1. **Saddelemboli:**
+   - Rammer bifurkaturen af a. pulmonalis
+   - Giver akut højresidig belastning
+   - Kan føre til PEA/asystoli
+   
+2. **Multiple små embolier:**
+   - Kan give gradvis forværring
+   - Kronisk cor pulmonale
+   
+3. **Infarktpneumoni:**
+   - Ses ved perifere embolier
+   - Giver pleural smerte
+   - Hæmoptyse
+
+## Pleuritis og atelektaser
+
+### Pleuritis
+- Inflammation af pleura parietalis og/eller visceralis
+- **Ætiologi:**
+  1. Primær pleuritis:
+     - Viral
+     - Bakteriel
+     - Autoimmun
+  2. Sekundær pleuritis:
+     - Efter pneumoni
+     - Ved lungeemboli
+     - Ved cancer
+
+- **Patofysiologi:**
+  - Inflammation → smerte ved respirationsbevægelse
+  - Evt. pleuraexsudat
+  - Kan give adhærencer
+
+### Atelektaser
+- Manglende udfoldning af lungevæv
+- **Typer:**
+  1. **Resorptionsatelektase:**
+     - Obstruktion af luftvej
+     - Luft resorberes distalt for obstruktion
+  
+  2. **Kompressionsatelektase:**
+     - Ydre tryk på lungen
+     - Fx pleuraexsudat, tumor
+  
+  3. **Mikroatelektaser:**
+     - Manglende dybe vejrtrækninger
+     - Ses ved immobilisation
+     - Post-operativt
+
+- **Betydning for fysioterapeuter:**
+  - Vigtig komplikation at forebygge
+  - Mobilisering essentielt
+  - PEP-fløjte effektiv behandling
+  - Lejring og respirationsøvelser vigtige
+
+  ## Thoraxsygdomme
+
+### Pneumothorax
+- Luft i pleurahulen → sammenfald af lunge
+- **Patofysiologiske konsekvenser:**
+ 1. **Direkte effekter:**
+    - Nedsat ventileret lungevolumen
+    - Forskydning af mediastinum
+    - Kompression af modsidige lunge
+ 
+ 2. **Ved trykpneumothorax:**
+    - Envejsventil → progressiv trykstigning
+    - Påvirkning af venøst tilbageløb
+    - Kan føre til obstruktivt shock
+
+#### Klassifikation
+1. **Spontan pneumothorax:**
+  - Primær: Unge, høje, slanke mænd
+  - Sekundær: Ved lungesygdom (fx KOL)
+  - Patogenese:
+    - Ruptur af subpleurale blebs
+    - Øget risiko ved visse bindevævssygdomme
+    - Forværres af rygning/hash
+
+2. **Traumatisk pneumothorax:**
+  - Direkte traume → pleuralæsion
+  - Penetrerende traumer
+  - Costafrakturer med lungepunktur
+  
+3. **Trykpneumothorax (tensionspneumothorax):**
+  - Akut livstruende tilstand
+  - Patofysiologi:
+    - Envejsventil → luft kan komme ind men ikke ud
+    - Progressiv trykstigning
+    - Mediastinal forskydning
+    - Kompression af v. cava → nedsat cardiac output
+  - Kræver akut dekompression med nål
+
+### Mediastinitis
+- Alvorlig infektion i mediastinum
+- **Ætiologi:**
+ 1. **Post-operativ:**
+    - Efter hjertekirurgi/øsofaguskirurgi
+    - Ofte stafylokokker
+    - Kan føre til sternuminsufficiens
+ 
+ 2. **Descenderende nekrotiserende mediastinitis:**
+    - Spredning fra oropharyngeal infektion
+    - Høj mortalitet
+    - Kræver aggressiv kirurgisk intervention
+
+- **Klinisk billede:**
+ - Svær påvirket patient
+ - Thorakale smerter
+ - Dyspnø
+ - Ofte septisk
+ - Synkebesvær
+ - Subkutant emfysem
+
+## Brystsygdomme
+
+### Brystkræft - uddybende patofysiologi
+
+#### Spredningsveje
+1. **Lymfogen spredning:**
+  - Følger anatomiske lymfebaner
+  - Primært til aksil
+  - Betydning for sentinel node procedure
+  - Kan også sprede sig til:
+    - Supraklavikulære lymfeknuder
+    - Mammaria interna lymfeknuder
+    - Kontralaterale aksilknuder
+
+2. **Hæmatogen spredning:**
+  - Hyppigste lokalisationer:
+    - Knogler (særligt columna)
+    - Lunger
+    - Lever
+    - Hjerne
+  - Kan give spredning mange år efter primær behandling
+
+#### Molekylære subtyper
+- Har betydning for behandling og prognose:
+ 1. **Hormonreceptor positive:**
+    - Responderer på anti-hormonal behandling
+    - Bedre prognose
+    - Kan recidivere sent
+ 
+ 2. **HER2 positive:**
+    - Targeteret behandling mulig
+    - Tidligere dårlig prognose, nu bedre
+ 
+ 3. **Triple negative:**
+    - Ingen targeteret behandling
+    - Dårligere prognose
+    - Recidiverer ofte tidligt
+
+#### Rehabilitering efter brystkræft
+- **Fysiske udfordringer:**
+ - Nedsat skuldermobilitet
+ - Lymfødem
+ - Arvævsstramning
+ - Nedsat muskelstyrke
+ - Fatigue
+
+- **Træningsmæssige hensyn:**
+ 1. **Akut fase:**
+    - Gradvis mobilisering af skulder
+    - Forebyggelse af lymfødem
+    - Let konditionstræning
+ 
+ 2. **Senere fase:**
+    - Progressiv styrketræning mulig
+    - Kun symptombegrænsning
+    - Fokus på funktion
+    - Forebyggelse af inaktivitet
+
+    ### Kirurgiske principper ved brystkræft
+
+#### Brystbevarende kirurgi (lumpektomi)
+- **Indikationer:**
+ - Tumor < 4-5 cm
+ - Favorabelt forhold mellem tumorstørrelse og bryststørrelse
+ - Ikke multifokal sygdom
+ - Patient ønske
+
+- **Teknik:**
+ 1. **Tumorfjernelse:**
+    - Resektion med sikkerhedsafstand
+    - Markering af kaviteten med clips
+    - Orientering af præparat
+ 
+ 2. **Onkoplastik:**
+    - Rekonstruktion af defekten
+    - Bevare brystets form
+    - Symmetri med modsidige bryst
+
+- **Fordele:**
+ - Kosmetisk resultat
+ - Mindre indgreb
+ - Hurtigere rekonvalescens
+ 
+- **Ulemper:**
+ - Behov for strålebehandling
+ - Risiko for re-resektion
+ - Risiko for lokalt recidiv
+
+#### Mastektomi
+- **Indikationer:**
+ - Store tumorer
+ - Multifokal sygdom
+ - Tidligere strålebehandling
+ - Inflammatorisk cancer
+ - Patient ønske
+
+- **Varianter:**
+ 1. **Simpel mastektomi:**
+    - Fjernelse af hele brystkirtlen
+    - Bevarer pectoralismuskulaturen
+ 
+ 2. **Modificeret radikal mastektomi:**
+    - Inkluderer aksildissektion
+    - Standard ved aksilmetastaser
+ 
+ 3. **Skin-sparing mastektomi:**
+    - Bevarer huden
+    - Muliggør direkte rekonstruktion
+    - Kræver særlige onkologiske kriterier
+
+#### Aksilkirurgi
+- **Sentinel node procedure:**
+ - Identificerer første drænerende lymfeknude
+ - Radioaktiv markør + blåfarve
+ - Hvis negativ → ingen yderligere kirurgi
+ 
+- **Aksildissektion:**
+ - Fjernelse af niveau I+II lymfeknuder
+ - Øget risiko for:
+   - Lymfødem
+   - Nerveskade
+   - Nedsat skulderfunktion
+
+### Thoraxdeformiteter og lungefunktion
+
+#### Pectus excavatum
+- **Anatomiske forhold:**
+ 1. **Kardiopulmonale påvirkninger:**
+    - Kompression af højre ventrikel
+    - Nedsat cardiac output ved belastning
+    - Restriktivt lungefunktionsmønster
+ 
+ 2. **Biomekaniske konsekvenser:**
+    - Ændret thoraxmekanik
+    - Påvirket respirationsmuskulatur
+    - Ofte associeret skoliose
+
+- **Funktionelle konsekvenser:**
+ - Nedsat udholdenhed
+ - Dyspnø ved anstrengelse
+ - Trykken i brystet
+ - Palpitationer
+
+#### Pectus carinatum
+- **Anatomiske forhold:**
+ - Fremstående sternum
+ - Normal intratorakal volumen
+ - Sjældnere kardiel påvirkning
+
+- **Biomekaniske aspekter:**
+ 1. **Respiratorisk:**
+    - Normal lungefunktion
+    - Kan give thorakale smerter
+    - Påvirket vejrtrækningsmønster
+ 
+ 2. **Muskuloskeletalt:**
+    - Kompensatorisk holdning
+    - Thorakal hyperkyfose
+    - Cervikale spændinger
+
+#### Behandlingsmæssige overvejelser
+1. **Konservativ behandling:**
+  - Fysioterapi fokuseret på:
+    - Holdningskorrektion
+    - Styrke af thorakal muskulatur
+    - Optimering af vejrtrækning
+    - Udspænding af forkortede strukturer
+
+2. **Kirurgisk behandling:**
+  - **Indikationer:**
+    - Svær funktionel påvirkning
+    - Dokumenteret kardiopulmonal påvirkning
+    - Betydelig psykosocial påvirkning
+  
+
+3. **Postoperativ rehabilitering:**
+  - Gradvis mobilisering
+  - Respiratoriske øvelser
+  - Holdningskorrektion
+  - Smertehåndtering
+  - Aktivitetstilpasning

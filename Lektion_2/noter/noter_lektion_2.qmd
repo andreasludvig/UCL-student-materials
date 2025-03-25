@@ -1,0 +1,1083 @@
+---
+title: "Lektion 2: Karsygdomme og hjertesygdomme"
+format:
+    html:
+        embed-resources: true
+        toc: true
+        toc-location: left
+    pdf:
+        toc: true
+    docx: default
+---
+
+# Karsygdomme og hjertesygdomme
+
+## 1. Arteriesygdomme
+
+### 1.1 Dyslipidæmi
+
+#### Definition
+- Samlebetegnelse for lipidforstyrrelser i blodet
+
+#### Typer af lipider
+- Triglycerid
+- Total kolesterol
+- LDL (Low-Density Lipoprotein) - "den lede"
+- HDL (High-Density Lipoprotein) - "den herlige"
+
+#### Diagnostik
+- Grænser for skæve værdier afhænger af øvrige sygdomme og patientens risikoprofil
+
+#### Symptomer
+- Oftest asymptomatisk
+- Nogle patienter kan have kolesterolaflejringer på kroppen (xantomer)
+
+#### Behandling
+- Kostomlægning
+- RYGESTOP!
+- Statiner (kolesterolsænkende medicin)
+
+#### Risikofaktorer
+- Modificerbare:
+  - Rygning
+  - Inaktivitet
+  - Fed kost
+  - Hypertension
+  - Diabetes
+  - Adipositas
+- Ikke-modificerbare:
+  - Genetik
+  - Køn (mandligt køn har højere risiko)
+  - Alder
+
+#### Behandlingsmål
+- Høj risiko = mere intensiv behandling
+- Patienter med følgende bør behandles til LDL < 1,4 mmol/L:
+  - Tidligere blodprop
+  - Sukkersyge
+  - Hjertesygdom
+- Hyperkolesterolæmi er vigtigst at behandle
+- Årsager primært kost og genetik
+
+### 1.2 Åreforkalkning (Aterosklerose)
+
+#### Definition
+- Kronisk inflammatorisk tilstand i arterievæggen
+- Fører til fortykkelse og forsnævring af arterier
+
+#### Epidemiologi
+- Hyppigste arteriesygdom i Danmark
+- En af de hyppigste dødsårsager
+
+#### Patofysiologi
+- Akkumulering af lipider, især LDL, i arterievæggen
+- Inflammation og dannelse af aterosklerotiske plak
+- Plakruptur kan føre til trombedannelse
+
+#### Kliniske manifestationer
+- Symptomer og behandling afhænger af det afficerede område
+- Kan ramme:
+  - Koronararterier (iskæmisk hjertesygdom)
+  - Cerebrale arterier (apopleksi)
+  - Perifere arterier (perifer arteriel sygdom)
+
+#### Risikofaktorer
+- Samme som for dyslipidæmi
+- Høj alder er en væsentlig risikofactor
+
+#### Behandling
+- Fokus på risikofaktorreduktion
+- Medicinsk behandling (statiner, blodfortyndende)
+- Eventuelt kirurgisk intervention ved svær forsnævring
+
+### 1.3 Perifer arteriesygdom i underekstremiteter (Kronisk iskæmi)
+
+#### Definition
+- Gradvis nedsættelse af blodforsyningen til ekstremiteterne
+- Skyldes åreforkalkning i de perifere arterier
+
+#### Patofysiologi
+- Forsnævring eller tillukning af arterie medfører vævsiskæmi
+- Kollateraler kan delvis kompensere og mindske symptomer
+- Hastigheden af iskæmiudvikling afhænger af antal kollateraler
+
+#### Klassifikation
+- Stadie 1: Asymptomatisk
+- Stadie 2: Claudicatio intermittens
+- Stadie 3-4: Kritisk iskæmi
+
+#### Symptomer
+1. Claudicatio intermittens (vindueskiggersyndrom)
+   - Funktionssmerter
+   - Smerter lokaliseret til lægmusklerne
+   - Opstår under gang
+   - Svinder i hvile
+   - Erektil dysfunktion kan forekomme
+
+2. Hvilesmerter (Kritisk iskæmi)
+   - Især om natten
+   - Lindres ved at hænge foden ud over sengekanten
+   - Tæerne kan have sår
+   - Erektil dysfunktion
+
+#### Objektiv undersøgelse
+- Look, feel, move, test
+- Inspektion:
+  - Bleghed
+  - Evt. cyanose
+  - Sår
+  - Nekrose
+  - Nedsat behåring
+- Palpation:
+  - Nedsat muskelfylde
+  - Evt. kulde
+  - Svag/ingen puls
+  - Nedsat kapillærrespons
+- Test:
+  - Elevationstest: Benløft kan udløse smerter
+  - "Lividitet" (ligblegt ben) ved elevation = tryk < 30mmHg = Kritisk
+
+#### Parakliniske undersøgelser
+- Arteriografi
+- CT- eller MR-angiografi
+- Bruges til at finde udbredelse af okklusion
+- Giver information om behandlingsmuligheder
+
+#### Behandling
+1. Risikofaktorreduktion
+   - Rygestop
+   - Gangtræning (30 min. dagligt i 3 måneder kan øge gangdistance med 150%)
+   - Kostomlægning
+   - Vægtreduktion
+2. Sekundær profylakse
+   - Blodpladehæmmer (Hjertemagnyl)
+   - Kolesterolsænkende (statin)
+   - Regulering af evt. diabetes og hypertension
+3. Invasive behandlinger
+   - Sårbehandling
+   - Trombendarterektomi (TEA)
+   - Ballonudvidelse
+   - Bypass
+   - Amputation (sidste udvej)
+
+#### Prognose
+- Afhænger af sværhedsgrad og komorbiditet
+- Risiko for progression til kritisk iskæmi
+- Øget risiko for kardiovaskulære hændelser
+
+### 1.4 Akut arteriel iskæmi
+
+#### Definition
+- Pludselig afbrydelse af blodforsyning til en ekstremitet
+
+#### Årsager
+1. Trombose
+   - Ofte i et i forvejen åreforkalket kar
+2. Emboli
+   - Blodprop fra et andet sted i kroppen
+3. Arterietraume
+   - Luksation, kontusion, fraktur
+
+#### Symptomer ("5 x P")
+- Pain (smerte)
+- Pallor (bleghed)
+- Pulselessness (manglende puls)
+- Paresthesia (føleforstyrrelser)
+- Paralysis (lammelse)
+
+#### Kliniske fund
+- Det afficerede område bliver koldt, blegt og stift
+- Senere i forløbet kredsløbspåvirkning grundet toksiner fra det iskæmiske område
+
+#### Behandling
+- Akut revaskularisering, evt. forudgået af blodfortyndende behandling
+- Trombolyse ved friske blodpropper
+- Embolektomi i lokalbedøvelse
+- Karkirurgisk rekonstruktion med bypass hvis nødvendigt
+
+#### Prognose
+- Afhænger af hurtig diagnose og behandling
+- Risiko for reperfusionsskade efter revaskularisering
+
+### 1.5 Reynaud's syndrom
+
+#### Definition
+- Anfald af fingeriskæmi
+
+#### Udløsende faktorer
+- Kulde
+- Emotionelt stress
+- Rygning
+
+#### Patofysiologi
+- Arterierne til fingrene kontraheres maksimalt (hvide fingre) grundet karspasme
+- Spasmen aftager, og iltet blod strømmer ud i et fuldt dilateret område (blå-cyanotiske fingre)
+- Når spasmen er helt væk, kommer der postiskæmisk hyperæmi (røde fingre)
+
+#### Epidemiologi
+- Rammer oftest kvinder
+
+#### Diagnose
+- Kan stilles på anamnesen
+
+#### Behandling
+- Undgå kulde, tobak og brug af vibrationsværktøj
+- Varme handsker
+- Rygestop
+- Vasodilaterende behandling kan overvejes
+
+#### Prognose
+- Oftest ufarligt, men kan være meget generende for patienten
+
+### 1.6 Aortaaneurisme
+
+#### Definition
+- Udposning på aorta
+
+#### Typer
+- Abdominalt (80%)
+- Thorakalt (20%)
+
+#### Epidemiologi
+- Mere hyppigt med alderen
+- Mere hyppigt hos folk med åreforkalkning
+
+#### Symptomer
+- Som udgangspunkt asymptomatiske
+- Kan klemme på omkringliggende organer
+
+#### Diagnostik
+- Opdages ofte tilfældigt ved palpation af maven eller ved billeddiagnostisk undersøgelse
+- Screening tilbydes ved familiær disposition
+
+#### Komplikationer
+- Ruptur er den alvorligste komplikation
+- Risiko for ruptur afhænger af aneurismets størrelse:
+  - < 4 cm: < 1% per år
+  - 5-6 cm: 3-5% per år
+  - ≥ 6 cm: ≥ 10% per år
+
+#### Behandling
+- Operation når risikoen for ruptur overstiger risikoen ved operation
+- Åben kirurgi med klemmer på begge sider af aneurismet og indsættelse af graft
+- Endovaskulært, hvor man går ind med kateter og placerer stent
+
+#### Prognose
+- Ruptur uden operation har tæt på 100% mortalitet
+- Operation ved rumperet aneurisme har 30-50% mortalitet
+
+### 1.7 Aortadissektion
+
+#### Definition
+- Rift i det inderste lag i aortavæggen, hvor blod kan komme ind og bevæge sig mellem lagene
+
+#### Patofysiologi
+- Dannelse af et falsk lumen i aortavæggen
+
+#### Symptomer
+- Akutte brystsmerter
+- Ofte udstråling til ryg, mellem skulderbladene, op i kæben eller ud i armene
+
+#### Diagnostik
+- CT-angiografi
+- Ekkokardiografi
+
+#### Klassifikation
+- Type A: Involverer aorta ascendens
+- Type B: Involverer kun aorta descendens
+
+#### Behandling
+- Afhænger af typen (A eller B)
+- Altid operation ved type A
+- Type B kan ofte behandles medicinsk
+
+#### Prognose
+- Alvorlig tilstand med høj dødelighed
+- Bedre prognose ved hurtig diagnostik og behandling
+
+### 1.8 Carotisstenose
+
+#### Definition
+- Forsnævring af a. carotis interna (oftest)
+
+#### Patofysiologi
+- Kronisk nedsat blodforsyning til hjernen
+- Hyppig årsag til apoplexi og TIA/TCI
+
+#### Diagnose
+- Ultralyd af halspulsårer
+
+#### Behandling
+- Operation (trombendarektomi)
+- Stent
+- Blodfortyndende/pladehæmmer profylaktisk
+
+#### Prognose
+- Øget risiko for apopleksi uden behandling
+- God prognose ved rettidig behandling
+
+## 2. Venesygdomme
+
+### 2.1 Oversigt over venesystemet i underekstremiteterne
+
+- Dybe vener (drænerer 90% af blodet)
+- Perforanter
+- Overfladiske vener
+- Tilbageløbet er afhængigt af veneklapperne
+
+### 2.2 Venøs insufficiens
+
+#### Definition
+- Nedsat evne til at transportere blod tilbage til hjertet
+
+#### Årsager
+- Primær: Medfødt svaghed i venerne
+- Sekundær: Efter DVT, traume, eller operation
+
+#### Symptomer
+- Tyngdefornemmelse i benene
+- Hævelse (ødem)
+- Smerter
+- Hudforandringer
+
+#### Komplikationer
+- Varicer (åreknuder)
+- Venøse sår
+
+#### Diagnostik
+- Klinisk undersøgelse
+- Doppler ultralyd
+
+#### Behandling
+- Kompressionsbehandling
+- Elevation af benene
+- Evt. kirurgisk behandling af varicer
+
+### 2.3 Varicer
+
+#### Definition
+- Udposninger af de overfladiske vener som følge af insufficiente veneklapper
+
+#### Epidemiologi
+- Halvdelen af den voksne befolkning har varicer
+- Hyppigst hos kvinder
+- Hyppighed stiger med alderen
+
+#### Patofysiologi
+- Svigt i veneklapper fører til tilbageløb af blod og udposning af venen
+
+#### Diagnostik
+- Ultralyd og Doppler
+
+#### Behandling
+- Kompressionsbehandling (obs arteriel insufficiens)
+- Skleroterapi (injektion af trombosefremkaldende stof i små varicer)
+- Kirurgi (ligatur af saphenofemoralt indløb) – sjældent!
+
+### 2.4 Dyb venøs trombose (DVT)
+
+#### Definition
+- Trombose i de dybe vener i bækkenet eller benet
+
+#### Patofysiologi
+- Opstår ofte ved stagnation i blodgennemstrømning
+
+#### Risikofaktorer
+- Immobilisering, paralyse, lange flyrejser
+- Postoperativt, traume
+- Dehydrering
+- Infektion
+- Maligne og autoimmune sygdomme
+- Hjertesvigt
+- Overvægt
+- Alder
+- Venesygdomme
+- Genetik (Faktor V Leiden mutation)
+- Medicin (p-piller)
+- Graviditet, post partum
+
+#### Symptomer
+- Spændt, hævet, varmt og ømt ben
+- Feber kan forekomme
+
+#### Diagnostik
+- Blodprøve (d-dimer er god til at udelukke)
+- Ultralyd
+- Wells' score til risikostratificering
+
+#### Behandling
+- Antikoagulerende medicin i 3-6 måneder
+- Trombolyse benyttes kun til svære tilfælde
+
+#### Komplikationer
+- Lungeemboli
+- Post-trombotisk syndrom
+
+### 2.5 Differentialdiagnoser til DVT
+
+- Trombophlebit
+- Erysipelas
+- Bakers cyste
+- Lymfødem
+- Staseeksem
+- Ødem ved fx hjerteinsufficiens
+- Fibersprængning
+
+## 3. Lymfesygdomme
+
+### 3.1 Lymfødem
+
+#### Definition
+- Kronisk lidelse skyldes en defekt lymfedrænage
+
+#### Årsager
+- Ofte opstået efter infektion, kirurgi eller stråleterapi
+
+#### Symptomer
+- Ligner ethvert andet ødem
+- Starter deklivt
+- Forværres op af dagen
+- Lindres ved elevation
+- Over tid kan huden fortykkes
+
+#### Komplikationer
+- Øget risiko for udvikling af erysipelas
+- Erysipelas øger igen risikoen for lymfødem
+
+#### Behandling
+- Elevation
+- Kompression
+- Hudpleje
+- Diuretika (vanddrivende) har begrænset effekt
+- Regelmæssig fysisk aktivitet er gavnlig
+- Specialiserede fysioterapeuter kan behandle lymfødem
+
+## 4. Hjertesygdomme
+
+### 4.1 Diagnostik af hjertesygdomme
+
+#### Anamnese
+- Symptombeskrivelse
+- Risikofaktorer
+- Familiehistorie
+
+#### Objektiv undersøgelse
+- Inspektion
+- Palpation
+- Perkussion
+- Auskultation (stetoskopi)
+
+#### Paraklinik
+- Billeddiagnostik
+  - Røntgen thorax
+  - Hjerte CT
+  - Koronararteriografi (KAG)
+  - Ekkokardiografi (EKKO)
+- Blodprøver
+  - Troponin T (TNT)
+- EKG
+- Telemetri/Holter-monitorering
+
+### 4.2 EKG (Elektrokardiogram)
+
+#### Beskrivelse
+- Grafisk fremstilling af hjertets elektriske aktivitet
+
+#### Komponenter
+- P-tak: Atrieaktivering
+- QRS-kompleks: Ventrikelaktivering
+- T-tak: Ventrikelrepolarisering
+
+#### Klinisk anvendelse
+- Diagnosticering af arytmier
+- Identifikation af iskæmi/infarkt
+- Vurdering af elektrolytforstyrrelser
+
+### 4.3 Ekkokardiografi
+
+#### Beskrivelse
+- Ultralydsundersøgelse af hjertet
+
+#### Typer
+- Transthorakal
+- Transøsofageal
+
+#### Anvendelse
+- Vurdering af hjertets pumpefunktion
+- Identifikation af hypertrofi
+- Vurdering af klap-patologi (stenoser, insufficienser)
+
+#### Bemærkning
+- Kræver specialiseret uddannelse at udføre og fortolke
+
+### 4.4 Røntgen thorax
+
+#### Beskrivelse
+- Røntgenbillede af brystkassen
+
+#### Anvendelse
+- Vurdering af hjertets størrelse
+- Identifikation af fremmedlegemer
+- Vurdering af lungestase
+- Diagnosticering af lungesygdomme
+- Vurdering af knoglestatus
+
+### 4.5 Hjerte CT
+
+#### Beskrivelse
+- Computertomografi af hjertet
+
+#### Anvendelse
+- Vurdering af strukturel hjertesygdom
+- Undersøgelse af koronarkar
+- Mere detaljeret end EKKO og røntgen
+
+### 4.6 KAG (Koronararteriografi)
+
+#### Beskrivelse
+- Invasiv undersøgelse af koronararterierne
+
+#### Procedure
+- Kateter føres ind via a. femoralis eller a. radialis
+- Kontrast injiceres for at visualisere koronararterierne
+
+#### Anvendelse
+- Diagnosticering af koronararteriestenose
+- Vurdering af behov for revaskularisering (PCI eller CABG)
+
+### 4.7 Hypertension (Forhøjet blodtryk)
+
+#### Definition
+- Vedvarende forhøjet blodtryk ≥140/90 mmHg
+
+#### Epidemiologi
+- Rammer ca. 10-20% af den danske befolkning
+- Prævalensen stiger med alderen
+
+#### Risikofaktorer
+- Alder
+- Højt saltindtag
+- Stress
+- Lav fysisk aktivitet
+- Uhensigtsmæssig kost
+- Overvægt
+- Tobak
+- Alkoholoverforbrug
+- Genetik
+
+#### Symptomer
+- Oftest asymptomatisk
+
+#### Komplikationer ved ubehandlet hypertension
+- Iskæmisk hjertesygdom
+- Nyresvigt
+- Hjertesvigt
+- Demens
+- Hjerneblødning
+- Blindhed
+
+#### Behandling
+- KRAM-faktorer (Kost, Rygning, Alkohol, Motion)
+- Medicinsk behandling (VVS-princippet)
+  - A – ACE-hæmmer/ATII-antagonist: Optimerer "rørsystemet" (RAAS)
+  - B – Betablokker: Svækker pumpen
+  - C – Calciumkanalblokker: Udvider rørene
+  - D – Diuretika (thiazid): Tapper vand af systemet
+
+### 4.8 Iskæmisk hjertesygdom
+
+#### Definition
+- Mismatch mellem ilttilbud og iltbehov i hjertemuskulaturen
+
+#### Epidemiologi
+- Hyppigste dødsårsag i verden
+- Hyppigste medicinske diagnose i Danmark
+- Ansvarlig for cirka 1/3 dødsfald i Danmark
+
+#### Risikofaktorer
+- Rygning
+- Hypertension
+- Dyslipidæmi
+- Diabetes
+- Overvægt
+- Fysisk inaktivitet
+- Stress
+- Alder
+- Køn (mænd har højere risiko)
+- Arvelig disposition
+
+#### Typer
+1. Stabil angina pectoris
+2. Akut koronart syndrom (AKS)
+   - Ustabil angina pectoris (UAP)
+   - NSTEMI (Non-ST-elevations myokardieinfarkt)
+   - STEMI (ST-elevations myokardieinfarkt)
+
+#### Stabil angina pectoris
+
+##### Symptomer
+- Anstrengelsesudløste trykkende smerter bag sternum
+- Evt. udstråling til ryg, kæbe, hals, venstre arm
+- Kan ledsages af åndenød
+- Smerterne er ikke stillings-, respirations- eller bevægeafhængige
+- Nitroglycerin og hvile vil lindre smerterne
+
+##### Diagnostik
+- EKG i hvile oftest normalt
+- EKKO oftest normal
+- KAG og/eller hjerte-CT ofte med forkalkninger/stenoser
+
+##### Behandling
+- Risikoreduktion
+- Trombocythæmmende behandling
+- Antianginøs behandling
+- Revaskularisering hvis muligt (PCI eller CABG)
+
+#### Akut koronart syndrom (AKS)
+
+##### Karakteristika
+- Vedvarende iskæmisymptomer
+- EKG-forandringer og/eller forhøjede koronarenzymer
+- Svinder IKKE ved hvile eller nitroglycerin
+
+##### STEMI
+- Karakteristiske EKG-forandringer (ST-elevationer)
+- Forhøjede koronarenzymer
+- Kræver akut revaskularisering (primær PCI)
+
+##### NSTEMI og UAP
+- EKG-forandringer (ST-depression eller inverterede T-takker)
+- Ofte dynamisk EKG afhængig af, om der er smerter eller ej
+- Koronarenzymer kan være forhøjede
+- Bør også revaskulariseres, men ikke akut (subakut)
+
+##### Behandling af AKS
+- Specialistopgave
+- Akut revaskularisering ved STEMI
+- Medicinsk behandling og risikostratificering ved NSTEMI/UAP
+
+### 4.9 Hjertesvigt
+
+#### Definition
+- Nedsat minutvolumen (cardiac output) pga. strukturel eller funktionel hjertesygdom
+
+#### Epidemiologi
+- Ca. 8000 nye tilfælde årligt i Danmark
+
+#### Ætiologi
+- Hyppigst iskæmisk hjertesygdom
+- Andre årsager: hypertension, arytmier, hjerteklapsygdomme, kardiomyopatier, toksiske årsager
+
+#### Klassifikation
+- Akut vs. kronisk
+- Højresidigt vs. venstresidigt
+- Systolisk vs. diastolisk dysfunktion
+
+#### Symptomer
+- Åndenød (dyspnø)
+  - Først ved anstrengelse, senere i hvile
+- Fysisk træthed
+- Deklive ødemer
+
+#### Kliniske fund
+- Hævede ben
+- Lungestase eller pleuraeffusion
+- Ascites
+- Halsvenestase
+- Evt. cyanose omkring læber og fingre
+
+#### Diagnostik
+- Ekkokardiografi (vurdering af EF - normal EF er ca. 60%)
+- KAG og hjerte-CT (afklaring af evt. iskæmisk årsag)
+
+#### Behandling
+- Fjernelse af den udløsende årsag
+- KRAM (inkl. væske- og saltrestriktion)
+- Medicinsk behandling afhængig af NYHA-klasse
+
+#### Prognose
+- Generelt dårlig - 1-årsmortalitet op mod 60% hos de mest syge
+- Afhænger af symptombyrden (NYHA-klasse)
+- Fysisk træning forbedrer prognosen hos alle!
+
+#### Komplikationer
+- Lungeødem (akut venstresidigt hjertesvigt)
+  - Inddeles i højtryks- og lavtrykslungeødem afhængig af BT
+  - Symptomer: åndenød, våd hoste, trykken for brystet, kvælningsfornemmelse
+  - Behandling: ilttilskud, morfin, vanddrivende, nitroglycerin
+
+### 4.10 Atrieflimren (AFLI)
+
+#### Definition
+- Uregelmæssig elektrisk aktivitet i atrierne, der fører til ukoordineret kontraktion
+
+#### Epidemiologi
+- Hyppigste arytmi
+- Prævalens stiger med alderen
+
+#### Risikofaktorer
+- Mandligt køn
+- Alder
+- Hjertesygdom
+- Hypertension
+- Diabetes
+- Hyperthyreoidisme
+- Alkoholoverforbrug
+- Infektion
+
+#### Symptomer
+- Kan være asymptomatisk
+- Hjertebanken
+- Trykken i brystet
+- Svimmelhed
+- Åndenød
+- Træthed
+
+#### Diagnostik
+- EKG (ingen p-takker, uregelmæssig rytme)
+- Holter-monitorering
+
+#### Klassifikation
+- Paroxystisk: Kortvarige, selvlimiterende anfald
+- Persisterende: Længerevarende anfald, kræver konvertering
+- Permanent: Vedvarende trods behandlingsforsøg
+
+#### Behandling
+- DC konvertering
+- Ablation
+- Rytmestabiliserende medicin
+- Frekvensregulerende medicin
+- Antikoagulerende behandling
+
+#### Komplikationer
+- Tromboembolier, især apopleksi
+
+### 4.11 Hjerteklapsygdomme
+
+#### Oversigt
+- Kan ramme alle fire hjerteklapper (oftest mitral og aorta)
+- Manifesterer sig som stenose eller insufficiens
+- Ca. 2000 akutte indlæggelser årligt
+- Prævalensen stiger med alderen
+- Ca. 1700 operationer årligt, aortaklapstenose hyppigst (75%)
+
+#### Diagnostik
+- Primært ved ekkokardiografi
+
+#### Aortaklapstenose
+
+##### Patofysiologi
+- Forsnævring af aortaklappen
+- Medfører øget tryk/belastning på venstre ventrikel → hypertrofi → iskæmi/fibrose
+- Giver diastolisk dysfunktion pga. nedsat eftergivelighed
+
+##### Årsager
+- Degeneration/forkalkning
+- Hypertension
+- Hyperkolesterolæmi
+- Rygning
+- Diabetes
+
+##### Symptomer
+- Dyspnø
+- Brystsmerter
+- Synkoper
+- Kan føre til hjertesvigt hvis ubehandlet
+
+##### Diagnose
+- Ekkokardiografi
+- EKG kan vise tegn på hypertrofi og belastning
+
+##### Behandling
+- Klapkirurgi, oftest kateterbaseret (TAVI)
+- Åben kirurgi i sjældnere tilfælde
+
+#### Mitralinsufficiens
+
+##### Definition
+- Utæt mitralklap
+
+##### Patofysiologi
+- Giver både tryk- og volumenbelastning af venstre atrium og volumenbelastning af venstre ventrikel
+
+##### Epidemiologi
+- Næsthyppigste hjerteklaplidelse efter aortaklapstenose
+
+##### Årsager
+- AMI med papilærmuskelruptur
+- Hypertrofi af venstre ventrikel
+- Endokarditis
+- Degenerative forandringer
+
+##### Klassifikation
+- Primær: Selve klappen er strukturelt forandret
+- Sekundær: Ændringer i omkringliggende væv
+
+##### Symptomer
+- Afhænger af sværhedsgrad og eventuel tilgrundliggende lidelse
+- Oftest symptomer på hjertesvigt med åndenød og ødemer
+- Brystsmerter og arytmier kan forekomme
+
+##### Diagnose
+- Ekkokardiografi
+- EKG kan vise prominerende topuklet P-tak ("P-mitrale")
+
+##### Behandling
+- Oftest åben operation hvis muligt
+- Hjertesvigtsymptomer behandles efter de kendte principper
+
+### 4.12 Endokarditis
+
+#### Definition
+- Infektion i en hjerteklap
+
+#### Patofysiologi
+- Kan medføre klapdestruktion og septiske embolier
+
+#### Epidemiologi
+- Incidensen er stigende i Danmark
+
+#### Risikofaktorer
+- Høj alder
+- Hjerteklapfejl
+- Klapproteser
+- Diabetes
+- i.v. misbrug
+- Dårlig tandstatus
+
+#### Årsager
+- Infektiøst agens, som er kommet ind i kroppen og ikke er blevet behandlet i tide
+- Alle fremmedlegemer øger risikoen for bakteriæmi og dermed endokarditis
+
+#### Symptomer
+- Typisk uspecifikke (feber, almen utilpashed, træthed, nattesved, nedsat appetit, vægttab)
+
+#### Diagnostik
+- Ekkokardiografi
+- Bloddyrkning (positiv hos over 90%)
+
+#### Behandling
+- Sanering af primært fokus for infektionen
+- Langvarig antibiotisk behandling (4-6 uger)
+- Evt. kirurgi hvis en klap er gået til grunde eller ved særligt svær infektion
+
+#### Prognose
+- Ubehandlet er sygdommen dødelig i næsten alle tilfælde
+- Selv med behandling er mortaliteten betydelig
+
+### 4.13 Perikarditis
+
+#### Definition
+- Inflammatorisk tilstand i perikardiet (hjertesækken)
+
+#### Anatomi
+- Perikardiet er et ueftergiveligt hulrum på få mm omkring hjertet
+
+#### Patofysiologi
+- Hvis perikardiet fyldes, vil hjertets størrelse skulle mindskes
+
+#### Epidemiologi
+- Cirka 200 tilfælde om året, men er sandsynligvis underdiagnosticeret
+- Hyppigst hos yngre mænd
+
+#### Årsager
+- Typisk svær at finde
+- Kan skyldes virus, cancer, bakterier, autoimmun sygdom
+
+#### Symptomer
+- Brystsmerter, som kan forværres ved dyb inspiration og rygleje
+- Dyspnø kan forekomme
+
+#### Diagnostik
+- EKG med karakteristiske "hængekøje"-forandringer
+- Ekkokardiografi
+
+#### Behandling
+- NSAID
+- Acetylsalicylsyre
+- Eventuelt Colchicin
+
+#### Prognose
+- De fleste tilfælde er selvlimiterende
+
+## 5. Hjerterehabilitering
+
+### 5.1 Formål med hjerterehabilitering
+- Genetablere det normale liv
+- Sikre det bedst mulige fysiske, psykiske og sociale liv for personer ramt af hjertesygdom
+- Reducere frygt for fysisk aktivitet
+- Reducere sygelighed og dødelighed
+
+### 5.2 Målgruppe
+- Patienter med iskæmisk hjertesygdom
+- Patienter med hjertesvigt
+- Hjerteklapopererede
+
+### 5.3 Deltagelse
+- Omkring 50-80% af patienter med iskæmisk hjertesygdom eller hjertesvigt vil være egnede til hjerterehabilitering
+- Af disse vil 50-80% deltage vedholdende
+
+### 5.4 Komponenter i hjerterehabilitering
+- Tværfaglig indsats med læge, sygeplejerske, fysioterapeut, diætist samt andre faggrupper ved behov (psykolog, socialrådgiver, præst)
+- Fysisk træning udgør grundelementet i rehabiliteringsindsatsen
+- Forløbet tilrettelægges individuelt for den enkelte patient
+
+### 5.5 Kontraindikationer og forholdsregler
+Relative kontraindikationer:
+- >1.8 kg vægtøgning over 1-3 dage
+- Fald i systolisk BT ved belastning (arbejdstest)
+- NYHA IV
+- Kompleks ventrikulær arytmi i hvile eller ved belastning (arbejdstest)
+- Hjertefrekvens i hvile >100
+
+Absolutte kontraindikationer:
+- Forværring i funktionsdyspnø eller nyopstået hviledyspnø over 3-5 dage
+- Signifikant iskæmi ved lav belastning
+- Akut sygdom eller feber
+- Nylig tromboemboli
+- Aktiv perikarditis eller myokarditis
+- Moderat/svær aortastenose
+- Operationskrævende klapinsufficiens
+- AMI indenfor 1 uge
+- Nyopstået atrieflimren
+
+## 6. Opsummering og kliniske perspektiver
+
+### 6.1 Hovedpunkter
+- Karsygdomme og hjertesygdomme er blandt de hyppigste årsager til morbiditet og mortalitet
+- Risikofaktorer er ofte modificerbare, hvilket understreger vigtigheden af forebyggelse og livsstilsændringer
+- Korrekt og hurtig diagnostik er afgørende for prognosen ved mange hjerte-kar-sygdomme
+- Behandlingen er ofte multifacetteret og kræver en tværfaglig indsats
+
+### 6.2 Fysioterapeutens rolle
+- Vurdering af funktionsniveau og tilrettelæggelse af træningsprogrammer
+- Deltagelse i hjerterehabilitering
+- Vejledning i livsstilsændringer, særligt fysisk aktivitet
+- Monitorering af patientens symptomer og fremgang
+- Tidlig opsporing af komplikationer eller forværring
+
+### 6.3 Fremtidsperspektiver
+- Øget fokus på individualiseret behandling og rehabilitering
+- Udvikling af nye non-invasive diagnostiske metoder
+- Forbedrede kirurgiske og interventionelle teknikker
+- Øget brug af telemedicin og hjemmemonitorering
+
+## 7. Kliniske cases til diskussion
+
+### Case 1: Stabil angina pectoris
+En 65-årig mand henvender sig med brystsmerter ved anstrengelse. Smerterne letter i hvile og ved brug af nitroglycerin. Hvad er den sandsynlige diagnose, og hvordan vil du som fysioterapeut håndtere denne patient?
+
+Sandsynlig diagnose: Stabil angina pectoris
+
+Håndtering som fysioterapeut:
+1. Sikre at patienten er udredt og i behandling hos kardiolog
+2. Vurdere patientens funktionsniveau og smertetærskel
+3. Udarbejde et individuelt tilpasset træningsprogram med fokus på gradvis øgning af belastning
+4. Undervise i brug af Borg-skala til at monitorere anstrengelse
+5. Informere om vigtigheden af at have nitroglycerin tilgængeligt under træning
+6. Vejlede i livsstilsændringer (kost, rygning, stress)
+7. Monitorere for eventuelle forværringer i symptomer
+
+### Case 2: Akut myokardieinfarkt
+En 55-årig kvinde oplever pludselige, kraftige brystsmerter i hvile, ledsaget af kvalme og koldsved. Hvad er de umiddelbare handlinger, og hvad er fysioterapeutens rolle i den efterfølgende rehabilitering?
+
+Umiddelbare handlinger:
+1. Ring 112 og aktiver akutberedskabet
+2. Få patienten til at sidde eller ligge i en behagelig position
+3. Giv 300 mg acetylsalicylsyre, hvis tilgængeligt
+4. Vær klar til at starte HLR, hvis patienten bliver bevidstløs
+
+Fysioterapeutens rolle i efterfølgende rehabilitering:
+1. Vurdere patientens funktionsniveau efter udskrivelse
+2. Starte tidlig mobilisering under indlæggelsen
+3. Udarbejde et skånsomt, progressivt træningsprogram
+4. Undervise i gradvis genoptagelse af daglige aktiviteter
+5. Vejlede i håndtering af angst og frygt for nye anfald
+6. Deltage i tværfagligt team omkring hjerterehabiliteringen
+7. Monitorere for eventuelle komplikationer eller tilbagefald
+
+### Case 3: Hjertesvigt
+En 70-årig mand med kendt hjertesvigt oplever tiltagende åndenød og hævede ben. Hvordan vil du som fysioterapeut vurdere hans tilstand, og hvilke overvejelser gør du dig i forhold til træning?
+
+Vurdering af tilstand som fysioterapeut:
+1. Observere graden af dyspnø (brug af MRC-skala)
+2. Vurdere omfanget af perifere ødemer
+3. Måle saturation og puls i hvile og ved let aktivitet
+4. Udføre gangtest (f.eks. 6-minutters gangtest) hvis muligt
+5. Vurdere ADL-funktioner og grad af træthed
+
+Overvejelser i forhold til træning:
+1. Afstemme træningsintensitet med patientens NYHA-klasse
+2. Starte med kortvarige, hyppige træningssessioner
+3. Fokusere på både konditions- og styrketræning
+4. Inkludere respirationsøvelser og evt. PEP-fløjte
+5. Monitorere vægt og symptomer for at opdage evt. forværring
+6. Være opmærksom på kontraindikationer for træning (f.eks. nylig vægtøgning)
+7. Samarbejde tæt med kardiolog og justere program efter behov
+
+## 8. Refleksionsspørgsmål
+
+1. Hvordan kan fysioterapeuter bidrage til forebyggelse af hjerte-kar-sygdomme i primærsektoren?
+   - Tilbyde sundhedsfremmende aktiviteter i lokalsamfundet
+   - Vejlede i livsstilsændringer, særligt omkring fysisk aktivitet
+   - Screene for risikofaktorer og henvise til læge ved bekymrende fund
+   - Samarbejde med praktiserende læger om forebyggende indsatser
+   - Deltage i kommunale sundhedsprogrammer
+
+2. Hvilke særlige hensyn skal tages ved træning af patienter med atrieflimren?
+   - Fokusere på stabil puls under aktivitet
+   - Bruge Borg-skala til at styre intensitet
+   - Være opmærksom på tegn på overbelastning (svimmelhed, åndenød)
+   - Sikre god hydrering før, under og efter træning
+   - Tilpasse træningen til eventuel antikoagulationsbehandling
+   - Undervise i pulsmåling og symptomgenkendelse
+
+3. Diskuter fordele og ulemper ved forskellige former for hjerterehabilitering (hospital-baseret vs. hjemme-baseret).
+   Hospital-baseret:
+   Fordele:
+   - Tæt monitorering og hurtig adgang til specialister
+   - Mulighed for avanceret udstyr og tests
+   - Tryghed for patienten i kontrollerede omgivelser
+   Ulemper:
+   - Kan være ressourcekrævende for sundhedsvæsenet
+   - Potentielt besværligt for patienten at møde op
+   - Risiko for afhængighed af sundhedspersonale
+
+   Hjemme-baseret:
+   Fordele:
+   - Fleksibilitet for patienten
+   - Integration i dagligdagen
+   - Potentielt bedre langtidsadhærens
+   Ulemper:
+   - Mindre direkte supervision
+   - Kræver selvdisciplin fra patienten
+   - Begrænset adgang til specialudstyr
+
+4. Hvordan kan man som fysioterapeut bedst håndtere en patient, der er angst for at genoptage fysisk aktivitet efter et hjerteinfarkt?
+   - Anerkende patientens frygt og bekymringer
+   - Grundig information om hjertets tilstand og sikkerhed ved træning
+   - Starte med meget lav intensitet og gradvis progression
+   - Bruge objektive målinger (puls, blodtryk) til at vise sikker belastning
+   - Inddrage pårørende i rehabiliteringsprocessen
+   - Overveje henvisning til psykolog ved svær angst
+   - Bruge peer-support fra andre hjertepatienter
+
+5. Hvilken betydning har tværfagligt samarbejde i behandlingen og rehabiliteringen af hjerte-kar-patienter, og hvordan kan dette optimeres?
+   - Sikrer helhedsorienteret behandling og rehabilitering
+   - Giver patienten adgang til forskellige ekspertiser
+   - Forbedrer kommunikation mellem forskellige sundhedsprofessionelle
+   - Kan reducere risikoen for fejl og misforståelser
+   - Optimerer ressourceudnyttelsen i sundhedsvæsenet
+
+   Optimering kan ske gennem:
+   - Regelmæssige tværfaglige konferencer
+   - Fælles elektroniske journalsystemer
+   - Klare ansvarsfordelinger og kommunikationsveje
+   - Fælles uddannelsesprogrammer for forskellige faggrupper
+   - Patientinddragelse i det tværfaglige team
+
+
+   SPørgsmål fra de studerend:
+   A og B aortadissektion? Spørg på its learning
+   Dræne dekllive ødemer? Næppe. 
+   Andre?

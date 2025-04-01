@@ -1,0 +1,596 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 2: Karsygdomme"
+author: "Andreas Svendsen"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1 De lette
+**Hvilken type åreforkalkning i benene giver typisk smerter ved gang, som forsvinder efter få minutters hvile?**
+
+A) Akut arteriel insufficiens  
+B) Kronisk venøs insufficiens  
+C) Claudicatio intermittens  
+D) Kritisk iskæmi  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:** 
+- KORREKT - C) Claudicatio intermittens:
+   - Meget hyppig tilstand hos ældre
+   - Skyldes åreforkalkning i benets arterier
+   - Karakteristisk er smerter ved gang som letter i hvile
+   - Smerterne kommer ved samme gangdistance
+
+- FORKERT - A) Akut arteriel insufficiens:
+   - Giver pludselige, konstante smerter
+   - Kræver akut behandling
+   - Letter ikke ved hvile
+
+- FORKERT - B) Kronisk venøs insufficiens:
+   - Giver primært hævelse
+   - Forværres gennem dagen
+   - Bedres ved elevation
+
+- FORKERT - D) Kritisk iskæmi:
+   - Giver konstante hvilesmerter
+   - Ofte natlige smerter
+   - Kan have sår/nekrose
+
+## Spørgsmål 2
+**Hvilke af følgende symptomer er de vigtigste at reagere på hos en patient med kendt aortaaneurisme?**
+
+A) Let feber og træthed  
+B) Pludselige stærke smerter i maven eller brystet  
+C) Gradvist tiltagende rygsmerter  
+D) Kvalme og appetitløshed  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Pludselige stærke smerter:
+   - Kan være tegn på ruptur
+   - Potentielt livstruende tilstand
+   - Kræver akut indlæggelse
+   - Ubehandlet = næsten 100% mortalitet
+
+- FORKERT - A) Let feber og træthed:
+   - Uspecifikke symptomer
+   - Ikke relateret til aneurisme
+   - Ikke akut faretruende
+
+- FORKERT - C) Gradvist tiltagende rygsmerter:
+   - For langsom udvikling til ruptur
+   - Mere typisk for muskuloskeletale problemer
+
+- FORKERT - D) Kvalme og appetitløshed:
+   - Uspecifikke symptomer
+   - Ikke karakteristiske for aneurisme
+
+## Spørgsmål 3
+**En patient fortæller, at hendes fingre bliver hvide og følelsesløse når hun er ude i kulden. Hvad kaldes denne tilstand?**
+
+A) Arthritis  
+B) Karpaltunnelsyndrom  
+C) Reynauds syndrom  
+D) Akut arteriel insufficiens  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Reynauds syndrom:
+   - Karakteristisk med hvide, følelsesløse fingre
+   - Udløses af kulde eller stress
+   - Rammer oftest kvinder
+   - Kan være ufarligt eller sekundært til anden sygdom
+
+- FORKERT - A) Arthritis:
+   - Giver ledsmerter og hævelse
+   - Ikke specielt kuldefølsom
+   - Påvirker ikke blodforsyningen
+
+- FORKERT - B) Karpaltunnelsyndrom:
+   - Nerveafklemning
+   - Natlige symptomer
+   - Ikke specielt kuldefølsom
+
+- FORKERT - D) Akut arteriel insufficiens:
+   - Mere alvorlig tilstand
+   - Konstante symptomer
+   - Rammer sjældent fingre isoleret
+
+[Fortsat fra tidligere...]
+
+## Spørgsmål 4
+**Hvilke symptomer er typiske ved dyb venetrombose (DVT) i benet?**
+
+A) Følelsesløshed og prikken  
+B) Hævelse, varme, ømhed og rødme  
+C) Kramper ved gang  
+D) Koldt og blegt ben  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Hævelse, varme, ømhed og rødme:
+   - Klassiske inflammationstegn
+   - Typisk ensidig
+   - Ofte lægømhed
+   - Væsentligt symptom da DVT kan føre til lungeemboli
+
+- FORKERT - A) Følelsesløshed og prikken:
+   - Mere typisk for nervepåvirkning
+   - Ikke karakteristisk for DVT
+
+- FORKERT - C) Kramper ved gang:
+   - Mere typisk for claudicatio
+   - DVT giver konstante symptomer
+
+- FORKERT - D) Koldt og blegt ben:
+   - Typisk for arteriel insufficiens
+   - DVT giver varmt, rødt ben
+
+## Spørgsmål 5
+**Hvad er den vigtigste risikofaktor for udvikling af åreforkalkning?**
+
+A) Alder  
+B) Køn  
+C) Rygning  
+D) Højde  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Rygning:
+   - Stærkeste modificerbare risikofaktor
+   - Påvirker både kar og blod negativt
+   - Rygestop reducerer risikoen markant
+   - Vigtig faktor fysioterapeuter kan påvirke
+
+- FORKERT - A) Alder:
+   - Er en risikofaktor men kan ikke modificeres
+   - Naturlig del af aldring
+
+- FORKERT - B) Køn:
+   - Er en risikofaktor men kan ikke modificeres
+   - Mænd har højere risiko
+
+- FORKERT - D) Højde:
+   - Ikke en risikofaktor for åreforkalkning
+   - Ingen dokumenteret sammenhæng
+
+## Spørgsmål 6
+**Hvilke patienter har øget risiko for at udvikle DVT?**
+
+A) Unge aktive personer  
+B) Personer der lige er begyndt at løbetræne  
+C) Immobiliserede patienter efter operation  
+D) Personer der cykler meget  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Immobiliserede patienter:
+   - Nedsat venøs tilbageløb
+   - Øget koagulationstendens postoperativt
+   - Væsentlig komplikation at forebygge
+   - Fysioterapeuter spiller vigtig rolle i forebyggelsen
+
+- FORKERT - A, B, D):
+   - Fysisk aktivitet beskytter mod DVT
+   - Motion fremmer venøst tilbageløb
+   - Aktiv livsstil reducerer risikoen
+
+## Spørgsmål 7
+**Hvilken af følgende er IKKE en typisk manifestation af venøs insufficiens?**
+
+A) Ødemer der forværres i løbet af dagen  
+B) Smerter ved gang som letter i hvile  
+C) Varicer  
+D) Hudforandringer omkring anklen  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Smerter ved gang som letter i hvile:
+   - Dette er symptom på arteriel insufficiens
+   - Typisk claudicatio intermittens
+   - Ikke karakteristisk for venøse problemer
+
+- FORKERT - A, C, D):
+   - Alle er typiske tegn på kronisk venøs insufficiens
+   - Forværres gennem dagen pga. tyngdekraft
+   - Kan føre til kroniske hudforandringer
+
+## Spørgsmål 8
+**Ved mistanke om kritisk iskæmi, hvilket symptom er vigtigst?**
+
+A) Let nedsat gangdistance  
+B) Hvilesmerter eller sår  
+C) Forbigående natlige kramper  
+D) Lette ødemer  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Hvilesmerter eller sår:
+   - Definerer kritisk iskæmi
+   - Kræver akut handling
+   - Risiko for amputation hvis ubehandlet
+   - Ofte natlige smerter der lindres ved at hænge benet ud af sengen
+
+- FORKERT - A, C, D):
+   - Mindre alvorlige symptomer
+   - Ikke definerende for kritisk iskæmi
+   - Kræver ikke akut handling
+
+## Spørgsmål 9
+**Hvad er den typiske lokalisation for et abdominalt aortaaneurisme?**
+
+A) Over nyrearteriene  
+B) Under nyrearteriene  
+C) Ved aortabuen  
+D) I lysken  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Under nyrearteriene:
+   - Hyppigste lokalisation (80%)
+   - Kan ofte palperes ved klinisk undersøgelse
+   - Vigtigt at kende da det kan være asymptomatisk
+   - Screeningsprogram for risikogrupper
+
+- FORKERT - A, C, D):
+   - Sjældnere lokalisationer
+   - Forskellige symptomer og behandling
+   - Anden prognose
+
+## Spørgsmål 10
+**Hvilken behandling er vigtigst ved varicer?**
+
+A) Operation med fjernelse af insufficient vene  
+B) Smertestillende medicin  
+C) Antibiotika  
+D) Sengeleje  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+- KORREKT - A) Operation:
+   - Fjerner årsagen til problemet
+   - Mest effektive langsigtede behandling
+   - Kan ofte foregå ambulant
+   - Skal vurderes individuelt
+
+- FORKERT - B) Smertestillende:
+   - Kun symptomatisk behandling
+   - Løser ikke grundproblemet
+   - Kan maskere forværring
+
+- FORKERT - C) Antibiotika:
+   - Ingen indikation ved ukomplicerede varicer
+   - Kun ved komplikationer med infektion
+
+- FORKERT - D) Sengeleje:
+   - Kan forværre tilstanden
+   - Øger risiko for komplikationer
+   - Mobilisering er vigtig
+
+
+## Spørgsmål 1
+**En 72-årig mand kommer til fysioterapi efter en hofteoperation for 3 dage siden. Han har fået ensidig hævelse og rødme af læggen, som er øm ved palpation. Hvad er hans risikofaktorer for DVT?**
+
+A) Kun immobilisation  
+B) Kun operationen  
+C) Kun alderen  
+D) Alle ovenstående  
+
+---
+
+**Korrekt svar:** D
+
+**Forklaring:**
+- KORREKT - D) Alle faktorer:
+   - Alder >60 år øger risikoen betydeligt
+   - Operation øger koagulationstendens
+   - Immobilisation hæmmer venøst tilbageløb
+   - Kombinationen af faktorer øger risikoen markant
+   - Kræver akut lægehenvisning ved mistanke
+
+- FORKERT - A, B, C:
+   - Enkeltfaktorer alene giver ikke hele risikobilledet
+   - Ved multiple risikofaktorer stiger risikoen eksponentielt
+   - Vigtigt at vurdere samlet risikoprofil
+
+## Spørgsmål 2
+**En patient med kronisk claudicatio intermittens har pludselig fået forværring med konstante hvilesmerter i benet og et lille sår på storetåen der ikke vil hele. Hvad er det vigtigste at undersøge?**
+
+A) Om der er tegn på infektion i såret  
+B) Om der er tegn på kritisk iskæmi  
+C) Patientens gangdistance  
+D) Om der er varicer  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Tegn på kritisk iskæmi:
+   - Akut forværring kræver hurtig handling
+   - Hvilesmerter + sår = kritisk iskæmi indtil andet er bevist
+   - Risiko for amputation hvis ikke behandlet
+   - Kræver akut karkirurgisk vurdering
+
+- FORKERT - A) Infektion:
+   - Sekundært problem
+   - Ikke hovedårsagen til symptomerne
+   - Kan være komplikation til iskæmi
+
+- FORKERT - C) Gangdistance:
+   - Ikke relevant ved hvilesmerter
+   - Patient er forbi claudicatio-stadiet
+
+- FORKERT - D) Varicer:
+   - Ikke relevant for akutte arterielle symptomer
+   - Anden patofysiologi
+
+## Spørgsmål 3
+**En 65-årig kvinde får pludselige, kraftige brystsmerter med udstråling til ryggen. Hun er bleg, klamsvedende og virker konfus. BT er 85/60 i højre arm og 145/95 i venstre arm. Hvilken diagnose er mest sandsynlig?**
+
+A) Akut myokardieinfarkt  
+B) Aortadissektion  
+C) Lungeemboli  
+D) Pneumothorax  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Aortadissektion:
+   - BT-forskel mellem armene er karakteristisk
+   - Pludselige, kraftige smerter med rygudstråling
+   - Lavt BT kan indikere shock
+   - Akut livstruende tilstand der kræver 112
+
+- FORKERT - A) Akut myokardieinfarkt:
+   - Giver ikke typisk BT-forskel mellem armene
+   - Sjældnere rygudstråling
+   - Anden smertekarakter
+
+- FORKERT - C) Lungeemboli:
+   - Domineres af åndenød
+   - Giver ikke BT-forskel
+   - Anden symptomprofil
+
+- FORKERT - D) Pneumothorax:
+   - Giver ikke BT-forskel
+   - Mere lokaliserede smerter
+   - Typisk unilateral thoraxsmerte
+
+## Spørgsmål 4
+**En 45-årig mand har udviklet 5P'er i højre underben efter et traume. Hvilke af disse 5P'er indikerer den dårligste prognose?**
+
+A) Pain og Pallor  
+B) Pulselessness og Paresthesia  
+C) Paralysis og Pulselessness  
+D) Pallor og Paresthesia  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Paralysis og Pulselessness:
+   - Paralysis indikerer nerveiskæmi
+   - Kombineret med manglende puls = svær iskæmi
+   - Kræver akut revaskularisering
+   - Risiko for permanent vævsskade
+
+- FORKERT - A, B, D:
+   - Mindre alvorlige kombinationer
+   - Bedre prognose
+   - Længere "tidsvindue" for behandling
+
+## Spørgsmål 5
+**En patient med kendt arteriel insufficiens kommer til genoptræning. Under træning udvikler patienten stærke smerter i læggen. Hvilken handling er mest korrekt?**
+
+A) Fortsætte træningen da smerte er forventeligt  
+B) Stoppe ved VAS 5 og holde pause  
+C) Afbryde træningen helt  
+D) Øge intensiteten for at forbedre cirkulationen  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Stoppe ved VAS 5:
+   - Følger retningslinjer for claudicatio-træning
+   - Sikrer træningseffekt uden vævsskade
+   - Balancerer mellem forbedring og overbelastning
+   - Dokumenteret effektiv tilgang
+
+- FORKERT - A) Fortsætte:
+   - Risiko for vævsskade
+   - Kan forværre tilstanden
+
+- FORKERT - C) Afbryde helt:
+   - For forsigtig tilgang
+   - Mister træningseffekt
+
+- FORKERT - D) Øge intensitet:
+   - Risiko for vævsskade
+   - Kan provokere kritisk iskæmi
+
+## Spørgsmål 6
+**En patient med gennemgået DVT for 2 måneder siden har udviklet tiltagende tyngdefornemmelse og hævelse i benet. Hvad er den mest sandsynlige årsag?**
+
+A) Ny akut DVT  
+B) Posttrombotisk syndrom  
+C) Lymfødem  
+D) Arteriel insufficiens  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Posttrombotisk syndrom:
+   - Hyppig komplikation efter DVT
+   - Skyldes veneklapsdestruktion
+   - Kroniske symptomer
+   - Vigtig at forebygge med kompression
+
+- FORKERT - A) Ny DVT:
+   - Mere akut debut
+   - Anden symptomprofil
+   - Mere smertefuldt
+
+- FORKERT - C) Lymfødem:
+   - Sjældnere
+   - Anden årsag
+   - Anden behandling
+
+- FORKERT - D) Arteriel insufficiens:
+   - Anden symptomprofil
+   - Ikke typisk med hævelse
+
+## Spørgsmål 7
+**En patient udvikler akut åndenød og brystsmerter 3 dage efter en større operation. Hvilken komplikation skal især mistænkes?**
+
+A) Pneumoni  
+B) Hjertesvigt  
+C) Lungeemboli  
+D) Angina pectoris  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Lungeemboli:
+   - Timing typisk (3-5 dage postoperativt)
+   - Klassiske symptomer
+   - Kendt komplikation efter operation
+   - Kræver akut handling
+
+- FORKERT - A) Pneumoni:
+   - Udvikles typisk mere gradvist
+   - Ofte ledsaget af feber
+   - Anden symptomprofil
+
+- FORKERT - B) Hjertesvigt:
+   - Mere gradvis udvikling
+   - Andre ledsagesymptomer
+   - Mindre sandsynlig akut postoperativt
+
+- FORKERT - D) Angina pectoris:
+   - Typisk udløst af anstrengelse
+   - Anden karakter af smerter
+   - Mindre sandsynlig i konteksten
+
+## Spørgsmål 8
+**En patient med DVT skal starte genoptræning. Hvilke af følgende udsagn er korrekt?**
+
+A) Al træning er kontraindiceret første måned  
+B) Kun vandtræning er tilladt  
+C) Gradvis mobilisering med kompression er anbefalet  
+D) Kun overkropstræning er tilladt  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Gradvis mobilisering:
+   - Evidensbaseret tilgang
+   - Forebygger posttrombotisk syndrom
+   - Kompression essentiel
+   - Sikker ved korrekt AK-behandling
+
+- FORKERT - A, B, D:
+   - For restriktive
+   - Ikke evidensbaseret
+   - Kan øge risiko for komplikationer
+
+## Spørgsmål 9
+**En 55-årig overvægtig mand med type 2 diabetes klager over tiltagende natlige lægkramper og kolde fødder. Hvilken undersøgelse er vigtigst?**
+
+A) Venøs insufficiens screening  
+B) Arteriel status inkl. doppler  
+C) Neurologisk undersøgelse  
+D) Blodprøver  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Arteriel status:
+   - Diabetes øger risiko for arteriel insufficiens
+   - Kan være asymptomatisk længe
+   - Vigtig for forebyggelse af fodsår
+   - Doppler giver objektiv vurdering
+
+- FORKERT - A, C, D:
+   - Mindre relevante i første omgang
+   - Kan være supplerende undersøgelser
+   - Mindre akut behov
+
+## Spørgsmål 10
+**En patient med claudicatio intermittens har deltaget i superviseret gangtræning i 3 måneder uden effekt. Hvad er næste skridt?**
+
+A) Intensivere træningen  
+B) Henvise til karkirurgisk vurdering  
+C) Skifte til styrketræning  
+D) Afslutte behandling  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Karkirurgisk vurdering:
+   - Manglende effekt af konservativ behandling
+   - Kan indikere progression
+   - Behov for revurdering af behandlingsstrategi
+   - Muligt behov for intervention
+
+- FORKERT - A) Intensivere:
+   - Ikke evidens for bedre effekt
+   - Kan øge risiko
+   - Har allerede prøvet i 3 måneder
+
+- FORKERT - C) Styrketræning:
+   - Ikke dokumenteret bedre effekt
+   - Anden træningsform løser ikke problemet
+
+- FORKERT - D) Afslutte:
+   - For passiv tilgang
+   - Risiko for progression
+   - Mangler plan

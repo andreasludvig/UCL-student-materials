@@ -1,0 +1,210 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 2: Karsygdomme og hjertesygdomme"
+author: "Andreas Svendsen"
+format: revealjs
+---
+
+# Lette Spørgsmål
+
+## Spørgsmål 1
+**Hvilken af følgende er IKKE en modificerbar risikofaktor for åreforkalkning?**
+
+A) Rygning  
+B) Hypertension  
+C) Alder  
+D) Fysisk inaktivitet
+
+---
+
+## Spørgsmål 2
+**Hvad er den mest almindelige årsag til aortaaneurisme?**
+
+A) Infektion  
+B) Traume  
+C) Åreforkalkning  
+D) Medfødt defekt
+
+---
+
+## Spørgsmål 3
+**Hvilket symptom er mest karakteristisk for dyb venetrombose (DVT)?**
+
+A) Brystsmerter  
+B) Hævelse og ømhed i benet  
+C) Hovedpine  
+D) Mavesmerter
+
+---
+
+## Spørgsmål 4
+**Hvad er den primære behandling for de fleste patienter med atrieflimren?**
+
+A) Pacemaker  
+B) Antikoagulation  
+C) Bypass-operation  
+D) Ballonudvidelse
+
+---
+
+## Spørgsmål 5
+**Hvilket af følgende er et typisk symptom på stabil angina pectoris?**
+
+A) Konstante brystsmerter  
+B) Brystsmerter der forværres ved hvile  
+C) Anstrengelsesudløste brystsmerter der letter ved hvile  
+D) Pludselige, skarpe smerter i ryggen
+
+---
+
+## Spørgsmål 6
+**Hvad er den mest almindelige årsag til hjertesvigt?**
+
+A) Medfødte hjertefejl  
+B) Virusinfektioner  
+C) Iskæmisk hjertesygdom  
+D) Alkoholmisbrug
+
+---
+
+## Spørgsmål 7
+**Hvilken undersøgelse bruges primært til at diagnosticere klapsygdomme i hjertet?**
+
+A) EKG  
+B) Røntgen af thorax  
+C) Ekkokardiografi  
+D) Blodprøver
+
+---
+
+## Spørgsmål 8
+**Hvad er det typiske mønster for smerter ved claudicatio intermittens?**
+
+A) Konstante smerter i benene  
+B) Smerter der opstår ved gang og forsvinder ved hvile  
+C) Natlige kramper i benene  
+D) Smerter der forværres ved elevation af benene
+
+---
+
+## Spørgsmål 9
+**Hvilken af følgende er IKKE en del af behandlingen af hypertension?**
+
+A) ACE-hæmmere  
+B) Betablokkere  
+C) Antikoagulantia  
+D) Livsstilsændringer
+
+---
+
+## Spørgsmål 10
+**Hvad er den primære årsag til udvikling af åreforkalkning?**
+
+A) Bakteriel infektion  
+B) Ophobning af kolesterol i karvæggen  
+C) Vitamin D-mangel  
+D) Overdreven motion
+
+---
+
+# Avancerede Spørgsmål
+
+## Spørgsmål 1
+**En 65-årig mand præsenterer sig med pludselig indsættende, kraftige brystsmerter med udstråling til ryggen. Han er bleg, klamsvedende og har et blodtryk på 90/60 mmHg. Hvad er den mest sandsynlige diagnose?**
+
+A) Akut myokardieinfarkt  
+B) Aortadissektion  
+C) Lungeemboli  
+D) Pneumothorax
+
+---
+
+## Spørgsmål 2
+**Hvilken kombination af symptomer er mest indikativ for kritisk iskæmi i underekstremiteterne?**
+
+A) Claudicatio og normal hudfarve  
+B) Hvilesmerter og kolde ekstremiteter  
+C) Ødemer og varme ekstremiteter  
+D) Intermitterende smerter og normal puls
+
+---
+
+## Spørgsmål 3
+**En patient med atrieflimren har en CHA2DS2-VASc score på 4. Hvad er den anbefalede behandling?**
+
+A) Ingen behandling nødvendig  
+B) Acetylsalicylsyre  
+C) Oral antikoagulation  
+D) Betablokker
+
+---
+
+## Spørgsmål 4
+**Hvilken af følgende er den mest alvorlige komplikation til carotisstenose?**
+
+A) Myokardieinfarkt  
+B) Iskæmisk apopleksi  
+C) Nyreinsufficiens  
+D) Perifær arteriel sygdom
+
+---
+
+## Spørgsmål 5
+**En patient med kendt hjerteinsufficiens præsenterer sig med akut forværring af dyspnø, rallelyde ved lungeauskultation og perifere ødemer. Hvilket af følgende tiltag bør prioriteres højest i den akutte behandling?**
+
+A) Øgning af ACE-hæmmer dosis  
+B) Administration af intravenøs diuretika  
+C) Opstart af antibiotika  
+D) Anlæggelse af PEG-sonde
+
+---
+
+## Spørgsmål 6
+**Hvilken mekanisme er primært ansvarlig for symptomerne ved aortaklapstenose?**
+
+A) Reduceret fyldning af venstre ventrikel  
+B) Øget afterload på venstre ventrikel  
+C) Reduceret kontraktilitet af højre ventrikel  
+D) Øget preload på højre atrium
+
+---
+
+## Spørgsmål 7
+**En patient udvikler pludselig unilateral benhævelse, rødme og ømhed 5 dage efter en større abdominal operation. Hvilken diagnostisk test bør udføres først?**
+
+A) D-dimer blodprøve  
+B) Venografi  
+C) Arteriografi  
+D) Ekkokardiografi
+
+---
+
+## Spørgsmål 8
+**Hvilken fysiologisk mekanisme er primært ansvarlig for den positive effekt af ACE-hæmmere ved hjertesvigt?**
+
+A) Øget natrium-udskillelse i nyrerne  
+B) Reduktion af afterload og remodellering af hjertet  
+C) Øget hjertefrekvens  
+D) Forbedret iltoptagelse i lungerne
+
+---
+
+## Spørgsmål 9
+**En patient med stabil angina pectoris oplever øget frekvens og sværhedsgrad af symptomer over de seneste 2 uger. Hvilken behandlingsændring bør overvejes først?**
+
+A) Øget dosis af langtidsvirkende nitrater  
+B) Tilføjelse af en calciumantagonist  
+C) Akut koronar angiografi  
+D) Opstart af antikoagulerende behandling
+
+---
+
+## Spørgsmål 10
+**Hvilken patofysiologisk mekanisme er primært ansvarlig for udviklingen af shock ved akut, massiv lungeemboli?**
+
+A) Systemisk vasodilatation  
+B) Akut højresidig hjertesvigt  
+C) Venstre ventrikel dysfunktion  
+D) Svær bradykardi
+
+---

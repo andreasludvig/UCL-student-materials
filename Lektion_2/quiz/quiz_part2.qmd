@@ -1,0 +1,402 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 2: Hjertesygdomme"
+author: "Andreas Svendsen"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+**Hvilke symptomer er karakteristiske for stabil angina pectoris?**
+
+A) Konstante brystsmerter  
+B) Brystsmerter ved hvile  
+C) Anstrengelsesudløste brystsmerter der letter ved hvile/nitroglycerin  
+D) Brystsmerter der forværres ved vejrtrækning  
+
+---
+
+**Korrekt svar:** C
+
+**Forklaring:**
+- KORREKT - C) Anstrengelsesudløste brystsmerter der letter ved hvile/nitroglycerin:
+   - Typisk varighed 3-5 minutter
+   - Reproducerbar sammenhæng med anstrengelse
+   - Effekt af nitroglycerin inden for få minutter
+   - Indikerer stabil iskæmisk hjertesygdom
+
+- FORKERT - A) Konstante brystsmerter:
+   - Mere typisk for AKS/ustabil angina
+   - Stabil angina er netop karakteriseret ved at komme og gå
+   - Kræver anden udredning/behandling
+
+- FORKERT - B) Brystsmerter ved hvile:
+   - Faresignal - kan indikere ustabil angina eller AKS
+   - Kræver akut vurdering
+   - Ikke karakteristisk for stabil tilstand
+
+- FORKERT - D) Forværring ved vejrtrækning:
+   - Mere typisk for muskuloskeletale smerter eller pleurit
+   - Anden karakter end iskæmiske smerter
+   - Påvirkes af stilling/bevægelse
+
+## Spørgsmål 2
+**Hvilken af følgende er den vigtigste risikofaktor for udvikling af hypertension?**
+
+A) Overvægt og inaktivitet  
+B) For lavt saltindtag  
+C) For højt proteinindtag  
+D) For meget motion  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+- KORREKT - A) Overvægt og inaktivitet:
+   - Stærkeste modificerbare risikofaktorer
+   - Central i forebyggelse og behandling
+   - Kan påvirkes gennem livsstilsændringer
+   - Fysioterapeuter kan spille vigtig rolle
+
+- FORKERT - B) For lavt saltindtag:
+   - Tværtimod øger højt saltindtag risikoen
+   - Del af behandlingen er at reducere salt
+   
+- FORKERT - C) For højt proteinindtag:
+   - Ikke dokumenteret som væsentlig risikofaktor
+   - Normale mængder protein påvirker ikke BT væsentligt
+
+- FORKERT - D) For meget motion:
+   - Motion beskytter mod hypertension
+   - Central del af både forebyggelse og behandling
+
+
+## Spørgsmål 3
+**Hvilke symptomer er typiske for hjertesvigt?**
+
+A) Åndenød, træthed og ødemer  
+B) Feber og hovedpine  
+C) Kvalme og opkastning  
+D) Ledsmerter  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+- KORREKT - A) Åndenød, træthed og ødemer:
+   - Klassisk symptomtriade
+   - Åndenød først ved anstrengelse, senere i hvile
+   - Deklive ødemer pga væskeophobning
+   - Træthed pga nedsat cardiac output
+
+- FORKERT - B, C, D:
+   - Uspecifikke symptomer
+   - Ikke karakteristiske for hjertesvigt
+   - Peger mod andre diagnoser
+
+## Spørgsmål 4
+**Hvad er det vigtigste lægemiddel til forebyggelse af komplikationer ved atrieflimren?**
+
+A) Betablokkere  
+B) Antikoagulation (blodfortyndende)  
+C) Vanddrivende  
+D) Smertestillende  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- KORREKT - B) Antikoagulation:
+   - Forebygger stroke/blodpropper
+   - Livsvigtig behandling
+   - Gives ud fra CHA₂DS₂-VASc score
+   - Vigtig compliance
+
+- FORKERT - A, C, D:
+   - Kan bruges til symptomkontrol
+   - Forebygger ikke tromboemboliske komplikationer
+   - Ikke afgørende for prognosen
+
+
+
+# Sværere spørgsmål
+
+## Spørgsmål 1
+**En patient med kendt atrieflimren oplever pludseligt stærke brystsmerter og åndenød. Hvilken akut komplikation bør mistænkes?**
+
+A) Akut myokardieinfarkt  
+B) Lungeemboli  
+C) Akut hjertesvigt  
+D) Perikarditis  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+- **KORREKT** - B) Lungeemboli:
+   - Atrieflimren øger risikoen for blodpropper, som kan løsne sig og vandre til lungerne, hvor de forårsager en lungeemboli.
+   - Symptomerne kan inkludere pludselig opståede brystsmerter, åndenød og hurtig puls.
+
+- **FORKERT** - A) Akut myokardieinfarkt:
+   - Symptomer på akut myokardieinfarkt kan ligne lungeemboli, men patientens atrieflimren gør lungeemboli mere sandsynligt som komplikation.
+
+- **FORKERT** - C) Akut hjertesvigt:
+   - Hjertesvigt kan udvikle sig langsomt eller akut, men symptomerne på akut forværring adskiller sig fra lungeemboli.
+
+- **FORKERT** - D) Perikarditis:
+   - Perikarditis giver smerter, der typisk lindres ved at sidde foroverbøjet, og ledsages sjældent af så alvorlig åndenød som ved lungeemboli.
+
+---
+
+## Spørgsmål 2
+**Hvilken behandling er indiceret som førstevalg ved livstruende ventrikulær takykardi?**
+
+A) Defibrillering  
+B) Intravenøs amiodaron  
+C) Intravenøs betablokker  
+D) Akut ballonudvidelse (PCI)  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+- **KORREKT** - A) Defibrillering:
+   - Ventrikulær takykardi kan hurtigt føre til hjertestop, og defibrillering er førstevalgsbehandlingen for at genetablere en normal rytme.
+   
+- **FORKERT** - B) Intravenøs amiodaron:
+   - Amiodaron kan anvendes ved stabil ventrikulær takykardi, men i akutte, livstruende situationer er defibrillering den primære behandling.
+
+- **FORKERT** - C) Intravenøs betablokker:
+   - Betablokkere bruges til rytmekontrol, men de har ikke en akut effekt ved livstruende ventrikulær takykardi.
+
+- **FORKERT** - D) Akut ballonudvidelse (PCI):
+   - PCI er behandling for koronararterieblokeringer, men ikke en akut løsning ved ventrikulær takykardi.
+
+
+## Spørgsmål 3
+**Hvilket fund ved auskultation er mest karakteristisk for aortastenose?**
+
+A) Diastolisk mislyd  
+B) Systolisk mislyd  
+C) En klikkelyd ved første hjertetone  
+D) Uregelmæssig rytme med ekstra systoler  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+
+- **KORREKT** - B) Systolisk mislyd:
+   - Aortastenose præsenterer sig typisk med en højfrekvent systolisk mislyd, som høres bedst ved den højre sternalrand.
+   - Denne mislyd er resultatet af turbulent blodgennemstrømning gennem den forsnævrede aortaklap.
+
+- **FORKERT** - A) Diastolisk mislyd:
+   - Diastoliske mislyde er oftest forbundet med andre typer af klapfejl, som fx mitralstenose.
+
+- **FORKERT** - C) En klikkelyd ved første hjertetone:
+   - Klikkelyde ved hjertetoner er mere karakteristiske ved mitralklapprolaps.
+
+- **FORKERT** - D) Uregelmæssig rytme med ekstra systoler:
+   - En uregelmæssig rytme kan være til stede ved atrieflimren eller ventrikulære arytmier, men det er ikke typisk for aortastenose.
+
+---
+
+## Spørgsmål 4
+**Hvilken type medicin bruges ofte som forebyggelse af trombose ved atrieflimren?**
+
+A) ACE-hæmmere  
+B) Antikoagulantia (blodfortyndende)  
+C) Betablokkere  
+D) Statiner  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+
+- **KORREKT** - B) Antikoagulantia (blodfortyndende):
+   - Atrieflimren øger risikoen for dannelse af blodpropper i hjertet, som kan vandre til hjernen og forårsage slagtilfælde. Antikoagulantia som warfarin eller NOAK (fx apixaban) bruges til at reducere denne risiko.
+
+- **FORKERT** - A) ACE-hæmmere:
+   - ACE-hæmmere bruges primært til behandling af forhøjet blodtryk og hjertesvigt, men de har ikke en direkte effekt på tromboserisikoen.
+
+- **FORKERT** - C) Betablokkere:
+   - Betablokkere bruges til at sænke hjertefrekvensen og kontrollere rytmen ved atrieflimren, men de forhindrer ikke blodpropper.
+
+- **FORKERT** - D) Statiner:
+   - Statiner bruges til at sænke kolesterolniveauer og forebygge åreforkalkning, men de forhindrer ikke blodpropper ved atrieflimren.
+
+---
+
+## Spørgsmål 5
+**En patient med svær hjertesvigt udvikler pludselig åndenød og hoste med skummende, lyserødt opspyt. Hvad er den mest sandsynlige årsag?**
+
+A) Lungeemboli  
+B) Akut lungeødem  
+C) Pneumoni  
+D) Akut bronkitis  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+
+- **KORREKT** - B) Akut lungeødem:
+   - Symptomerne på pludselig åndenød og skummende, lyserødt opspyt er klassiske tegn på akut lungeødem, som opstår ved væskeophobning i lungerne som følge af svigt i venstre ventrikel.
+   - Det er en alvorlig og livstruende tilstand, som kræver akut behandling.
+
+- **FORKERT** - A) Lungeemboli:
+   - Lungeemboli giver pludselig åndenød og brystsmerter, men ikke nødvendigvis skummende opspyt.
+
+- **FORKERT** - C) Pneumoni:
+   - Pneumoni giver ofte feber, hoste og purulent opspyt, men skummende, lyserødt opspyt er ikke typisk.
+
+- **FORKERT** - D) Akut bronkitis:
+   - Akut bronkitis er karakteriseret ved hoste og slimproduktion, men er normalt ikke forbundet med hjertesvigt eller skummende opspyt.
+
+---
+
+## Spørgsmål 6
+**Hvilket symptom er mest karakteristisk for mitralklapsinsufficiens?**
+
+A) Åndenød ved anstrengelse  
+B) Hævelse i benene  
+C) Hjertebanken ved hvile  
+D) Pludselig brystsmerte  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+
+- **KORREKT** - A) Åndenød ved anstrengelse:
+   - Mitralklapsinsufficiens fører til regurgitation (tilbagestrømning) af blod fra venstre ventrikel til venstre atrium, hvilket resulterer i lungestase og åndenød, især ved anstrengelse.
+
+- **FORKERT** - B) Hævelse i benene:
+   - Hævelse i benene kan ses ved hjertesvigt generelt, men det er ikke det mest karakteristiske symptom for mitralklapsinsufficiens.
+
+- **FORKERT** - C) Hjertebanken ved hvile:
+   - Hjertebanken kan opstå ved arytmier, men åndenød ved anstrengelse er mere karakteristisk for mitralklapsinsufficiens.
+
+- **FORKERT** - D) Pludselig brystsmerte:
+   - Brystsmerte er mere karakteristisk for akut koronart syndrom, ikke for mitralklapsinsufficiens.
+
+---
+
+## Spørgsmål 7
+**Hvilken af følgende kliniske tilstande øger risikoen for atrieflimren?**
+
+A) Mitralklapsinsufficiens  
+B) Forhøjet kolesterol  
+C) Kronisk bronkitis  
+D) Arteriel hypotension  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+
+- **KORREKT** - A) Mitralklapsinsufficiens:
+   - Mitralklapsinsufficiens fører til forstørrelse af venstre atrium, hvilket øger risikoen for atrieflimren.
+   
+- **FORKERT** - B) Forhøjet kolesterol:
+   - Forhøjet kolesterol øger risikoen for åreforkalkning og hjertekarsygdomme, men ikke direkte for atrieflimren.
+
+- **FORKERT** - C) Kronisk bronkitis:
+   - Kronisk bronkitis er ikke forbundet med en højere risiko for atrieflimren.
+
+- **FORKERT** - D) Arteriel hypotension:
+   - Lavt blodtryk er ikke en typisk årsag til atrieflimren.
+
+---
+
+## Spørgsmål 8
+**Hvilket fund er mest karakteristisk ved akut perikarditis?**
+
+A) Højt blodtryk  
+B) Brystsmerter, som lindres ved at sidde foroverbøjet  
+C) Uregelmæssig puls  
+D) Systolisk mislyd  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+
+- **KORREKT** - B) Brystsmerter, som lindres ved at sidde foroverbøjet:
+   - Ved akut perikarditis er brystsmerterne ofte skarpe og værre ved inspiration. Smerten lindres typisk, når patienten sidder foroverbøjet, hvilket mindsker trykket på perikardiet.
+
+- **FORKERT** - A) Højt blodtryk:
+   - Højt blodtryk er ikke et typisk fund ved perikarditis.
+
+- **FORKERT** - C) Uregelmæssig puls:
+   - Uregelmæssig puls er mere karakteristisk ved atrieflimren.
+
+- **FORKERT** - D) Systolisk mislyd:
+   - En systolisk mislyd er mere forbundet med hjerteklapsygdomme, såsom aortastenose eller mitralinsufficiens.
+
+---
+
+## Spørgsmål 9
+**Hvilket diagnostisk fund kan man forvente ved ekkokardiografi hos en patient med aortastenose?**
+
+A) Udvidelse af højre ventrikel  
+B) Hypertrofi af venstre ventrikel  
+C) Dilation af venstre atrium  
+D) Hypokinesi af venstre ventrikel  
+
+---
+
+**Korrekt svar:** B
+
+**Forklaring:**
+
+- **KORREKT** - B) Hypertrofi af venstre ventrikel:
+   - Aortastenose øger modstanden, som venstre ventrikel skal pumpe imod, hvilket medfører, at musklen bliver tykkere (hypertrofi).
+   
+- **FORKERT** - A) Udvidelse af højre ventrikel:
+   - Dette er ikke et typisk fund ved aortastenose, men kan forekomme ved pulmonal hypertension.
+
+- **FORKERT** - C) Dilation af venstre atrium:
+   - Dilation af venstre atrium ses ved mitralklapsinsufficiens.
+
+- **FORKERT** - D) Hypokinesi af venstre ventrikel:
+   - Hypokinesi (nedsat bevægelighed) kan ses ved hjerteinfarkt, men er ikke typisk ved aortastenose.
+
+---
+
+## Spørgsmål 10
+**Hvad er førstevalgsbehandlingen ved atrieflimren for at forebygge tromboemboliske komplikationer?**
+
+A) Antikoagulantia  
+B) Rytmekontrol med betablokkere  
+C) Kateterablation  
+D) Implantation af pacemaker  
+
+---
+
+**Korrekt svar:** A
+
+**Forklaring:**
+
+- **KORREKT** - A) Antikoagulantia:
+   - Antikoagulantia (blodfortyndende medicin) er førstevalgsbehandling for at reducere risikoen for tromboemboliske komplikationer, såsom slagtilfælde, ved atrieflimren.
+
+- **FORKERT** - B) Rytmekontrol med betablokkere:
+   - Betablokkere bruges til at kontrollere hjertefrekvensen, men de forebygger ikke blodpropper.
+
+- **FORKERT** - C) Kateterablation:
+   - Kateterablation kan anvendes for at korrigere rytmen, men det er ikke førstevalg for at forebygge tromboemboliske k

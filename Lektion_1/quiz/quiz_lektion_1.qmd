@@ -1,0 +1,314 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 1"
+author: "Andreas Svendsen"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+# Lette Spørgsmål
+
+## Spørgsmål 1
+**Hvilken af følgende er IKKE en del af ABCDE-tilgangen til den akutte patient?**
+
+A) Airway  
+B) Breathing  
+C) Circulation  
+D) Diagnosis
+
+---
+
+**Korrekt svar:** D  
+**Forklaring:** ABCDE står for Airway, Breathing, Circulation, Disability, og Exposure/Environment. "Diagnosis" er ikke en del af denne akutte vurderingstilgang.
+
+---
+
+## Spørgsmål 2
+**Hvad er den hyppigste årsag til akut pancreatitis i Danmark?**
+
+A) Galdesten  
+B) Alkohol  
+C) Rygning  
+D) Fedme
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** I Danmark er alkohol den hyppigste årsag til akut pancreatitis, efterfulgt af galdesten. Rygning og fedme er risikofaktorer, men ikke direkte årsager.
+Galdesten også acceptabelt svar jf pensumbogen. 
+
+---
+
+## Spørgsmål 3
+**Hvilken type anæstesi anvendes typisk ved større kirurgiske indgreb, hvor total immobilitet er nødvendig?**
+
+A) Lokal anæstesi  
+B) Regional anæstesi  
+C) Generel anæstesi  
+D) Epidural anæstesi
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Generel anæstesi bruges ved større indgreb, hvor total immobilitet er nødvendig.
+
+---
+
+## Spørgsmål 4
+**Hvad er den primære funktion af triage i en akutmodtagelse?**
+
+A) At behandle patienter  
+B) At prioritere patienter baseret på alvorligheden af deres tilstand  
+C) At udskrive patienter  
+D) At ordinere medicin
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Triage prioriterer patienter baseret på tilstandens alvorlighed.
+
+---
+
+## Spørgsmål 5
+**Hvilken af følgende er en absolut kontraindikation for fysisk træning hos en patient med hjertesygdom?**
+
+A) Stabil angina pectoris  
+B) Velbehandlet hypertension  
+C) Ustabil angina pectoris  
+D) Kompenseret hjertesvigt
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Ustabil angina pectoris kræver øjeblikkelig medicinsk behandling.
+
+---
+
+## Spørgsmål 6
+**Hvad er den korrekte rækkefølge for hjertemassage og indblæsninger ved basal hjerte-lunge-redning (HLR) hos voksne?**
+
+A) 15 kompressioner, 1 indblæsning  
+B) 15 kompressioner, 2 indblæsninger  
+C) 30 kompressioner, 1 indblæsning  
+D) 30 kompressioner, 2 indblæsninger
+
+---
+
+**Korrekt svar:** D  
+**Forklaring:** 30 kompressioner efterfulgt af 2 indblæsninger er korrekt for basal HLR hos voksne.
+**Andet:** Hvad er HLR algoritmen?  
+
+---
+
+## Spørgsmål 7
+**Hvilken af følgende er IKKE en typisk komplikation efter kirurgi?**
+
+A) Blødning  
+B) Infektion  
+C) Dyb venøs trombose  
+D) Forbedret sårheling
+
+---
+
+**Korrekt svar:** D  
+**Forklaring:** Forbedret sårheling er et ønsket resultat, ikke en komplikation.
+
+---
+
+## Spørgsmål 8
+**Hvad er den primære årsag til, at patienter skal faste før en operation med generel anæstesi?**
+
+A) For at reducere postoperativ kvalme  
+B) For at mindske risikoen for aspiration  
+C) For at forbedre virkningen af anæstesimidler  
+D) For at lette kirurgens arbejde
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Faste reducerer risikoen for aspiration under anæstesi.
+
+---
+
+## Spørgsmål 9
+**Hvilken af følgende er IKKE en del af fysioterapeutens rolle i det postoperative forløb?**
+
+A) Tidlig mobilisering  
+B) Respirationsøvelser  
+C) Ordinering af antibiotika  
+D) Forebyggelse af tromboser
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Ordinering af antibiotika er en lægelig opgave.
+
+---
+
+## Spørgsmål 10
+**Hvad er det primære formål med at anvende evidensbaseret praksis i fysioterapi?**
+
+A) At reducere omkostninger  
+B) At øge antallet af behandlinger  
+C) At forbedre patientbehandlingen baseret på den bedste tilgængelige forskning  
+D) At eliminere behovet for klinisk erfaring
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Evidensbaseret praksis integrerer forskning og klinisk ekspertise.
+
+---
+
+# Avancerede Spørgsmål
+
+## Spørgsmål 1
+**Hvilken af følgende kombinationer af symptomer er mest indikativ for sepsis hos en patient med kendt infektion?**
+
+A) Feber, takykardi, normal respirationsfrekvens  
+B) Normal temperatur, bradykardi, takypnø  
+C) Feber, takykardi, takypnø, konfusion  
+D) Hypotermi, normal puls, normal respirationsfrekvens
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Typiske tegn på sepsis inkluderer feber, takykardi, takypnø og konfusion.
+
+---
+
+## Spørgsmål 2
+**En patient udviser tegn på kompartmentsyndrom efter en operation. Hvilken intervention er mest kritisk i den akutte fase?**
+
+A) Antibiotika administration  
+B) Akut fasciotomi  
+C) Intensiv fysioterapi  
+D) Elevation af ekstremiteten
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Akut fasciotomi er den mest kritiske intervention ved kompartmentsyndrom.
+
+---
+
+## Spørgsmål 3
+**Ved mistanke om en dyb venetrombose (DVT) hos en postoperativ patient, hvilken kombination af symptomer og fund er mest specifik?**
+
+A) Bilateral benhævelse og rødme  
+B) Unilateral benhævelse, smerte og positiv Homans tegn  
+C) Generaliseret bensmerter og feber  
+D) Unilateral benhævelse og nedsat puls i foden
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** DVT præsenterer sig typisk med unilateral hævelse, smerte og positiv Homans tegn.
+
+---
+
+## Spørgsmål 4
+**Hvilken type regionalbedøvelse er mest hensigtsmæssig ved en total knæalloplastik, hvis man ønsker at muliggøre tidlig mobilisering?**
+
+A) Generel anæstesi med larynxmaske  
+B) Spinal anæstesi  
+C) Femoral nerveblokade  
+D) Epidural anæstesi
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Femoral nerveblokade giver smertelindring uden at påvirke motorisk funktion, hvilket muliggør tidlig mobilisering.
+
+---
+
+## Spørgsmål 5
+**En patient udvikler pludselig dyspnø, takykardi og brystsmerter på 3. postoperative dag efter en abdominal operation. Hvad er den mest sandsynlige diagnose?**
+
+A) Akut myokardieinfarkt  
+B) Lungeemboli  
+C) Pneumoni  
+D) Angina pectoris
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Symptomerne passer bedst med lungeemboli, som kan opstå postoperativt på grund af immobilisering.
+
+---
+
+## Spørgsmål 6
+**Hvilken af følgende faktorer har størst indflydelse på beslutningen om at udføre en akut operation frem for en elektiv?**
+
+A) Patientens præference  
+B) Operatørens tidsskema  
+C) Risiko for livstruende komplikationer ved udsættelse  
+D) Tilgængeligheden af operationsstuer
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Risikoen for livstruende komplikationer er den primære faktor for at vælge akut operation.
+
+---
+
+## Spørgsmål 7
+**En patient med kendt hjertesygdom skal gennemgå en større abdominal operation. Hvilken anæstesiform vil mest sandsynligt blive valgt?**
+
+A) Total intravenøs anæstesi (TIVA)  
+B) Inhalationsanæstesi  
+C) Kombineret generel anæstesi og epidural  
+D) Kun regional anæstesi
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Kombinationen af generel anæstesi og epidural sikrer effektiv anæstesi og postoperativ smertelindring.
+
+---
+
+## Spørgsmål 8
+**Ved vurdering af en akut patients bevidsthedsniveau, hvad indikerer en GCS (Glasgow Coma Scale) score på 9?**
+
+A) Let påvirket bevidsthed  
+B) Moderat påvirket bevidsthed  
+C) Svært påvirket bevidsthed  
+D) Normal bevidsthed
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** En GCS på 9 indikerer moderat påvirket bevidsthed (9-12).
+
+---
+
+## Spørgsmål 9
+**Hvilken intervention bør en fysioterapeut prioritere højest hos en patient, der netop er extuberet efter langvarig respiratorbehandling?**
+
+A) Passiv mobilisering af ekstremiteter  
+B) Sekretmobilisering og effektiv hosteteknik  
+C) Styrketræning af respirationsmuskulatur  
+D) Progressiv gangtræning
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Sekretmobilisering og hosteteknik er kritisk for at rense luftvejene og forbedre oxygeneringen efter extubation.
+
+---
+
+## Spørgsmål 10
+**En patient udvikler delir på 2. postoperative dag. Hvilken non-farmakologisk intervention har vist sig mest effektiv i at reducere varigheden af delir?**
+
+A) Fiksering af patienten for at forhindre fald  
+B) Minimering af al stimuli, inklusiv lys og lyd  
+C) Tidlig mobilisering og reorientering  
+D) Øget brug af sederende medicin om natten
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Tidlig mobilisering og reorientering reducerer varigheden af delir mest effektivt.
+

@@ -1,0 +1,315 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 2: Karsygdomme og hjertesygdomme"
+author: "Andreas Svendsen"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+# Lette Spørgsmål
+
+## Spørgsmål 1
+**Hvilken af følgende er IKKE en modificerbar risikofaktor for åreforkalkning?**
+
+A) Rygning  
+B) Hypertension  
+C) Alder  
+D) Fysisk inaktivitet
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Alder er en ikke-modificerbar risikofaktor, mens de andre kan påvirkes gennem livsstilsændringer eller behandling.
+
+---
+
+## Spørgsmål 2
+**Hvad er den mest almindelige årsag til aortaaneurisme?**
+
+A) Infektion  
+B) Traume  
+C) Åreforkalkning  
+D) Medfødt defekt
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Åreforkalkning er den hyppigste årsag til aortaaneurisme, især hos ældre personer.
+
+---
+
+## Spørgsmål 3
+**Hvilket symptom er mest karakteristisk for dyb venetrombose (DVT)?**
+
+A) Brystsmerter  
+B) Hævelse og ømhed i benet  
+C) Hovedpine  
+D) Mavesmerter
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** DVT præsenterer sig typisk med unilateral hævelse, ømhed og evt. rødme i det afficerede ben.
+
+---
+
+## Spørgsmål 4
+**Hvad er den primære behandling for de fleste patienter med atrieflimren?**
+
+A) Pacemaker  
+B) Antikoagulation  
+C) Bypass-operation  
+D) Ballonudvidelse
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Antikoagulation er essentiel for at forebygge tromboemboliske komplikationer ved atrieflimren.
+
+---
+
+## Spørgsmål 5
+**Hvilket af følgende er et typisk symptom på stabil angina pectoris?**
+
+A) Konstante brystsmerter  
+B) Brystsmerter der forværres ved hvile  
+C) Anstrengelsesudløste brystsmerter der letter ved hvile  
+D) Pludselige, skarpe smerter i ryggen
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Stabil angina karakteriseres ved anstrengelsesudløste brystsmerter, der typisk letter ved hvile eller nitroglycerin.
+
+---
+
+## Spørgsmål 6
+**Hvad er den mest almindelige årsag til hjertesvigt?**
+
+A) Medfødte hjertefejl  
+B) Virusinfektioner  
+C) Iskæmisk hjertesygdom  
+D) Alkoholmisbrug
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Iskæmisk hjertesygdom, herunder tidligere hjerteinfarkt, er den hyppigste årsag til hjertesvigt.
+
+---
+
+## Spørgsmål 7
+**Hvilken undersøgelse bruges primært til at diagnosticere klapsygdomme i hjertet?**
+
+A) EKG  
+B) Røntgen af thorax  
+C) Ekkokardiografi  
+D) Blodprøver
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Ekkokardiografi giver detaljeret information om hjerteklappernes struktur og funktion.
+
+---
+
+## Spørgsmål 8
+**Hvad er det typiske mønster for smerter ved claudicatio intermittens?**
+
+A) Konstante smerter i benene  
+B) Smerter der opstår ved gang og forsvinder ved hvile  
+C) Natlige kramper i benene  
+D) Smerter der forværres ved elevation af benene
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Claudicatio intermittens karakteriseres ved smerter der opstår ved gang og letter ved hvile.
+
+---
+
+## Spørgsmål 9
+**Hvilken af følgende er IKKE en del af behandlingen af hypertension?**
+
+A) ACE-hæmmere  
+B) Betablokkere  
+C) Antikoagulantia  
+D) Livsstilsændringer
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** Antikoagulantia bruges ikke rutinemæssigt i behandlingen af hypertension.
+
+---
+
+## Spørgsmål 10
+**Hvad er den primære årsag til udvikling af åreforkalkning?**
+
+A) Bakteriel infektion  
+B) Ophobning af kolesterol i karvæggen  
+C) Vitamin D-mangel  
+D) Overdreven motion
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Åreforkalkning udvikles primært pga. ophobning af kolesterol og inflammatoriske celler i karvæggen.
+
+---
+
+# Avancerede Spørgsmål
+
+## Spørgsmål 1
+**En 65-årig mand præsenterer sig med pludselig indsættende, kraftige brystsmerter med udstråling til ryggen. Han er bleg, klamsvedende og har et blodtryk på 90/60 mmHg. Hvad er den mest sandsynlige diagnose?**
+
+A) Akut myokardieinfarkt  
+B) Aortadissektion  
+C) Lungeemboli  
+D) Pneumothorax
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Symptombilledet med pludselige, kraftige brystsmerter med udstråling til ryggen og lavt blodtryk er meget karakteristisk for aortadissektion.
+
+---
+
+## Spørgsmål 2
+**Hvilken kombination af symptomer er mest indikativ for kritisk iskæmi i underekstremiteterne?**
+
+A) Claudicatio og normal hudfarve  
+B) Hvilesmerter og kolde ekstremiteter  
+C) Ødemer og varme ekstremiteter  
+D) Intermitterende smerter og normal puls
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Kritisk iskæmi karakteriseres ved hvilesmerter og kolde ekstremiteter, ofte ledsaget af trofiske hudforandringer.
+
+---
+
+## Spørgsmål 3
+**En patient med atrieflimren har en CHA2DS2-VASc score på 4. Hvad er den anbefalede behandling?**
+
+A) Ingen behandling nødvendig  
+B) Acetylsalicylsyre  
+C) Oral antikoagulation  
+D) Betablokker
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** En CHA2DS2-VASc score på 4 indikerer høj risiko for tromboemboliske komplikationer, og oral antikoagulation anbefales.
+
+---
+
+## Spørgsmål 4
+**Hvilken af følgende er den mest alvorlige komplikation til carotisstenose?**
+
+A) Myokardieinfarkt  
+B) Iskæmisk apopleksi  
+C) Nyreinsufficiens  
+D) Perifær arteriel sygdom
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Carotisstenose øger risikoen markant for iskæmisk apopleksi, hvilket er den mest alvorlige komplikation.
+
+---
+
+oen markant for iskæmisk apopleksi, hvilket er den mest alvorlige komplikation.
+
+---
+
+## Spørgsmål 5
+**En patient med kendt hjerteinsufficiens præsenterer sig med akut forværring af dyspnø, rallelyde ved lungeauskultation og perifere ødemer. Hvilket af følgende tiltag bør prioriteres højest i den akutte behandling?**
+
+A) Øgning af ACE-hæmmer dosis  
+B) Administration af intravenøs diuretika  
+C) Opstart af antibiotika  
+D) Anlæggelse af PEG-sonde
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Ved akut forværring af hjertesvigt med lungestase er hurtig væskeudtræk med intravenøs diuretika den mest presserende intervention.
+
+---
+
+## Spørgsmål 6
+**Hvilken mekanisme er primært ansvarlig for symptomerne ved aortaklapstenose?**
+
+A) Reduceret fyldning af venstre ventrikel  
+B) Øget afterload på venstre ventrikel  
+C) Reduceret kontraktilitet af højre ventrikel  
+D) Øget preload på højre atrium
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Aortaklapstenose øger afterload på venstre ventrikel, hvilket fører til venstre ventrikel hypertrofi og eventuelt hjertesvigt.
+
+---
+
+## Spørgsmål 7
+**En patient udvikler pludselig unilateral benhævelse, rødme og ømhed 5 dage efter en større abdominal operation. Hvilken diagnostisk test bør udføres først?**
+
+A) D-dimer blodprøve  
+B) Venografi  
+C) Arteriografi  
+D) Ekkokardiografi
+
+---
+
+**Korrekt svar:** A  
+**Forklaring:** D-dimer er en sensitiv, men ikke-specifik test for DVT. En normal D-dimer kan ofte udelukke DVT og bør være den første test.
+
+---
+
+## Spørgsmål 8
+**Hvilken fysiologisk mekanisme er primært ansvarlig for den positive effekt af ACE-hæmmere ved hjertesvigt?**
+
+A) Øget natrium-udskillelse i nyrerne  
+B) Reduktion af afterload og remodellering af hjertet  
+C) Øget hjertefrekvens  
+D) Forbedret iltoptagelse i lungerne
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** ACE-hæmmere reducerer afterload gennem vasodilatation og hæmmer kardiel remodellering, hvilket forbedrer hjertets funktion ved hjertesvigt.
+
+---
+
+## Spørgsmål 9
+**En patient med stabil angina pectoris oplever øget frekvens og sværhedsgrad af symptomer over de seneste 2 uger. Hvilken behandlingsændring bør overvejes først?**
+
+A) Øget dosis af langtidsvirkende nitrater  
+B) Tilføjelse af en calciumantagonist  
+C) Akut koronar angiografi  
+D) Opstart af antikoagulerende behandling
+
+---
+
+**Korrekt svar:** C  
+**Forklaring:** En betydelig forværring af anginasymptomer over kort tid kan indikere ustabil angina eller begyndende AMI, og akut koronar angiografi bør overvejes for at udelukke kritisk koronarstenose.
+
+---
+
+## Spørgsmål 10
+**Hvilken patofysiologisk mekanisme er primært ansvarlig for udviklingen af shock ved akut, massiv lungeemboli?**
+
+A) Systemisk vasodilatation  
+B) Akut højresidig hjertesvigt  
+C) Venstre ventrikel dysfunktion  
+D) Svær bradykardi
+
+---
+
+**Korrekt svar:** B  
+**Forklaring:** Massiv lungeemboli fører til akut trykstigning i det pulmonale kredsløb, hvilket resulterer i akut højresidig hjertesvigt og kan føre til kardiogent shock.

@@ -1,0 +1,788 @@
+---
+title: "Lektion 1"
+author: "Andreas Svendsen"
+format:
+    html:
+        embed-resources: true
+        toc: true
+        toc-location: left
+    pdf:
+        toc: true
+    docx: default
+---
+
+# Noter til lektion 1 i Sygdomslære: Medicin & Kirurgi for Fysioterapeuter
+
+## 1. Introduktion til faget
+
+### 1.1 Formål med faget
+
+-   At give fysioterapistuderende en grundlæggende forståelse for medicin og kirurgi
+-   At forberede studerende på tværfagligt samarbejde i sundhedssektoren
+
+### 1.2 Relevans for fysioterapeuter
+
+-   Helhedsforståelse af patientens tilstand
+-   Sikkerhed og kontraindikationer
+-   Optimering af behandling
+-   Kommunikation med andre sundhedsprofessionelle
+-   Patientuddannelse
+-   Tidlig opsporing af komplikationer
+-   Evidensbaseret praksis og videreuddannelse
+
+## 2. Organisering af sundhedsvæsenet
+
+### 2.1 Primærsektor
+
+-   Første kontakt med sundhedsvæsenet
+-   Inkluderer: praktiserende læger, hjemmepleje, sundhedspleje, tandpleje, privatpraktiserende speciallæger, apoteker, kiropraktorer
+
+### 2.2 Sekundærsektor
+
+-   Specialiseret behandling
+-   Inkluderer: sygehuse, privathospitaler, lægevagt, ambulancetjeneste
+
+### 2.3 Fysioterapeuters rolle
+
+-   Kan findes i både primær- og sekundærsektor
+-   Vigtigt led i patientens behandlingsforløb
+
+## 3. Evidensbaseret medicin og praksis
+
+### 3.1 Evidensbaserede kliniske retningslinjer
+
+-   Gælder også for fysioterapeuter
+-   Baseret på bedste tilgængelige videnskabelige evidens
+    -   med forbehold for den enkelte patient!
+
+### 3.2 Elementer i evidensbaseret praksis
+
+1.  Klinisk erfaring
+2.  Evidensbaseret forskning
+3.  Patientens forventninger og præferencer
+
+### 3.3 Fysisk træning i fysioterapi
+
+-   Forebyggende
+-   Del af behandling
+-   Fokus på compliance
+-   Patient empowerment
+
+## 4. Fysioterapeutens rolle som behandler
+
+-   Autoriseret sundhedsperson
+-   Beskyttet titel
+-   Underlagt sundhedsloven
+-   Pligt til at vise omhu og samvittighedsfuldhed
+-   Pligt til at journalisere arbejde
+-   Tavshedspligt
+
+## 5. Introduktion til medicin & kirurgi
+
+### 5.1 Lægelige specialer
+
+-   39 specialer i alt
+-   Opdelt i medicinske, kirurgiske, medicinsk-kirurgiske og parakliniske specialer
+
+### 5.2 Forskelle mellem medicin og kirurgi
+
+-   Medicin: Ikke-kirurgisk behandling, dog med stigende antal invasive procedurer
+-   Kirurgi: Operative indgreb, inkl. robotkirurgi, kikkertkirurgi og åben kirurgi
+
+### 5.3 Anæstesi
+
+-   Generel anæstesi
+-   Regional anæstesi
+-   Lokal anæstesi
+
+#### 5.3.1 Generel anæstesi
+
+**Beskrivelse**
+
+-   Inducerer en reversibel bevidstløshedstilstand
+
+-   Påvirker hele kroppen
+
+**Komponenter**:
+
+-   Hypnose (søvn)
+
+-   Analgesi (smertelindring)
+
+-   Muskelrelaksation
+
+**Administrationsmetoder**:
+
+-   Intravenøs induktion efterfulgt af inhalationsanæstesi
+
+-   Total intravenøs anæstesi (TIVA)
+
+**Indikationer**:
+
+-   Større kirurgiske indgreb
+
+-   Indgreb der kræver total immobilitet
+
+**Risici:**
+
+-   Aspiration
+
+-   Postoperativ kvalme og opkastning
+
+-   Malign hypertermi (sjælden, men alvorlig komplikation)
+
+#### 5.3.2 Regional anæstesi
+
+**Beskrivelse:**
+
+-   Bedøvelse af en specifik kropsregion
+
+**Typer:**
+
+-   Epidural anæstesi
+
+-   Spinal anæstesi
+
+-   Nerveblokader
+
+**Indikationer:**
+
+-   Operationer på ekstremiteter
+
+-   Obstetrik (fødsler)
+
+-   Postoperativ smertelindring
+
+**Fordele:**
+
+-   Mindre påvirkning af hele kroppen
+
+-   Hurtigere opvågning
+
+-   Bedre postoperativ smertelindring
+
+**Risici:**
+
+-   Nerveskade (sjældent)
+
+-   Postspinal hovedpine
+
+#### 5.3.3 Lokal anæstesi
+
+**Beskrivelse:**
+
+-   Bedøvelse af et meget afgrænset område
+
+**Administrationsmetoder:**
+
+-   Infiltration
+
+-   Topisk applikation
+
+**Indikationer:**
+
+-   Mindre kirurgiske indgreb
+
+-   Tandbehandlinger
+
+-   Suturering af sår
+
+**Fordele:**
+
+-   Minimal systemisk påvirkning
+
+-   Patienten forbliver ved bevidsthed
+
+**Risici:**
+
+-   Allergiske reaktioner (sjældne)
+
+-   Lokaltoksiske reaktioner ved overdosering
+
+## 6. Journalføring og patientkommunikation
+
+### 6.1 Journalen som arbejdsredskab
+
+-   Primært arbejdsredskab for sundhedspersonale
+-   Juridisk dokument
+-   Skal skrives i neutralt sprog
+
+### 6.2 SOAP-metoden (primærsektor)
+
+-   Subjektivt
+-   Objektivt
+-   Analyse
+-   Plan
+
+### 6.3 Journalkonceptet (sygehus)
+
+-   Årsag til indlæggelse
+-   Anamnese/aktuelt
+-   Baggrundsinformation
+-   Objektiv undersøgelse
+-   Parakliniske undersøgelser
+-   Konklusion og plan
+
+## 7. Udredning og diagnostik
+
+### 7.1 Udredningsprocessen
+
+-   Anamnese
+-   Objektive fund
+-   Parakliniske undersøgelser
+
+### 7.2 Diagnostik
+
+-   Baseret på resultater fra udredning
+-   Behandling afhænger af diagnose og patientens individuelle situation
+
+## 8. Operationsforløb
+
+### 8.1 Typer af operationer
+
+-   Akutte operationer
+-   Subakutte operationer
+-   Elektive operationer
+
+#### 8.2.1 Akutte operationer:
+
+-   Definition: Kræver øjeblikkelig intervention. Ofte på vital indikation.
+
+-   Eksempler: Appendicitis, perforeret ulcus, traumekirurgi
+
+#### 8.2.2 Subakutte operationer:
+
+-   Definition: Skal udføres inden for dage til uger
+
+-   Eksempler: Visse canceroperationer, symptomgivende galdesten
+
+#### 8.2.3 Elektive operationer:
+
+-   Definition: Planlagte operationer uden umiddelbar helbredsrisiko ved udsættelse
+
+-   Eksempler: Hoftealloplastik, kosmetisk kirurgi
+
+#### 8.3.3 Fysioterapeutens overordnede rolle i operationsforløbet
+
+-   Præoperativ optimering af patientens funktionsniveau
+
+-   Postoperativ mobilisering og rehabilitering
+
+-   Forebyggelse af komplikationer gennem tidlig indsats
+
+-   Patientuddannelse og -vejledning gennem hele forløbet
+
+-   Tværfagligt samarbejde med kirurger, anæstesiologer og sygeplejersker
+
+### 8.2 Faser i operationsforløbet
+
+-   Præoperativt
+-   Perioperativt
+-   Postoperativt
+
+#### 8.2.1 Præoperativ fase
+
+**Formål:**
+
+-   Forberede patienten fysisk og mentalt til operation
+
+**Elementer:**
+
+-   Anamnese og objektiv undersøgelse
+
+-   Informeret samtykke
+
+-   Faste (typisk 6 timer for fast føde, 2 timer for klare væsker)
+
+-   Præmedicinering
+
+**Fysioterapeutens rolle:**
+
+-   Præoperativ vejledning og træning
+
+-   Instruktion i postoperative øvelser
+
+-   Vurdering af baseline funktionsniveau
+
+#### 8.2.2 Perioperativ fase
+
+**Beskrivelse**:
+
+-   Selve operationen og den umiddelbare tid omkring
+
+**Elementer:**
+
+-   Anæstesi
+
+-   Kirurgisk procedure
+
+-   Monitorering af vitale funktioner
+
+**Komplikationsforebyggelse:**
+
+-   Steril teknik
+
+-   Korrekt lejring for at undgå tryk og nerveskader
+
+-   Temperaturregulering
+
+#### 8.2.3 Postoperativ fase
+
+**Umiddelbar postoperativ periode**
+
+-   Opvågning fra anæstesi
+
+-   Smertebehandling
+
+-   Monitorering for tidlige komplikationer
+
+**Senere postoperativ periode:**
+
+-   Mobilisering
+
+-   Sårheling
+
+-   Genoptræning
+
+**Fysioterapeutens rolle:**
+
+-   Tidlig mobilisering
+
+-   Respirationsøvelser. Lungefys, forbyggelse af pneumoni.
+
+-   Forebyggelse af komplikationer (f.eks. DVT, pneumoni)
+
+-   Genoptræning af funktionsniveau
+
+### 8.3 Operationskomplikationer
+
+-   Blødning
+-   Infektion
+-   Dyb venøs trombose (DVT) / lungeemboli (LE)
+-   Nerveskade
+-   Kompartmentsyndrom
+-   Tryksår
+-   Delir
+
+#### Uddybning af Operationskomplikationer
+
+##### 1. Blødning Årsag:
+
+Ufuldstændig hæmostase under operation Reopening af lukkede blodkar Koagulationsforstyrrelser
+
+Alvorlighed:
+
+Kan være livstruende hvis ikke opdaget og behandlet hurtigt Risiko for hypovolæmisk shock
+
+Symptomer:
+
+Øget sivning fra operationssår Hæmatom dannelse Faldende blodtryk, stigende puls Bleghed, koldsved
+
+Behandling:
+
+Kompression af såret Intravenøs væskebehandling Blodtransfusion ved behov Kirurgisk reoperation for at standse blødning
+
+Fysioterapeutens rolle:
+
+Observation af operationssår ved mobilisering Rapportering af unormal sivning eller hævelse Tilpasning af mobilisering ved mistanke om blødning
+
+##### 2. Infektion Årsag:
+
+Bakteriel kontaminering under operation Nedsat immunforsvar hos patienten Mangelfuld sterilitet
+
+Alvorlighed:
+
+Kan variere fra overfladisk sårinfektion til livstruende sepsis
+
+Symptomer:
+
+Rødme, varme og hævelse omkring operationssår Feber Purulent sekretion fra såret Smerter
+
+Behandling:
+
+Antibiotika (systemisk eller lokal) Drænage af pus ved behov Sårrevision i alvorlige tilfælde
+
+Fysioterapeutens rolle:
+
+Observation af operationssår Sikre god hygiejne ved behandling Tilpasse øvelser for at undgå overbelastning af inficeret område
+
+##### 3. Dyb Venøs Trombose (DVT) / Lungeemboli (LE) Årsag:
+
+Immobilisering Hyperkoagulabilitet Karskade
+
+Alvorlighed:
+
+DVT kan føre til kronisk venøs insufficiens LE kan være akut livstruende
+
+Symptomer:
+
+DVT: Ensidig hævelse, rødme og ømhed i ekstremitet LE: Akut åndenød, brystsmerter, hjertebanken
+
+Behandling:
+
+Antikoagulationsbehandling Trombolyse ved alvorlig LE Kompressionsstrømper for DVT
+
+Fysioterapeutens rolle:
+
+Tidlig mobilisering for at forebygge DVT Undervisning i ankelpumpeøvelser Observation for symptomer på DVT/LE under behandling
+
+##### 4. Nerveskade Årsag:
+
+Direkte skade under operation Tryk på nerver pga. lejring Strækskader
+
+Alvorlighed:
+
+Kan variere fra forbigående paræstesi til permanent funktionsnedsættelse
+
+Symptomer:
+
+Nedsat sensibilitet Muskelsvaghed Smerter eller brændende fornemmelse
+
+Behandling:
+
+Observation og evt. afventende behandling ved milde tilfælde Kirurgisk intervention ved alvorlige skader Fysioterapi og ergoterapi
+
+Fysioterapeutens rolle:
+
+Vurdering af nervefunktion Tilrettelæggelse af genoptræningsprogram.
+
+##### 5. Kompartmentsyndrom Årsag:
+
+Øget tryk i et muskelrum, ofte pga. hævelse eller blødning
+
+Alvorlighed:
+
+Akut tilstand der kan føre til permanent vævsskade hvis ikke behandlet hurtigt
+
+Symptomer:
+
+Svære smerter Spændt, hård muskulatur Nedsat sensibilitet og kraft
+
+Behandling:
+
+Akut kirurgisk fasciotomi for at lette trykket
+
+Fysioterapeutens rolle:
+
+Tidlig identifikation af symptomer Korrekt lejring for at undgå tryk. Genoptræning efter fasciotomi.
+
+##### 6. Tryksår Årsag:
+
+Langvarig tryk på samme hudområde Ofte hos immobile patienter
+
+Alvorlighed:
+
+Kan variere fra overfladiske sår til dybe sår med knogleinvolvering
+
+Symptomer:
+
+Rødme der ikke forsvinder ved tryk Blærer eller åbne sår Smerter i området
+
+Behandling:
+
+Aflastning af trykområder Sårpleje og forbinding Kirurgisk debridement ved dybe sår
+
+Fysioterapeutens rolle:
+
+Undervisning i lejring og forflytning. Mobilisering for at mindske risiko. Vurdering af patientens hud ved behandling.
+
+##### 7. Delir Årsag:
+
+Multifaktoriel, men ofte udløst af operation, medicin, infektion eller ændret miljø
+
+Alvorlighed:
+
+Kan forlænge indlæggelse og øge risiko for komplikationer
+
+Symptomer:
+
+Akut indsættende forvirring Ændret bevidsthedsniveau Uorganiseret tænkning Hallucinationer
+
+Behandling:
+
+Behandling af udløsende årsag Sikring af rolige omgivelser Evt. medicinsk behandling
+
+Fysioterapeutens rolle:
+
+Bidrage til reorientering af patienten. Tilpasse behandling til patientens kognitive tilstand. Sikre trygt miljø under mobilisering.
+
+## 9. Den akutte patient
+
+### 9.1 Triage
+
+-   System til prioritering af patienter baseret på alvorlighed
+-   Farvekoder: rød, orange, gul, grøn, blå
+-   Hvilke parametre bygger disse farvekoder på?
+    -   Blodtryk
+    -   fortsæt selv...
+
+#### 9.1.2 Triagekategorier:
+
+**Rød (Perakut/livstruende):**
+
+-   Definition: Livstruende tilstand, kræver øjeblikkelig behandling
+
+-   Eksempler: Hjertestop, svær respirationsinsufficiens, store blødninger
+
+-   Handling: Øjeblikkelig lægetilsyn og behandling. Læge tilstede ved ankomst eller tilkaldes straks.
+
+-   Kontinuerlig monitorering
+
+**Orange (akut/haster):**
+
+-   Definition: Potentielt livstruende tilstand, kræver hurtig behandling
+
+-   Eksempler: Akutte brystsmerter, svær hovedpine, større frakturer
+
+-   Handling: Lægetilsyn inden for 15 minutter. Revurdering hvert 15. minut
+
+**Gul (haster mindre)**
+
+-   Definition: Potentielt alvorlig tilstand, men ikke umiddelbart livstruende
+
+-   Eksempler: Moderate smerter, mindre frakturer, moderat dehydrering
+
+-   Handling: Lægetilsyn inden for 60 minutter. revurdering minimum hver time.
+
+**Grøn (haster ikke):**
+
+-   Definition: Ikke-akut tilstand, kan vente på behandling
+
+-   Eksempler: Mindre sår, lette smerter, forkølelsessymptomer
+
+-   Handling: Lægetilsyn inden for 2 timer. Revurdering minimum hver 3. time.
+
+**Blå (Ikke-urgent):**
+
+-   Definition: Tilstand der kunne være håndteret i primærsektoren
+
+-   Eksempler: Kroniske smerter uden forværring, mindre hudproblemer
+
+-   Handling: Kan vente eller henvises til egen læge
+
+**Fysioterapeutens rolle i triage:**
+
+-   Kendskab til triagesystemet for at forstå patientens alvorlighed
+
+-   Bidrage med observationer til triagepersonalet.
+
+-   Tilpasse behandling og intervention baseret på patientens triagekategori.
+
+### 9.2 ABCDE-tilgangen
+
+-   A: Airway (luftvej)
+-   B: Breathing (vejrtrækning)
+-   C: Circulation (kredsløb)
+-   D: Disability (bevidsthedsniveau)
+-   E: Exposure/Environment (eksponering/omgivelser
+
+#### **Beskrivelse**
+
+-   Systematisk tilgang til vurdering og behandling af akutte patienter
+-   Prioriterer interventioner baseret på livstruende tilstande
+
+#### Komponenter:
+
+##### A: Airway (Luftvej)
+
+-   Vurdering: Er luftvejen fri? Kan patienten tale?
+
+-   Intervention: Fjern fremmedlegemer, lejring, evt. intubation
+
+##### B: Breathing (Vejrtrækning)
+
+-   Vurdering: Respirationsfrekvens, dybde, mønster, saturation
+
+-   Intervention: Ilt-tilskud, assisteret ventilation hvis nødvendigt
+
+##### C: Circulation (Kredsløb)
+
+-   Vurdering: Puls, blodtryk, kapillærrespons, hudfarve
+
+-   Intervention: Væskebehandling, blødningskontrol, evt. hjerte-lunge-redning
+
+-   Fysioterapeutens rolle: Observere for cirkulatoriske ændringer, elevere ben ved shock
+
+##### D: Disability (Neurologisk status)
+
+-   Vurdering: Bevidsthedsniveau (GCS), pupilreaktion, bevægelse af ekstremiteter
+
+-   Intervention: Sikre sufficient ilt og cirkulation til hjernen, glukosemåling
+
+##### E: Exposure/Environment (Eksponering/Omgivelser)
+
+-   Vurdering: Fuld kropsundersøgelse, temperatur
+
+-   Intervention: Forebygge hypotermi, behandle evt. sår eller frakturer
+
+##### Vigtighed for fysioterapeuter (og alle andre):
+
+-   Systematisk tilgang til akutte situationer
+
+-   Hurtig identifikation af livstruende tilstande
+
+-   Effektiv kommunikation med andet sundhedspersonale
+
+### 9.3. Sepsis
+
+-   Potentielt livstruende tilstand når kroppens reaktion på en infektion er skadelig i sig selv. Dysreguleret respons på infektion. Faldende blodtryk -\> shock -\> hypoperfusion af organer -\> organsvigt -\> død
+-   Symptomer?:
+    -   Udfyld selv :). Svar længere nede.
+-   Risikofaktorer:
+    -   Udfyld selv :)
+-   qSOFA score for hurtig vurdering
+-   Systemisk inflammatorisk respons.
+
+#### qSOFA score (quick Sepsis-related Organ Failure Assessment):
+
+-   Respirationsfrekvens ≥ 22/min
+
+-   Ændret mental status
+
+-   Systolisk blodtryk ≤ 100 mmHg
+
+-   2 eller flere = høj risiko for sepsis
+
+#### Symptomer:
+
+-   Feber eller hypotermi
+
+-   Takykardi
+
+-   Takypnø
+
+-   Konfusion
+
+-   Hypotension
+
+#### Behandling:
+
+-   Tidlig identifikation
+
+-   Bred-spektret antibiotika inden for 1 time
+
+-   Fokus opsporing (hvor stammer infektion fra). Dyrkning af inficeret materiale, afhængig af infektionsfokus. Specifik antibiotikabehandling når bakteriearten kendes (eller vira/svampe)
+
+-   Væskeresuscitation
+
+-   Kildekontrol (f.eks. drænage af absces)
+
+#### Fysioterapeutens rolle:
+
+-   Genkende tidlige tegn på sepsis
+
+-   Rapportere mistanke om sepsis til læge
+
+-   Tilpasse behandling til patientens tilstand
+
+-   Assistere med tidlig mobilisering under rekonvalescens
+
+### 9.4 Hjerte-lunge-redning (HLR)
+
+-   Basal genoplivning
+-   Vigtigt for alle sundhedsprofessionelle at kunne
+-   HVAD ER ALGORITMEN?
+
+##### Basal HLR for voksne
+
+1.  Sikr omgivelserne
+
+2.  Tjek bevidsthed og respiration
+
+    1.  Hvornår erkender du hjertestop. Hvad er kriterierne?
+
+3.  Ring 112 (hvis du er alene)
+
+    1.  Få nogen til at læbe efter hjertestarter. Hvis ingen andre tilstede, glem hjertestarter.
+
+4.  Start hjertemassage: 30 kompressioner
+
+5.  Giv 2 indblæsninger
+
+6.  Fortsæt 30:2 indtil professionel hjælp ankommer
+
+**Kompressioner:**
+
+-   Frekvens: 100-120/min
+
+-   Dybde: 5-6 cm
+
+**Ventilationer**:
+
+-   Varighed: ca. 1 sekund per indblæsning
+
+-   Volumen: nok til at brystkassen hæver sig
+
+**Brug af AED (Automatisk Ekstern Defibrillator):**
+
+1.  Tænd AED'en
+
+2.  Påsæt elektroder
+
+3.  Følg AED'ens instruktioner
+
+4.  Fortsæt HLR mellem stød
+
+**Fysioterapeutens rolle:**
+
+-   Mestre basal HLR
+
+-   Kende placeringen af AED på arbejdspladsen
+
+-   Deltage i regelmæssig HLR-træning
+
+### 9.5 Akutte tilstande
+
+-   Respirationssvigt
+-   Hjertestop
+-   Shock
+-   Akut abdomen
+-   Akutte neurologiske tilstande
+
+Nogle eksempler nedenfor. Vi vil komme igennem flere i løbet af undervisningen
+
+#### 5.1 Respirationssvigt
+
+-   Årsager: Astma exacerbation, KOL exacerbation, lungeødem, pneumoni
+
+-   Symptomer: Dyspnø, takypnø, brug af accessoriske respirationsmuskler
+
+-   Fysioterapeutens rolle: Assistere med lejring, vejrtrækningsøvelser, sekretmobilisering/lungefys
+
+#### 5.2 Akut koronart syndrom
+
+-   Inkluderer: STEMI, NSTEMI, ustabil angina
+
+-   Symptomer: Brystsmerter, dyspnø, kvalme, koldsved
+
+-   Fysioterapeutens rolle: Genkende symptomer, assistere med lejring, iltadministration
+
+#### 5.3 Stroke
+
+-   Typer: Iskæmisk, hæmoragisk
+
+-   Symptomer: Pludselig svaghed/lammelse, talebesvær, synsforstyrrelser
+
+-   Fysioterapeutens rolle: Tidlig mobilisering, forebyggelse af komplikationer
+
+#### 5.4 Akut abdomen
+
+-   Årsager: Appendicitis, cholecystitis, perforeret ulcus
+
+-   Symptomer: Mavesmerter, kvalme, opkastning, feber
+
+-   Fysioterapeutens rolle: Genkende symptomer, tilpasse mobilisering
+
+## 10. Fysioterapeutens rolle i det tværfaglige samarbejde
+
+-   Vigtigheden af at forstå andre sundhedsprofessioners roller og ansvar
+-   Kommunikation på tværs af faggrupper
+-   Bidrag til helhedsorienteret patientbehandling
+
+## 11. Akademisk niveau og videreuddannelse
+
+-   Professionsbachelor i fysioterapi på niveau med almindelig bachelor
+
+-   Muligheder for videreuddannelse (kandidatuddannelser, specialiseringer)
+
+-   Vigtigheden af kontinuerlig faglig udvikling

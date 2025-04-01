@@ -1,0 +1,654 @@
+---
+title: "Lektion 4: gastroenterologi"
+author: "Andreas Svendsen"
+toc: true
+format:
+    html:
+        embed-resources: true
+    docx: default
+    pdf: default
+---
+
+# Introduktion
+
+Dette kapitel omhandler sygdomme i mave-tarm-kanalen
+
+# Anatomi og fysiologi
+
+## Overordnet inddeling af mave-tarm-kanalen
+
+1. **Øvre GI-kanal**
+    - Esophagus (spiserør)
+    - Ventrikel (mavesæk)
+    - Duodenum (tolvfingertarm)
+
+2. **Nedre GI-kanal**
+    - Tyndtarm (jejunum og ileum)
+    - Tyktarm (colon)
+    - Endetarm (rectum)
+    - Anus
+
+## Funktionel anatomi og fysiologi
+
+### Grundlæggende funktioner
+- **Motilitet**: Peristaltiske bevægelser sikrer transport
+- **Sekretion**: Enzymer og hormoner til fordøjelse
+- **Absorption**: Næringsstoffer, væske og elektrolytter
+- **Barrierefunktion**: Beskyttelse mod patogener
+
+### Microbiom
+- Tarmens bakterieflora har vigtige funktioner:
+  - Fordøjelse
+  - Immunforsvar
+  - Vitaminsyntese
+  - Metabolisme
+
+# Sygdomme i øvre GI-kanal
+
+## Dyspepsi
+- Samlebetegnelse for symptomer fra øvre GI-kanal
+    - Smerter/ubehag i epigastriet
+    - Kvalme
+    - Sure opstød
+    - Oppustethed
+    - Symptomerne skal være vedvarende/recidiverende
+- Meget hyppig tilstand
+- Kan være funktionel eller organisk
+  
+
+### Definition og klassifikation
+1. **Funktionel dyspepsi**
+   - Ingen påviselig organisk årsag
+   - Meget hyppig (80% af tilfældene)
+   - Diagnose når andre årsager er udelukket
+
+2. **Organisk dyspepsi**
+   - Skyldes påviselig sygdom som:
+     - Ulcus
+     - GERD
+     - Cancer
+     - Galdestenssygdom
+     - Pancreatitis
+
+### Specifikke symptomer
+- **Epigastriske smerter**
+  - Karakteristisk lokalisation
+  - Ofte måltidsrelateret
+  - Kan være brændende/gnavende
+- **Oppustethed**
+  - Tidlig mæthedsfornemmelse
+  - Ubehag efter måltider
+- **Kvalme**
+  - Kan være ledsaget af opkastning
+  - Ofte forværret af måltider
+- **Sure opstød**
+  - Kan ligne GERD
+  - Ofte samtidig halsbrand
+
+### Udredning
+1. **Anamnese**
+   - Symptomvarighed og -karakter
+   - Relation til måltider
+   - Medicinindtag (særligt NSAID)
+   - Alarmsymptomer
+
+2. **Objektiv undersøgelse**
+   - Inspektion af abdomen
+   - Palpation - særligt epigastriet
+   - Undersøgelse for Defense/slipømhed
+
+3. **Parakliniske undersøgelser**
+   - Primært ved alarmsymptomer
+   - Gastroskopi
+   - H. pylori test
+   - Relevant blodprøvescreening
+
+### Behandlingsstrategi
+1. **Non-farmakologisk**
+   - Kostregulering
+   - Måltidsregulering
+   - Vægttab ved overvægt
+   - Rygestop
+   - Stressreduktion
+
+2. **Farmakologisk**
+   - Syrehæmmende medicin (PPI/H2-blokkere)
+   - Syreneutraliserende medicin (antacida)
+   - H. pylori eradikation hvis påvist
+
+### Prognose
+- Ofte kronisk/recidiverende forløb
+- God prognose mht. komplikationer
+- Betydelig påvirkning af livskvalitet
+- Vigtigt med realistiske behandlingsmål
+  
+## Gastroøsofageal reflukssygdom (GERD)
+
+### Patofysiologi
+1. **Normal beskyttelse mod refluks**
+   - Nedre øsofagus sphincter (LES)
+     - Hviletonus 10-30 mmHg
+     - Relaxerer ved synkning
+     - Kontraherer efter passage af fødebolus
+   - Diafragmas klemmeeffekt
+   - Øsofagus' motorik og clearance
+   - Spyts neutraliserende effekt
+   
+2. **Patologiske mekanismer**
+   - Nedsat LES-tonus
+   - Øget antal transitore LES-relaxationer
+   - Nedsat øsofagus clearance
+   - Forsinket ventrikeltømning
+   - Hiatus hernie (disponerende faktor)
+
+### Epidemiologi og risikofaktorer
+- 40% oplever reflukssymptomer månedligt
+- 20% oplever symptomer ugentligt
+- Hyppigere ved:
+  - Overvægt (særligt abdominal fedme)
+  - Rygning
+  - Alkohol
+  - Graviditet
+  - Visse fødevarer (kaffe, chokolade, fed mad)
+  - Store måltider sent om aftenen
+
+### Kliniske manifestationer
+1. **Typiske symptomer**
+   - Halsbrand (pyrosis)
+     - Brændende retrosternal smerte
+     - Forværres ved foroverbøjning
+     - Forværres efter måltider
+   - Sure opstød (regurgitation)
+   - Smerter bag brystbenet
+   
+2. **Atypiske symptomer**
+   - Kronisk hoste
+   - Heshed
+   - Astmalignende symptomer
+   - Tandskader
+   - Globulusfornemmelse (fornemmelse af mad der sidder fast i spiserøret)
+   
+3. **Alarmsymptomer**
+   - Synkebesvær (dysfagi)
+   - Vægttab
+   - Blødning
+   - Anæmi
+   - Debut efter 45-års alderen
+
+### Komplikationer
+1. **Øsofagitis**
+   - Gradueres efter Los Angeles klassifikation
+   - Kan give erosioner og ulcerationer
+   
+2. **Strikturer**
+   - Følge af kronisk inflammation
+   - Giver tiltagende dysfagi
+   
+3. **Barretts øsofagus**
+   - Intestinal metaplasi
+   - Præmalign tilstand
+   - Ses hos 1-2% af GERD patienter
+   - Kræver regelmæssig endoskopisk kontrol
+
+### Diagnostik
+1. **Klinisk diagnose**
+   - Typiske symptomer
+   - God effekt af syrehæmmende behandling
+   
+2. **Endoskopi**
+   - Ved alarmsymptomer
+   - Ved behandlingsresistent GERD
+   - Vurdering af komplikationer
+   
+3. **24-timers pH-måling**
+   - Gold standard
+   - Bruges ved diagnostisk tvivl
+   - Før evt. kirurgi
+
+### Behandling
+1. **Non-farmakologisk**
+   - Livsstilsændringer:
+     - Vægttab
+     - Rygestop
+     - Undgå udløsende fødevarer
+     - Sengehoved elevation
+     - Undgå måltider 2-3 timer før sengetid
+   
+2. **Farmakologisk**
+   - **Step-up tilgang:**
+     1. Antacida ved behov
+     2. H2-receptor antagonister
+     3. Protonpumpehæmmere (PPI)
+   
+3. **Kirurgisk**
+   - Fundoplication
+   - Primært til yngre med svære symptomer
+   - Kræver grundig udredning
+
+### Fysioterapeutiske overvejelser
+1. **Træning**
+   - Undgå øvelser med meget bugpresse
+   - Timing ift. måltider
+   - Vurdér behov for pause ved symptomer
+   
+2. **Vejledning**
+   - Kropsvægt og fysisk aktivitet
+   - Holdningsoptimering
+   - Hensigtsmæssig respirationsteknik
+   
+3. **Særlige hensyn**
+   - Ved samtidig astma/KOL
+   - Ved træning af ældre
+   - Ved graviditet
+
+## Ulcus ventriculi et duodeni
+
+### Patofysiologi
+1. **Normal beskyttelse af maveslimhinden**
+  - Bikarbonat-slim barriere
+  - Hurtig epitelregeneration
+  - God blodforsyning
+  - Prostaglandiner beskytter slimhinden
+  
+2. **Patologiske mekanismer**
+  - Ubalance mellem beskyttende og aggressive faktorer
+  - Aggressive faktorer:
+    - Mavesyre og pepsin
+    - H. pylori infektion
+    - NSAID/acetylsalicylsyre
+    - Stress (fysiologisk)
+
+### Epidemiologi
+- 10% af danskere vil udvikle ulcussygdom
+- Hyppigste årsager:
+ - H. pylori (45%)
+ - NSAID-behandling (40%)
+ - Stress-ulcus ved akut sygdom (5%)
+ - Idiopatisk (10%)
+
+### Kliniske manifestationer
+1. **Symptomer**
+  - Epigastriske smerter
+    - Ofte natlige smerter
+    - Måltidsrelaterede (duodenal: lindring, ventrikel: forværring)
+  - Kvalme/opkastning
+  - Appetitændring
+  - B-symptomer ved malignitetsmistanke
+
+2. **Komplikationer**
+  - Blødning (hæmatemese/melæna)
+  - Perforation (akut abdomen)
+  - Penetration til naboorganer
+  - Stenosering med obstruktion
+
+### Diagnostik
+1. **Gastroskopi**
+  - Giver direkte visualisering
+  - Mulighed for biopsi
+  - Vurdering af:
+    - Størrelse og dybde
+    - Lokalisation
+    - Malignitetsaspekt
+
+2. **H. pylori diagnostik**
+  - Biopsi ved gastroskopi
+  - Pusteprøve (C13-urinstoftest)
+  - Fæces antigentest
+
+
+
+### Behandling
+1. **Medicinsk**
+  - Protonpumpehæmmere (PPI)
+  - H. pylori eradikation ved positiv test
+  - Seponering af NSAID hvis muligt
+  
+2. **Profylakse**
+  - PPI ved nødvendig NSAID-behandling
+  - Regelmæssig kontrol ved høj risiko
+  
+3. **Kirurgisk**
+  - Sjældent nødvendigt
+  - Primært ved komplikationer
+
+## Sygdomme i nedre GI
+
+### Diarré
+1. **Definition og klassifikation**
+  - Akut (<4 uger) vs. kronisk (>4 uger)
+  - Vandig vs. blodig
+  - Osmotisk vs. sekretorisk
+  
+2. **Akut diarré**
+  - Oftest selvlimiterende
+  - Hyppigste årsager:
+    - Viral gastroenteritis
+    - Bakteriel infektion (fødevarebåren)
+    - Toxiner
+  - Behandling primært væske/elektrolytterapi
+
+3. **Kronisk diarré**
+  - Kræver udredning af årsag
+  - Alarmsymptomer:
+    - Vægttab
+    - Blod/slim
+    - Natlig diarré
+    - Vedvarende mavesmerter
+
+### Obstipation
+1. **Definition**
+  - Sjælden afføring (<3/uge)
+  - Hård afføring
+  - Besværet defækation
+  
+2. **Årsager**
+  - Primær (funktionel)
+  - Sekundær til:
+    - Medicin (eks. opioider)
+    - Neurologisk sygdom
+    - Metabolisk sygdom
+    - Mekanisk obstruktion
+
+3. **Behandling**
+  - KRAM-faktorer
+    - Sufficient væskeindtag
+    - Fiberrig kost
+    - Motion
+  - Laksantia ved behov
+    - Osmotisk (eks. magnesium)
+    - Stimulerende (eks. sennosider)
+
+### Malabsorption
+1. **Patofysiologi**
+  - Nedsat optagelse af:
+    - Næringsstoffer
+    - Vitaminer
+    - Mineraler
+  
+2. **Årsager**
+  - Cøliaki
+  - IBD
+  - Pankreatisk insufficiens
+  - Bakteriel overvækst
+  
+3. **Kliniske manifestationer**
+  - Diarré
+  - Vægttab
+  - Mangeltilstande
+
+### Laktoseintolerans
+
+**Patofysiologi**
+- Mangel på enzymet laktase i tyndtarmen
+- Laktase nedbryder mælkesukker (laktose)
+- Uden laktase → ufordøjet laktose fermenteres af bakterier
+- Resulterer i:
+ - Osmotisk diarré
+ - Gasproduktion
+ - Mavesmerter
+
+**Symptomer**
+- Diarré
+- Mavesmerter
+- Oppustethed
+- Flatulens
+- Symptomer 30 min - 2 timer efter indtag
+
+**Diagnostik**
+- Laktosebelastning
+- Laktosegentest
+- Biopsi fra duodenum
+- Eksklusionsdiæt med reintroduktion
+
+**Behandling**
+- Laktosefri diæt
+- Laktase-enzymer som supplement
+- Ingen skade på tarmsystemet
+- 95-98% af voksne danskere tåler laktose
+
+### Cøliaki
+
+**Patofysiologi**
+- Autoimmun reaktion mod gluten
+- Medfører inflammation i tyndtarm
+- Destruktion af tarmvilli (atrofi)
+- Nedsat absorptionsoverflade
+- Malabsorption af næringsstoffer
+
+**Epidemiologi**
+- Rammer 0,5-1% af befolkningen
+- Kan debutere i alle aldre
+- Genetisk disposition (HLA-DQ2/DQ8)
+
+**Symptomer**
+- Diarré
+- Mavesmerter
+- Vægttab
+- Jernmangelanæmi
+- Træthed
+- Påvirket vækst hos børn
+
+**Diagnostik**
+- Blodprøver (antistoffer)
+- Gastroskopi med duodenalbiopsi
+- Genetisk test
+
+**Behandling**
+- Livslang glutenfri diæt
+- Tarmslimhinden regenererer
+- Tilskud ved mangeltilstande
+- Regelmæssig kontrol
+
+### Kronisk inflammatorisk tarmsygdom (IBD)
+
+#### Mb. Crohn
+**Karakteristika**
+- Kan ramme hele GI-kanalen
+- Transmural inflammation
+- Skip lesions
+- Stenoserende/fistulerende
+
+**Symptomer**
+- Diarré
+- Mavesmerter
+- Vægttab
+- Ekstraintestinale manifestationer
+- Fistler/abscesser
+
+**Behandling**
+- Immunsuppression
+- Biologisk behandling
+- Kirurgi ved komplikationer
+- Livslang opfølgning
+
+#### Colitis ulcerosa
+**Karakteristika**
+- Kun colon/rectum
+- Kontinuerlig inflammation
+- Kun mucosa/submucosa
+- Starter distalt
+
+**Symptomer**
+- Blodig diarré
+- Mucus i afføring
+- Mavesmerter
+- Tenesmi
+- Ekstraintestinale manifestationer
+
+**Behandling**
+- Immunsuppression
+- Biologisk behandling
+- Kolektomi kurativt
+- Ca. 20% ender med stomi
+
+### Colon irritabile (IBS)
+
+**Karakteristika**
+- Funktionel lidelse
+- Op til 15% af befolkningen
+- Ingen organisk årsag
+- Påvirker livskvalitet betydeligt
+
+**Symptomer**
+- Mavesmerter
+- Ændret afføringsmønster
+- Oppustethed
+- Forstærket tarmfunktion
+
+**Diagnostik**
+- Udelukkelsesdiagnose
+- Symptombaseret (Rome IV)
+- Normal objektiv us
+- Normale parakliniske us
+
+**Behandling**
+- FODMAP diæt
+- Stress reduktion
+- Regelmæssig motion
+- Evt. probiotika
+- Symptomatisk medicinsk
+
+### Divertikulose/divertikulitis
+
+**Divertikulose**
+- Udposninger på colon
+- 30-50% over 60 år
+- Oftest asymptomatisk
+- Højt fiberindtag forebygger
+
+**Divertikulitis**
+- Infektion i divertikler
+- 20% med divertikler udvikler
+- Symptomer:
+ - Mavesmerter (venstre fossa)
+ - Feber
+ - Ændret afføring
+- Behandling:
+ - Antibiotika
+ - Ved perforation: kirurgi
+
+### Hernier
+
+**Typer**
+1. Inguinalhernie
+  - Hyppigst
+  - Især mænd
+2. Femoralhernie
+  - Højere risiko for incarceration
+3. Umbilikalhernie
+4. Bugvægshernie
+5. Hiatushernie
+
+**Komplikationer**
+- Incarceration
+- Strangulation
+- Tarmperforation
+
+**Behandling**
+- Kirurgisk
+- Akut ved inkarceration
+- Elektivt ved gener
+
+### Hæmorider
+
+**Karakteristika**
+- Udvidede venesystemer
+- Eksterne/interne
+- Meget hyppige
+- Grad 1-4
+
+**Symptomer**
+- Blødning
+- Kløe/svie
+- Prolaps
+- Soiling
+
+**Behandling**
+- Konservativ: fiber/væske
+- Lokalbehandling
+- Elastikligatur
+- Kirurgi ved svære tilfælde
+
+### Perianal absces
+
+**Patofysiologi**
+- Infektion i analkirtel
+- Kan danne fistel
+- Akut tilstand
+
+**Symptomer**
+- Smerter
+- Hævelse
+- Rødme
+- Feber
+
+**Behandling**
+- Incision og drænage
+- Antibiotika sjældent nødvendig
+- Forebyg recidiv
+
+### Cancer i GI-kanalen
+
+#### Esophaguscancer
+**Risikofaktorer**
+- Rygning/alkohol
+- Barrett's esophagus
+- Alder >60
+- Mandligt køn
+
+**Symptomer**
+- Dysfagi
+- Vægttab
+- Retrosternale smerter
+- Sen diagnose
+
+**Behandling**
+- Operation hvis muligt
+- Kemo/stråleterapi
+- Ofte palliativ
+
+#### Cancer ventriculi
+**Epidemiologi**
+- Ca. 500 årligt
+- Faldende incidens
+- H. pylori vigtig risiko
+
+**Symptomer**
+- Uspecifikke initialt
+- Vægttab
+- Tidlig mæthed
+- Anæmi
+
+**Behandling**
+- Operation primært
+- Kemoterapi
+- Dårlig prognose
+
+#### Colorektal cancer
+**Epidemiologi**
+- 4000 nye tilfælde årligt
+- Screening 50-74 år
+- Stigende incidens
+
+**Symptomer**
+- Ændret afføringsmønster
+- Blod i afføringen
+- Vægttab
+- Anæmi
+- Mavesmerter
+
+**Diagnostik**
+- Koloskopi
+- CT scanning
+- Evt. MR ved rektumcancer
+
+**Behandling**
+- Kirurgi primært
+- Kemoterapi
+- Strålebehandling ved rektumcancer
+- 5-års overlevelse ca. 60%
+
+**Screening**
+- afføringsprøve
+- Koloskopi ved positiv test
+- Reducerer mortalitet

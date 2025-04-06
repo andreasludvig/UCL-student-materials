@@ -1,0 +1,434 @@
+---
+title: "Quiz: Medicin og Kirurgi"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+
+Hvilken påstand om pneumoni er IKKE korrekt?
+
+A) Kan være både viral og bakteriel  
+B) Ses hyppigst hos ældre og immunsvækkede  
+C) Giver altid høj feber og produktiv hoste  
+D) Diagnosticeres bl.a. ved røntgen af thorax  
+
+---
+
+## Svar 1
+
+**Korrekt svar: C**
+
+*Begrundelse:* Pneumoni kan præsentere sig meget forskelligt, særligt hos ældre kan symptomerne være vage og atypiske. Nogle kan have pneumoni uden feber eller produktiv hoste.
+
+---
+
+## Spørgsmål 2
+
+En 45-årig kvinde indlægges med akut indsættende åndenød efter knæoperation. Hvilken undersøgelse er MEST relevant initialt ved mistanke om lungeemboli?
+
+A) Spirometri  
+B) Røntgen af thorax  
+C) D-dimer  
+D) Arteriepunktur  
+
+---
+
+## Svar 2
+
+**Korrekt svar: C**
+
+*Begrundelse:* D-dimer er den initiale screening ved mistanke om lungeemboli. Ved positiv D-dimer går man videre med CT-scanning. Spirometri siger noget om luft flow, ikke aktuelt ved en emboli der hæmmer blod flow. Rtg thorax kan ikke vise embolier. Arteriepunktur (en arteriel point of care blodprøve) viser noget om blodgasser (ilt og CO2), syre-base status, elektrolytter, mv. Denne kan vise at der kunne være problemer med iltning af blodet, men ikke om dette er på baggrund ad en lungeemboli. 
+
+---
+
+## Spørgsmål 3
+
+Hvilket lungefunktionsmønster kendetegner obstruktiv lungesygdom?
+
+A) Nedsat FEV1 og normal FVC  
+B) Både nedsat FEV1 og FVC  
+C) Normal FEV1/FVC ratio  
+D) Primært restriktivt mønster  
+
+---
+
+## Svar 3
+
+**Korrekt svar: A**
+
+*Begrundelse:* Ved obstruktiv lungesygdom er det primært FEV1 der er nedsat pga. forsnævrede luftveje, mens FVC ofte er normal eller kun let nedsat. Dette giver en nedsat FEV1/FVC ratio (<70%).
+
+---
+
+## Spørgsmål 4
+
+Hvilken type patient får typisk spontan pneumothorax?
+
+A) Ung, høj, slank mand  
+B) Ældre kvinde med osteoporose  
+C) Overvægtig midaldrende mand  
+D) Ung kvinde med astma  
+
+---
+
+## Svar 4
+
+**Korrekt svar: A**
+
+*Begrundelse:* Spontan pneumothorax ses typisk hos unge, høje, slanke mænd, ofte med Marfan-lignende kropsbygning.
+
+---
+
+## Spørgsmål 5
+
+Hvilken tilstand skal man især mistænke hos en patient med pludseligt indsættende inspiratoriske smerter og åndenød efter fald mod brystkassen?
+
+A) Costafraktur  
+B) Pneumothorax  
+C) Lungeemboli  
+D) Pleurit  
+
+---
+
+## Svar 5
+
+**Korrekt svar: B**
+
+*Begrundelse:* Ved traume mod thorax er pneumothorax en vigtig og potentielt livstruende differentialdiagnose der kræver hurtig diagnostik og behandling. Kunne meget vel være pneumothorax pga. costafraktur, men åndenød gør vi skal sikre os der ikke er (tryk)pneumothorax. Costafraktuerer i sig selv har ikke den store betyding, skal bare lindres ved smertestillende.
+
+---
+
+## Spørgsmål 6
+
+En patient med KOL har følgende karakteristika:
+- MRC grad 4
+- 3 eksacerbationer sidste år
+- Betydelig åndenød ved ADL
+
+Hvilken behandling er særligt relevant?
+
+A) Kun inhalationsmedicin  
+B) Rehabilitering  
+C) Årlig influenzavaccine  
+D) PEP-fløjte ved behov  
+
+---
+
+## Svar 6
+
+**Korrekt svar: B**
+
+*Begrundelse:* Ved MRC ≥ 3 er rehabilitering særligt indiceret og har dokumenteret effekt på både symptomer og prognose. Bør ikke have **kun** inhalationsmedicin. PEP-fløjte ved behov er fint, men som led i bredere rehabilitering/respirationsfysioterapi.
+
+---
+
+## Spørgsmål 7
+
+Hvad kendetegner astma sammenlignet med KOL?
+
+A) Permanent nedsat lungefunktion  
+B) Altid debut i barndommen  
+C) Reversibel luftvejsobstruktion  
+D) Kun ikke-allergisk type findes  
+
+---
+
+## Svar 7
+
+**Korrekt svar: C**
+
+*Begrundelse:* Astma er kendetegnet ved reversibel luftvejsobstruktion, i modsætning til KOL hvor der er permanent nedsat lungefunktion.
+
+---
+
+## Spørgsmål 8
+
+En 25-årig asylansøger præsenterer sig med:
+- Tiltagende træthed over 2 måneder
+- Nattesved
+- Vægttab
+- Blodig hoste
+
+Hvilken diagnose er mest sandsynlig?
+
+A) Pneumoni  
+B) Tuberkulose  
+C) Lungecancer  
+D) Bronkitis  
+
+---
+
+## Svar 8
+
+**Korrekt svar: B**
+
+*Begrundelse:* Symptombilledet med B-symptomer, langsom udvikling og hæmoptyse hos en ung person fra højrisikoland er klassisk for tuberkulose.
+
+## Spørgsmål 9
+
+En 62-årig kvinde finder en uøm knude i højre bryst. Hvad er næste skridt i udredningen?
+
+A) Kontrol om 3 måneder  
+B) Trippeldiagnostik  
+C) Henvisning til fysioterapeut  
+D) Antibiotisk behandling  
+
+---
+
+## Svar 9
+
+**Korrekt svar: B**
+
+*Begrundelse:* Ved fund af knude i brystet skal der altid foretages trippeldiagnostik (klinisk undersøgelse, mammografi og ultralyd med biopsi) for at udelukke cancer.
+
+---
+
+## Spørgsmål 10
+
+Ved mediastinitis efter hjertekirurgi, hvilket symptom er MINDST sandsynligt?
+
+A) Thorakale smerter  
+B) Feber  
+C) Konfusion  
+D) Perifere ødemer  
+
+---
+
+## Svar 10
+
+**Korrekt svar: D**
+
+*Begrundelse:* Mediastinitis giver typisk thorakale smerter, feber og påvirket almentilstand. Perifere ødemer er ikke et typisk symptom ved mediastinitis.
+
+---
+
+## Spørgsmål 11
+
+Hvilken type metastaser ses hyppigst ved brystkræft?
+
+A) Lever  
+B) Hjerne  
+C) Lymfeknuder i aksil  
+D) Lunger  
+
+---
+
+## Svar 11
+
+**Korrekt svar: C**
+
+*Begrundelse:* Brystkræft spreder sig først og hyppigst til lymfeknuder i aksilen (lokalmetastaser), før der eventuelt kommer fjernmetastaser.
+
+---
+
+## Spørgsmål 12
+
+En patient udvikler pludselig:
+- Svær åndenød
+- Takykardi
+- Cyanose
+- Forskydning af trachea
+
+Hvilken diagnose er mest sandsynlig?
+
+A) Pneumoni  
+B) Trykpneumothorax  
+C) Lungeemboli  
+D) Akut astma  
+
+---
+
+## Svar 12
+
+**Korrekt svar: B**
+
+*Begrundelse:* Kombinationen af **akut** respiratorisk distress og trachealforskydning er karakteristisk for trykpneumothorax, som er en akut livstruende tilstand.
+
+---
+
+## Spørgsmål 13
+
+Dårligt spørgsmål, drop det. Efter mastektomi pga. brystkræft, hvornår bør skuldermobilisering påbegyndes?
+
+A) Efter 6 uger
+B) Når smerterne er væk
+C) Fra dag 1 postoperativt
+D) Efter fjernelse af dræn
+
+---
+
+## Svar 13
+
+**Korrekt svar: C**
+
+*Begrundelse:* Tidlig mobilisering er vigtig for at undgå skulderproblemer. Starter fra dag 1 med forsigtige øvelser, også selvom der er dræn.
+
+---
+
+## Spørgsmål 14
+
+En patient med pectus excavatum har følgende symptomer:
+- Dyspnø ved anstrengelse
+- Trykken for brystet
+- Palpitationer
+
+Hvad er den mest sandsynlige årsag til symptomerne?
+
+A) Lungevolumen reduktion  
+B) Påvirkning af højre ventrikel  
+C) Psykologisk årsag  
+D) Nedsat muskelstyrke  
+
+---
+
+## Svar 14
+
+**Korrekt svar: B**
+
+*Begrundelse:* Ved pectus excavatum er kompression af højre ventrikel den hyppigste årsag til kardiopulmonale symptomer.
+
+---
+
+## Spørgsmål 15
+
+Hvilken tilstand giver oftest inspiratoriske smerter?
+
+A) Lungeemboli  
+B) Pleurit  
+C) Pneumoni  
+D) Bronkitis  
+
+---
+
+## Svar 15
+
+**Korrekt svar: B**
+
+*Begrundelse:* Pleurit giver karakteristiske vejrtrækningssynkrone smerter, især ved inspiration pga. inflammation af pleura. De to pleurahinder gør normalt at lungerne udvider sig gnidingsfrit. Dette er kompromiteret ved inflammation af pleura. 
+
+---
+
+## Spørgsmål 16
+
+Ved mistanke om brystkræft, hvad indgår IKKE i triple-diagnostik?
+
+A) Mammografi  
+B) MR-scanning  
+C) Klinisk undersøgelse  
+D) Ultralyd med biopsi  
+
+---
+
+## Svar 16
+
+**Korrekt svar: B**
+
+*Begrundelse:* Triple-diagnostik består af klinisk undersøgelse, mammografi og ultralyd med biopsi. MR-scanning er ikke standard i den initiale udredning.
+
+## Spørgsmål 17
+
+En 65-årig mand med kendt KOL udvikler følgende symptomer:
+- Tiltagende åndenød over 2 måneder
+- Ny vedvarende hoste
+- 5 kg vægttab
+- Hæmoptyse
+
+Hans KOL har ellers været stabil med få eksacerbationer. Hvilken tilstand bør man særligt mistænke?
+
+A) KOL eksacerbation
+B) Pneumoni
+C) Lungecancer
+D) Bronkiektasier
+
+---
+
+## Svar 17
+
+**Korrekt svar: C**
+
+*Begrundelse:* 
+- Der er flere alarmsymptomer der peger på lungecancer:
+  1. Gradvis forværring over længere tid (ukarakteristisk for eksacerbation)
+  2. Nytilkommen hoste hos en patient med ellers stabil KOL
+  3. B-symptomer (vægttab)
+  4. Hæmoptyse
+- KOL-patienter har markant øget risiko for lungecancer pga:
+  - Fælles risikofaktor (rygning)
+  - Kronisk inflammation
+  - Nedsat clearance af karcinogener
+- Derfor skal man have særlig opmærksomhed på nye symptomer hos KOL-patienter der afviger fra deres vanlige mønster
+
+---
+
+## Spørgsmål 18
+
+En patient kommer med akutte thorakale smerter. Hvilken kombination af symptomer og fund er mest alarmerende?
+
+A) Inspirationsforværrede smerter + normal saturation
+B) Konstante smerter + normal puls
+C) Pludseligt indsættende smerter + hypotension + takykardi
+D) Gradvist tiltagende smerter + let feber
+
+---
+
+## Svar 18
+
+**Korrekt svar: C**
+
+*Begrundelse:*
+- Denne symptomkombination kan indikere flere livstruende tilstande:
+  1. Aortadissektion:
+     - Pludseligt indsættende smerter
+     - Kredsløbspåvirkning pga. blødning/shock
+  2. Trykpneumothorax:
+     - Akut påvirkning af det venøse tilbageløb
+     - Mediastinal forskydning
+  3. Massiv lungeemboli:
+     - Akut højresidig belastning
+     - Obstruktivt shock
+
+- De andre kombinationer peger mod mindre akutte tilstande:
+  - A: Typisk for pleurit
+  - B: Kunne være stabil angina
+  - D: Tyder på inflammatorisk tilstand
+
+---
+
+## Spørgsmål 19
+
+En patient har gennemgået operation for pneumothorax. Hvilken kombination af postoperative tiltag er mest hensigtsmæssig?
+
+A) Sen mobilisering + dybe vejrtrækninger
+B) Tidlig mobilisering + hosterestriktioner
+C) Tidlig mobilisering + vejrtrækningsøvelser + PEP
+D) Immobilisering + smertestillende
+
+---
+
+## Svar 19
+
+**Korrekt svar: C**
+
+*Begrundelse:* 
+- Det optimale postoperative regime skal:
+  1. Forebygge komplikationer:
+     - Atelektaser
+     - Pneumoni
+     - Venøse tromber
+  
+  2. Fremme opheling:
+     - God lungefunktion
+     - Sufficient smertedækning
+     - Undgå belastning af operationssår
+  
+  3. Specifikt efter VATS (video assisted thorascopic surgery - ved pneumothorax):
+     - Tidlig mobilisering er vigtig for at forebygge adhærencer
+     - PEP-fløjte hjælper med at
+       * Forebygge atelektaser
+       * Mobilisere sekret
+       * Optimere ventilationen
+     - Vejrtrækningsøvelser sikrer fuld ekspansion af lungen
+

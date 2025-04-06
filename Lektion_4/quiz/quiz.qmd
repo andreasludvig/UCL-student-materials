@@ -1,0 +1,324 @@
+---
+title: "Quiz: Medicin og Kirurgi"
+subtitle: "Lektion 4: Gastroenterologi"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+
+Hvilken tilstand skal især mistænkes ved vedvarende blodig afføring, ændret afføringsmønster og B-symptomer hos en 70-årig?
+
+A) Hæmorider
+B) Kolorektal cancer
+C) Diverticulitis
+D) Obstipation
+
+## Svar 1
+
+Korrekt svar: B - Kolorektal cancer.
+
+A) Forkert: Hæmorider giver typisk kun frisk blod på papiret/i toilettet og ikke B-symptomer
+B) Korrekt: Kombinationen af vedvarende blødning, ændret afføringsmønster og især B-symptomer hos en ældre person er klassisk for kolorektal cancer
+C) Forkert: Selvom diverticulitis kan give blødning, er kombinationen med B-symptomer og ændret afføringsmønster mere typisk for cancer
+D) Forkert: Obstipation giver ikke blodig afføring (i sig selv) eller B-symptomer
+
+## Spørgsmål 3
+
+Hvad karakteriserer ileus?
+
+A) Kraftige tarmsmerter og diarré
+B) Vedvarende mavesmerter og feber
+C) Meteorisme, ophørt afførings- og flatusafgang
+D) Blod i afføringen og mavekramper
+
+## Svar 3
+
+Korrekt svar: C - Meteorisme, ophørt afførings- og flatusafgang
+
+Forklaring:
+
+A) Forkert: Diarré er netop ikke til stede ved ileus
+B) Forkert: Dette passer bedre med fx appendicit eller diverticulitis
+C) Korrekt: Dette er de klassiske symptomer på ileus (tarmslyng). Patienterne har typisk en udspilet, meteoristisk abdomen og ophørt passage
+D) Forkert: Dette passer bedre med inflammatory bowel disease
+
+## Spørgsmål 4
+
+Hvilket af følgende symptomer er IKKE typisk for appendicit?
+
+A) Smerter startende periumbilicalt med vandring til højre fossa
+B) Kvalme og evt. opkastning
+C) Let feber
+D) Blodig diarré
+
+## Svar 4
+
+Korrekt svar: D - Blodig diarré
+
+Forklaring:
+
+A) Dette er et klassisk symptom på appendicit
+B) Dette er et almindeligt symptom ved appendicit
+C) Let temperaturforhøjelse ses ofte ved appendicit
+D) Korrekt: Blodig diarré er ikke et typisk symptom ved appendicit. Dette ses oftere ved IBD eller infektiøs gastroenteritis
+
+## Spørgsmål 5
+
+En 45-årig kvinde har gennem flere måneder oplevet sure opstød og brændende smerter bag brystbenet, især efter store måltider og når hun ligger ned. Hendes symptomer lindres når hun tager håndkøbs antacida. Hvad er den mest sandsynlige diagnose?
+
+A) Ulcus ventriculi
+B) Gastroøsofageal reflukssygdom (GERD)
+C) Galdestenssmerter
+D) Angina pectoris
+
+## Svar 5
+
+Korrekt svar: B - Gastroøsofageal reflukssygdom (GERD)
+
+Forklaring:
+
+A) Forkert: Ulcus giver typisk mere konstante smerter og er ikke positions- eller måltidsafhængigt på samme måde
+B) Korrekt: Dette er klassiske symptomer på GERD - forværring ved måltider/liggende stilling og effekt af antacida
+C) Forkert: Galdestenssmerter kommer typisk i anfald og er lokaliseret under højre kurvatur
+D) Forkert: Angina pectoris er typisk anstrengelsesudløst og lindres ikke af antacida
+
+## Spørgsmål 6
+
+Du møder Bent på 68 år i dit træningscenter. Han fortæller at han har haft sort afføring de sidste par dage og føler sig svimmel. Han tager blodfortyndende medicin pga. atrieflimmer og bruger også flere smertestillende tabletter dagligt pga. slidgigt. Hvad er det vigtigste at gøre?
+
+A) Anbefale ham at drikke mere vand og spise mere fiberrigt
+B) Sende ham direkte til akutmodtagelsen
+C) Foreslå at han tager en pause med træningen
+D) Anbefale at han bestiller tid hos egen læge i næste uge
+
+## Svar 6
+
+Korrekt svar: B - Sende ham direkte til akutmodtagelsen
+
+Forklaring:
+
+A) Forkert: Dette er for passivt ved mistanke om akut GI-blødning
+B) Korrekt: Sort afføring sammen med svimmelhed hos en patient i AK-behandling og som bruger NSAID er alarmsymptomer der kræver akut vurdering
+C) Forkert: Dette er alt for passivt ved disse symptomer
+D) Forkert: Symptomerne kræver akut vurdering - kan ikke vente til næste uge
+
+## Spørgsmål 7
+
+Hvilken af følgende tilstande giver typisk IKKE diarré?
+
+A) Inflammatory bowel disease
+B) Laktoseintolerans
+C) Diverticulosis coli
+D) Cøliaki
+
+## Svar 7
+
+Korrekt svar: C - Diverticulosis coli
+
+Forklaring:
+
+A) Forkert: IBD giver typisk diarré som et hovedsymptom
+B) Forkert: Laktoseintolerans giver diarré ved indtag af mælkeprodukter
+C) Korrekt: Ukompliceret diverticulosis giver *typisk* ikke diarré. 
+D) Forkert: Cøliaki giver typisk diarré ved indtag af gluten
+
+## Spørgsmål 8
+
+En 25-årig kvinde har gennem et halvt år haft tilbagevendende episoder med mavesmerter og diarré, nogle gange med blod i. Hun er træt og har tabt sig 5 kg. Hendes mor har Crohns sygdom. Hvilken udredning er mest relevant som det første?
+
+A) Gastroskopi
+B) CT-scanning af abdomen
+C) Koloskopi
+D) Kapselendoskopi
+
+## Svar 8
+
+Korrekt svar: C - Koloskopi
+
+Forklaring:
+
+A) Forkert: Gastroskopi er ikke førstevalg ved **nedre** GI-symptomer
+B) Forkert: CT er ikke førstevalg til diagnostik af IBD
+C) Korrekt: Ved mistanke om IBD hos ung patient med familie disposition er koloskopi med biopsi den bedste første undersøgelse
+D) Forkert: Kapselendoskopi bruges først efter andre undersøgelser og primært ved mistanke om tyndtarmssygdom
+
+## Spørgsmål 9
+
+Hvilket af følgende er et faresignal ("red flag") ved colon irritable (IBS)?
+
+A) Vekslende afføringsmønster
+B) Oppustethed efter måltider
+C) Natlig diarré
+D) Mavesmerter der bedres ved defækation
+
+## Svar 9
+
+Korrekt svar: C - Natlig diarré
+
+Forklaring:
+
+- A) Forkert: Vekslende afføringsmønster er et typisk symptom ved IBS
+- B) Forkert: Oppustethed efter måltider er almindeligt ved IBS
+- C) Korrekt: Natlig diarré er et alarmsymptom der ikke er typisk for IBS og bør føre til yderligere udredning
+- D) Forkert: Smerter der bedres ved defækation er et klassisk IBS-symptom
+
+Alarmsymptomer ved diarre: blod, vægttab, inkontinens, natlig aff. 
+
+## Spørgsmål 10
+
+En 82-årig mand har gennem nogle uger bemærket tiltagende træthed og er blevet tiltagende bleg. Hans afføring er blevet meget mørk. Han bruger acetylsalicylsyre som tromboseprofylakse. Hans hæmoglobin er 5,5 mmol/l (normalområde 8,3-10,5 mmol/l). Hvilken tilstand er mest sandsynlig?
+
+A) Jernmangelanæmi pga. dårlig kost
+B) Blødning fra øvre GI-kanal
+C) Akut leverpåvirkning
+D) Inflammatorisk tarmsygdom
+
+## Svar 10
+
+Korrekt svar: B - Blødning fra øvre GI-kanal
+
+Forklaring:
+
+A) Forkert: Jernmangelanæmi udvikler sig typisk langsommere og giver ikke mørk afføring
+B) Korrekt: Kombinationen af melæna, træthed, bleghed og anæmi hos en patient i behandling med ASA tyder på øvre GI-blødning
+C) Forkert: Leverpåvirkning giver ikke dette symptombillede
+D) Forkert: IBD giver typisk ikke dette symptombillede og er mindre sandsynligt i denne aldersgruppe
+
+## Spørgsmål 11
+
+Hvilken af følgende er den hyppigste årsag til mavesår (ulcus)?
+
+A) Stress
+B) Alkohol
+C) Helicobacter pylori
+D) Rygning
+
+## Svar 11
+
+C. Helicobacter pylori
+
+Forklaring:
+
+A) Forkert: Lidt tricky. Fysiologisk stress? I så fald kan det være årsag til ulucs, men ikke hyppigste årsag.
+B) Forkert: Alkohol kan irritere maveslimhinden men er ikke den primære årsag (gastrit)
+C) Korrekt: H. pylori er ansvarlig for ca. 90% af duodenale ulcera og 70-80% af ventrikululcera. 
+D) Forkert: Rygning kan øge risikoen men er ikke den primære årsag
+
+## Spørgsmål 12, igen! Kinda.
+
+En patient præsenterer sig med akutte mavesmerter, meteoristisk abdomen samt ophørt afførings- og flatusafgang. Hvad er den mest sandsynlige diagnose?
+
+A) Appendicitis
+B) Ileus
+C) Diverticulitis
+D) Gastritis
+
+## Svar 12
+
+Korrekt svar: B - Ileus
+
+Forklaring:
+
+A) Forkert: Appendicitis giver typisk lokaliserede smerter i højre fossa og ikke ophørt tarmpassage
+B) Korrekt: Dette er klassiske symptomer på ileus med meteorisme og ophørt passage
+C) Forkert: Diverticulitis giver typisk smerter i venstre side og ikke komplet ophørt passage
+D) Forkert: Gastritis giver ikke ophørt tarmpassage
+
+## Spørgsmål 13
+
+Hvad er den vigtigste forskel mellem Mb. Crohn og colitis ulcerosa?
+
+A) Mb. Crohn kan ramme hele GI-kanalen, colitis ulcerosa kun colon og rectum
+B) Mb. Crohn giver kun diarré, colitis ulcerosa giver blodig diarré
+C) Mb. Crohn rammer kun børn, colitis ulcerosa kun voksne
+D) Mb. Crohn er arvelig, colitis ulcerosa er ikke
+
+## Svar 13
+
+Korrekt svar: A - Forskellig anatomisk udbredelse
+
+Forklaring:
+
+A) Korrekt: Dette er den vigtigste skelnen. Mb. Crohn kan ramme hele GI-kanalen fra mund til anus, mens colitis ulcerosa kun rammer colon og rectum
+B) Forkert: Begge sygdomme kan give både almindelig og blodig diarré
+C) Forkert: Begge sygdomme kan ramme alle aldersgrupper
+D) Forkert: Begge sygdomme har en genetisk komponent
+
+
+## Spørgsmål 14
+
+En patient præsenterer sig med akutte mavesmerter der startede omkring navlen men nu er lokaliseret i højre fossa. Patienten har kvalme og let feber. Hvilken diagnose er mest sandsynlig?
+
+A) Ileus
+B) Appendicitis
+C) Diverticulitis
+D) Gastroenteritis
+
+## Svar 14
+
+B) Klassisk præsentation af appendicitis!
+
+Hvorfor ikke de andre?
+
+
+## Spørgsmål 15
+
+Hvilke symptomer er karakteristiske for gastroøsofageal reflukssygdom (GERD)?
+
+A) Halsbrand og sure opstød
+B) Blodig diarré og mavekramper
+C) Kvalme og opkastning
+D) Obstipation og oppustethed
+
+## Svar 15
+
+Det kan i sgu. 
+
+## Spørgsmål 16
+
+Hvilken tilstand skal mistænkes ved sort, tjæreagtig afføring (melæna) og evt. kaffegrumslignende opkast?
+
+A) Kolorektal cancer
+B) Øvre GI-blødning
+C) Diverticulitis
+D) Blindtarmsbetændelse
+
+## Svar 16
+
+Orker ikke flere nu!
+
+## Spørgsmål 17
+
+Hvad er dyspepsi? Hvilke symptomer dækker det over?
+
+## Svar 17
+
+Generel betegnelse for en samling symptomer fra øvre GI: 
+
+* Smerter
+* Ubehag
+* Kvalme
+* Sure opstød
+* Symptomerne skal være vedvarende eller recidiverende før det betegnes dyspepsi 
+  
+## Svar 17 fortsat
+
+Hyppigt symptombillede, der fom oftest er ufarlig. 
+Kan dog samtidig dække over mange differentialdiagnoser:
+
+* Ulcussygdom
+* Øsofagit
+* Pancreassygdomme
+* Cancer
+* Uspecifikt!
+* Dårlig korreleret til specifik sygdom.
+
+Faresignaler:
+
+* Opkastninger
+* Vægttab
+* Anæmi
+* Blødning

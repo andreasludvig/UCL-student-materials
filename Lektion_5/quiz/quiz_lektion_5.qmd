@@ -1,0 +1,308 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 5: Pancreas, lever og galdeveje"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+
+Hvilken tilstand skal især mistænkes hos en patient med akutte, konstante mavesmerter øverst i abdomen med udstråling til ryggen og opkastning?
+
+A) Cholecystitis
+B) Akut pancreatitis
+C) Galdesten
+D) Levercirrose
+
+## Svar 1
+
+Korrekt svar: B - Akut pancreatitis
+
+Forklaring:
+
+A) Forkert: Cholecystitis giver typisk smerter under højre kurvatur
+B) Korrekt: Dette er klassiske symptomer på akut pancreatitis med konstante, morfikakrævende smerter øverst i abdomen med udstråling til ryggen
+C) Forkert: Galdesten giver typisk kolikagtige smerter under højre kurvatur
+D) Forkert: Cirrose giver sjældent akutte smerter
+
+## Spørgsmål 2
+
+Hvad er de to hyppigste årsager til akut pancreatitis?
+
+A) Alkohol og cancer
+B) Galdesten og rygning
+C) Alkohol og galdesten
+D) Cancer og hypertriglyceridæmi
+
+## Svar 2
+
+Korrekt svar: C - Alkohol og galdesten
+
+Forklaring:
+
+A) Forkert: Cancer er en sjælden årsag til akut pancreatitis
+B) Forkert: Rygning er ikke en direkte årsag til akut pancreatitis
+C) Korrekt: Alkohol (45%) og galdesten (35%) er de klart hyppigste årsager
+D) Forkert: Hypertriglyceridæmi er en sjældnere årsag
+
+## Spørgsmål 3
+
+En 55-årig mand med kendt alkoholoverforbrug indlægges med ascites og små spider nævi på overkroppen. Hans levertal er forhøjede. Hvilken tilstand er mest sandsynlig?
+
+A) Viral hepatitis
+B) Akut pancreatitis
+C) Levercirrose
+D) Kolangitis
+
+## Svar 3
+
+Korrekt svar: C - Levercirrose
+
+Forklaring:
+
+A) Forkert: Viral hepatitis giver ikke typisk disse cirrosestigmata
+B) Forkert: Pancreatitis giver ikke ascites og spider nævi
+C) Korrekt: Kombinationen af alkoholoverforbrug, ascites og spider nævi er klassiske tegn på cirrose
+D) Forkert: Kolangitis giver typisk Charcots triade med feber, icterus og smerter
+
+## Spørgsmål 4
+
+Hvilken af følgende er IKKE et typisk cirrosestigmata?
+
+A) Spider nævi
+B) Caput medusae
+C) Icterus
+D) Arteriel hypertension
+
+## Svar 4
+
+Korrekt svar: D - Hypertension
+
+Forklaring:
+
+A) Forkert: Spider nævi er et klassisk cirrosestigmata
+B) Forkert: Caput medusae er et klassisk cirrosestigmata
+C) Forkert: Icterus er et klassisk cirrosestigmata
+D) Korrekt: Hypertension er ikke et cirrosestigmata
+
+## Spørgsmål 5
+
+Hvilke af følgende symptomer er typiske for pancreas cancer?
+
+A) Akutte mavesmerter og feber
+B) B-symptomer og senere icterus
+C) Diarré og vægttab
+D) Spider nævi og ascites
+
+## Svar 5
+
+Korrekt svar: B - B-symptomer og senere icterus
+
+Forklaring:
+
+A) Forkert: Dette passer bedre med akut pancreatitis
+B) Korrekt: Pancreas cancer giver ofte uspecifikke symptomer først (B-symptomer) og senere icterus ved afklemning af galdevejene
+C) Forkert: Dette passer bedre med IBD
+D) Forkert: Dette er cirrosestigmata
+
+## Spørgsmål 6
+
+Hvad er den hyppigste årsag til levercirrose i Danmark?
+
+A) Viral hepatitis
+B) Alkohol
+C) Autoimmun hepatitis
+D) NASH
+
+## Svar 6
+
+Korrekt svar: B - Alkohol
+
+Forklaring:
+
+A) Forkert: Viral hepatitis er sjældnere årsag til cirrose i Danmark
+B) Korrekt: Alkohol er årsag til ca. 75% af alle cirrose tilfælde i Danmark
+C) Forkert: Autoimmun hepatitis er en sjælden årsag til cirrose
+D) Forkert: NASH er stigende men ikke den hyppigste årsag
+
+## Spørgsmål 7
+
+En patient med cirrose udvikler pludseligt konfusion og bliver døsig. Hvad er den mest sandsynlige årsag?
+
+A) Hjerneblødning
+B) Hepatisk encefalopati
+C) Dehydrering
+D) Hypoglykæmi
+
+## Svar 7
+
+Korrekt svar: B - Hepatisk encefalopati
+
+Forklaring:
+
+A) Forkert: Hjerneblødning er mindre sandsynlig som årsag til gradvis konfusion
+B) Korrekt: Hepatisk encefalopati er en velkendt komplikation til cirrose med påvirket bevidsthedsniveau
+C) Forkert: Dehydrering alene giver sjældent dette symptombillede
+D) Forkert: Hypoglykæmi kan give konfusion men er ikke typisk hos cirrosepatienter
+
+## Spørgsmål 8
+
+En 45-årig kvinde med nyopdaget galdestenssygdom spørger om hun skal opereres. Hvilken behandling er korrekt?
+
+A) Akut operation
+B) Operation hvis der er hyppige smerter
+C) Profylaktisk operation
+D) Operation er aldrig indiceret ved galdesten
+
+## Svar 8
+
+Korrekt svar: B - Operation hvis der er hyppige smerter
+
+Forklaring:
+
+A) Forkert: Akut operation er kun indiceret ved komplikationer
+B) Korrekt: Operation tilbydes kun ved socialt invaliderende symptomer
+C) Forkert: Profylaktisk operation er ikke indiceret
+D) Forkert: Operation kan være nødvendig ved svære symptomer
+
+## Spørgsmål 9
+
+Hvilket af følgende er en potentielt livstruende tilstand der kræver akut behandling?
+
+A) Kronisk pancreatitis
+B) Cholecystolithiasis
+C) Cholangitis
+D) Leversteatose
+
+## Svar 9
+
+Korrekt svar: C - Cholangitis
+
+Forklaring:
+
+A) Forkert: Kronisk pancreatitis er ikke akut livstruende
+B) Forkert: Ukomplicerede galdesten er ikke akut livstruende
+C) Korrekt: Cholangitis er en potentielt livstruende tilstand der kræver akut antibiotika og ERCP
+D) Forkert: Leversteatose udvikler sig langsomt
+
+## Spørgsmål 10
+
+En patient med cirrose udvikler pludselig hæmatemese og er påvirket. Hvad er den mest sandsynlige årsag?
+
+A) Ulcus ventriculi
+B) Øsofagusvaricer
+C) Gastritis
+D) Mallory-Weiss læsion
+
+## Svar 10
+
+Korrekt svar: B - Øsofagusvaricer
+
+Forklaring:
+
+A) Forkert: Ulcus er mindre sandsynligt som primær årsag hos cirrose patient
+B) Korrekt: Blødning fra øsofagusvaricer er en frygtet komplikation til cirrose pga portal hypertension
+C) Forkert: Gastritis giver sjældent akut større blødning
+D) Forkert: Mallory-Weiss er mindre sandsynlig som primær årsag
+
+## Spørgsmål 11
+
+Hvad er prognosen for pancreas cancer?
+
+A) God ved tidlig diagnose
+B) 50% 5-års overlevelse
+C) Meget dårlig med under 5% 5-års overlevelse
+D) Afhænger primært af alder
+
+## Svar 11
+
+Korrekt svar: C - Meget dårlig med under 5% 5-års overlevelse
+
+Forklaring:
+
+A) Forkert: Selv ved tidlig diagnose er prognosen dårlig
+B) Forkert: 5-års overlevelsen er betydeligt lavere
+C) Korrekt: Pancreas cancer har meget dårlig prognose med under 5% 5-års overlevelse
+D) Forkert: Prognosen er dårlig uanset alder
+
+## Spørgsmål 12
+
+En cirrose-patient udvikler ascites. Hvilken behandling er førstevalg?
+
+A) Ascitespunktur
+B) Diuretika og saltrestriktion
+C) Antibiotika
+D) Albumin infusion
+
+## Svar 12
+
+Korrekt svar: B - Diuretika og saltrestriktion
+
+Forklaring:
+
+A) Forkert: Ascitespunktur er ikke førstevalg ved ukompliceret ascites
+B) Korrekt: Diuretika og saltrestriktion er førstevalg ved behandling af ascites
+C) Forkert: Antibiotika bruges kun ved infektion i ascitesvæsken
+D) Forkert: Albumin bruges primært ved større tapninger
+
+## Spørgsmål 13
+
+Hvilken undersøgelse er bedst/førstevalg til at diagnosticere galdesten?
+
+A) CT scanning
+B) Ultralydsscanning
+C) MR scanning
+D) Røntgen af abdomen
+
+## Svar 13
+
+Korrekt svar: B - Ultralydsscanning
+
+Forklaring:
+
+A) Forkert: CT er ikke førstevalg til diagnostik af galdesten
+B) Korrekt: UL er den bedste og billigste undersøgelse til at diagnosticere galdesten
+C) Forkert: MR bruges primært ved mere komplekse problemstillinger
+D) Forkert: Almindelig røntgen kan ikke visualisere galdesten
+
+## Spørgsmål 14 
+
+En patient med kronisk pancreatitis har tiltagende mavesmerter og diarré. Hvad er den sandsynlige årsag til diarréen?
+
+A) Bakteriel overvækst
+B) Eksokrin pancreasinsufficiens
+C) Stress
+D) Laktoseintolerans
+
+## Svar 14
+
+Korrekt svar: B - Eksokrin pancreasinsufficiens
+
+Forklaring:
+
+A) Forkert: Bakteriel overvækst er ikke en typisk komplikation
+B) Korrekt: Ved kronisk pancreatitis udvikles ofte eksokrin insufficiens med nedsat enzymproduktion der giver diarré
+C) Forkert: Stress giver ikke denne type diarré
+D) Forkert: Laktoseintolerans er ikke relateret til pancreatitis
+
+## Spørgsmål 15
+
+En patient med galdesten udvikler feber, smerter under højre kurvatur og icterus. Hvad er diagnosen?
+
+A) Kolecystitis
+B) Pancreatitis
+C) Cholangitis
+D) Viral hepatitis
+
+## Svar 15
+
+Korrekt svar: C - Cholangitis
+
+Forklaring:
+
+A) Forkert: Kolecystitis giver sjældent icterus
+B) Forkert: Pancreatitis giver ikke typisk icterus
+C) Korrekt: Dette er Charcots triade (feber, smerter og icterus) som er klassisk for cholangitis
+D) Forkert: Viral hepatitis giver ikke typisk smerter under højre kurvatur

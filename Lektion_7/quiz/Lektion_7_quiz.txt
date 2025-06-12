@@ -1,0 +1,119 @@
+Hvilken af følgende er IKKE en normal funktion af nyrerne?
+A) Regulering af blodtryk via RAAS
+B) Syntese af EPO
+C) Produktion af insulin
+D) Regulering af calcium-fosfat balancen
+
+Forklaring: C er korrekt da insulin produceres i pancreas. De andre funktioner er alle normale nyrefunktioner. Dette tester grundlæggende forståelse af nyrernes funktion.
+
+En 45-årig kvinde indlægges med oliguri, kvalme og konfusion. Blodprøver viser stærkt forhøjet kreatinin. Hvad er den mest sandsynlige diagnose?
+A) Kronisk nyresvigt
+B) Akut nyresvigt
+C) Nyresten
+D) Urinvejsinfektion
+
+Forklaring: B er korrekt da symptomerne og den akutte præsentation tyder på akut nyresvigt. Kronisk nyresvigt udvikler sig over længere tid, nyresten giver typisk koliksmerter, og UVI giver andre symptomer.
+
+Hvilken type nyresvigt skyldes nedsat perfusion af nyrerne?
+A) Prærenalt nyresvigt
+B) Renalt nyresvigt
+C) Postrenalt nyresvigt
+D) Kronisk nyresvigt
+
+Forklaring: A er korrekt da prærenalt nyresvigt netop defineres ved nedsat perfusion af nyrerne fx pga. hypotension eller hypovolæmi.
+
+En patient med prostatahyperplasi udvikler pludselig anuri og stigende kreatinin. Hvilken type nyresvigt er der mest sandsynligt tale om?
+A) Prærenalt nyresvigt
+B) Renalt nyresvigt
+C) Postrenalt nyresvigt
+D) Kronisk nyresvigt
+
+Forklaring: C er korrekt da prostatahyperplasi kan give obstruktion af urinvejene hvilket definerer postrenalt nyresvigt.
+
+Hvilken behandling er førstevalg ved ukompliceret nedre urinvejsinfektion hos ikke-gravide kvinder?
+A) Intravenøs antibiotika
+B) Peroral antibiotika
+C) Smertestillende medicin
+D) Øget væskeindtag
+
+Forklaring: B er korrekt da ukompliceret UVI behandles med peroral antibiotika. IV antibiotika er for aggressivt, og de andre behandlinger er ikke tilstrækkelige alene.
+
+En 75-årig mand har gennem flere måneder bemærket blod i urinen. Hvad bør man primært mistænke?
+A) Nyresten
+B) Urinvejsinfektion
+C) Cancer i urinvejene
+D) Prostatitis
+
+Forklaring: C er korrekt da makroskopisk hæmaturi hos ældre, særligt vedvarende, er et alarmsymptom for cancer indtil andet er bevist.
+
+Hvilken tilstand er karakteriseret ved øget natlig vandladning?
+A) Stress-inkontinens
+B) Nykturi
+C) Pollakisuri
+D) Dysuri
+
+Forklaring: B er korrekt da nykturi netop defineres som øget natlig vandladning. De andre termer beskriver andre typer vandladningsproblemer.
+
+Ved hvilken PSA-værdi bør man mistænke prostatacancer?
+A) >4 ng/ml
+B) >10 ng/ml
+C) >15 ng/ml
+D) >20 ng/ml
+
+Forklaring: A er korrekt da PSA >4 ng/ml er grænseværdien hvor yderligere udredning bør overvejes.
+
+Hvilken behandling er førstevalg ved symptomatisk benign prostatahyperplasi?
+A) Operation (TUR-P)
+B) Alfablokker
+C) 5-alfa-reduktasehæmmer
+D) Antibiotika
+
+Forklaring: B er korrekt da medicinsk behandling med alfablokker er førstevalg før mere invasive indgreb overvejes.
+
+En 35-årig kvinde har pludselige, kraftige flankesmerter med udstråling til lysken. Hvad er den mest sandsynlige diagnose?
+A) Appendicitis
+B) Nyresten
+C) Ovariecyste
+D) Diverticulitis
+
+Forklaring: B er korrekt da symptombilledet er klassisk for nyrestensanfald med koliksmerter.
+
+Hvad er det vigtigste diagnostiske redskab ved mistanke om urinvejsinfektion?
+A) Urindyrkning
+B) Urinmikroskopi
+C) Urinstix
+D) CT-scanning
+
+Forklaring: A er korrekt da urindyrkning er guldstandard for diagnosen og giver resistensbestemmelse til målrettet behandling.
+
+Hvilken type inkontinens bedres typisk ved bækkenbundstræning?
+A) Urge-inkontinens
+B) Stress-inkontinens
+C) Overflow-inkontinens
+D) Neurogen inkontinens
+
+Forklaring: B er korrekt da stress-inkontinens skyldes svag bækkenbund som kan trænes.
+
+En patient udvikler pludselig oliguri, kvalme og konfusion efter opstart af NSAID, ACE-hæmmer og diuretika. Hvad kaldes denne kombination?
+A) Dobbelt whammy
+B) Triple whammy
+C) Quadruple whammy
+D) Multiple whammy
+
+Forklaring: B er korrekt da kombinationen kaldes "triple whammy" og er kendt for at kunne give akut nyresvigt.
+
+Hvilken undersøgelse er bedst til at vurdere nyrefunktionen?
+A) Kreatinin
+B) eGFR
+C) Urinstix
+D) Ultralyd af nyrer
+
+Forklaring: B er korrekt da eGFR giver det bedste estimat af den reelle nyrefunktion, hvor kreatinin alene kan være misvisende.
+
+En patient med kronisk nyresvigt har følgende symptomer: træthed, kvalme, kløe og ødemer. Hvilket stadie af nyresvigt er der sandsynligvis tale om?
+A) Stadie 1-2
+B) Stadie 3
+C) Stadie 4-5
+D) Akut på kronisk nyresvigt
+
+Forklaring: C er korrekt da disse symptomer typisk først ses ved fremskreden nyresygdom (stadie 4-5).

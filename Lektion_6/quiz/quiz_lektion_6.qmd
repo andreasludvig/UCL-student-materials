@@ -1,0 +1,8 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 5: Pancreas, lever og galdeveje"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---

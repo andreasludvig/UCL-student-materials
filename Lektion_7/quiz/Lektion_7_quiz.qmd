@@ -1,0 +1,369 @@
+---
+title: "Quiz: Sygdomslære, Medicin & Kirurgi"
+subtitle: "Lektion 7: Nyrer og urinveje"
+author: "Andreas Svendsen"
+format:
+  revealjs:
+    embed-resources: true
+    scrollable: true
+    smaller: true
+---
+
+## Spørgsmål 1
+
+Hvilken af følgende er IKKE en normal funktion af nyrerne?
+
+A) Regulering af blodtryk via RAAS
+B) Syntese af EPO
+C) Produktion af insulin
+D) Regulering af calcium-fosfat balancen
+
+## Svar 1
+
+Forklaring: C er korrekt da insulin produceres i pancreas. De andre funktioner er alle normale nyrefunktioner.
+
+---------------
+
+## Spørgsmål 2
+
+En 45-årig kvinde indlægges med oliguri, kvalme og konfusion. Blodprøver viser stærkt forhøjet kreatinin. Hvad er den mest sandsynlige diagnose?
+
+A) Kronisk nyresvigt
+B) Akut nyresvigt
+C) Nyresten
+D) Urinvejsinfektion
+
+## Svar 2
+
+Forklaring: B er korrekt da symptomerne og den akutte præsentation tyder på akut nyresvigt.
+
+Kronisk nyresvigt udvikler sig over længere tid, nyresten giver typisk koliksmerter, og UVI giver andre symptomer. Obs. nyresten kan også føre til akut nyresvigt, hvilken type akut nyresvigt vil det i så fald være?
+
+
+## Svar 2.2
+
+Postrenalt
+
+---------------
+
+## Spørgsmål 3
+
+Hvilken type nyresvigt skyldes nedsat perfusion af nyrerne?
+
+A) Prærenalt nyresvigt
+B) Renalt nyresvigt
+C) Postrenalt nyresvigt
+D) Kronisk nyresvigt
+
+## Svar 3
+
+Forklaring: A er korrekt da prærenalt nyresvigt netop defineres ved nedsat perfusion af nyrerne fx pga. hypotension eller hypovolæmi.
+
+---------------
+
+## Spørgsmål 4
+
+En patient med prostatahyperplasi udvikler pludselig anuri og stigende kreatinin. Hvilken type nyresvigt er der mest sandsynligt tale om?
+
+A) Prærenalt nyresvigt
+B) Renalt nyresvigt
+C) Postrenalt nyresvigt
+D) Kronisk nyresvigt
+
+## Svar 4
+
+Forklaring: C er korrekt da prostatahyperplasi kan give obstruktion af urinvejene hvilket definerer postrenalt nyresvigt.
+
+--------------
+
+## Spørgsmål 5
+
+Hvilken behandling er førstevalg ved ukompliceret nedre urinvejsinfektion hos ikke-gravide kvinder?
+
+A) Intravenøs antibiotika
+B) Peroral antibiotika
+C) Smertestillende medicin
+D) Øget væskeindtag
+
+## Svar 5
+
+Forklaring: B er korrekt da ukompliceret UVI behandles med peroral antibiotika. IV antibiotika er for aggressivt, og de andre behandlinger er ikke tilstrækkelige alene.
+
+---------------
+
+## Spørgsmål 6
+
+En 75-årig mand har gennem flere måneder bemærket blod i urinen. Hvad bør man primært mistænke?
+
+A) Nyresten
+B) Urinvejsinfektion
+C) Cancer i urinvejene
+D) Prostatitis
+
+## Svar 6
+
+Forklaring: C er korrekt da makroskopisk hæmaturi hos ældre, særligt vedvarende, er et alarmsymptom for cancer indtil andet er bevist.
+
+Spørgsmålet kræver muligvis en omformulering til hvad bør udelukkes, men det bliver måske for nemt.
+
+--------------
+
+## Spørgsmål 7
+
+Hvilken tilstand er karakteriseret ved øget natlig vandladning?
+
+A) Stress-inkontinens
+B) Nykturi
+C) Pollakisuri
+D) Dysuri
+
+## Svar 7
+
+Forklaring: B er korrekt da nykturi netop defineres som øget natlig vandladning. De andre termer beskriver andre typer vandladningsproblemer.
+
+--------------
+
+## Spørgsmål 8
+
+Ved hvilken PSA-værdi bør man mistænke prostatacancer?
+
+A) \> 4 ng/ml
+B) \> 10 ng/ml
+C) \> 15 ng/ml
+D) \> 20 ng/ml
+
+## Svar 8
+
+Forklaring: A er korrekt da PSA >4 ng/ml er grænseværdien hvor yderligere udredning bør overvejes.
+
+Find bedre spørgsmål. Uden for pensum, og ikke særlig relevant.
+
+--------------
+
+## Spørgsmål 9
+
+Hvilken behandling er førstevalg ved symptomatisk benign prostatahyperplasi?
+
+A) Operation (TUR-P)
+B) Alfablokker
+C) 5-alfa-reduktasehæmmer
+D) Antibiotika
+
+## Svar 9
+
+Forklaring: B er korrekt da medicinsk behandling med alfablokker er førstevalg før mere invasive indgreb overvejes. 
+
+Find bedre spørgsmål. Uden for pensum, for svært og ikke særlig relevant.
+
+Vigtigtste er at vide at TUR-P (TransUretral Resektion af Prostata), er en god kirurgisk behandling såfremt medicinsk behandling er utilstrækkelig.
+
+-------------
+
+## Spørgsmål 10
+
+En 35-årig kvinde har pludselige, kraftige flankesmerter med udstråling til lysken. Hvad er den mest sandsynlige diagnose?
+
+A) Appendicitis
+B) Nyresten
+C) Ovariecyste
+D) Diverticulitis
+
+## Svar 10
+
+Forklaring: B er korrekt da symptombilledet er klassisk for nyrestensanfald med koliksmerter.
+
+Hvilke symptomer ville vi forvente ved de andre sygdomme (ovariecyste dog ikke pensum)?
+
+## Svar 10.2
+
+::: {.r-fit-text}
+A) Appendicitis (blindtarmsbetændelse):
+
+* Typisk sub-akut udvikling over 12-24 timer
+* Starter ofte med diffuse periumbilicale smerter
+* Udvikler sig gradvist til lokaliserede smerter i højre fossa iliaca
+* Tiltagende intensitet over timer
+* De øvrige symptomer (kvalme, feber, defense) udvikler sig også gradvist
+
+B) Ovariecyste:
+
+* Ensidige underlivssmerter. Smerter i nedre del af maven eller kønsorganerne ved kvinder.
+* Dunkende eller skarpe smerter. Ved ruptur akutte voldsomme smerter.
+* Evt. oppustethed.
+
+C) Diverticulitis:
+
+* Typisk sub-akut udvikling over dage
+* Ændret afføringsmønster.
+* Kvalme
+* Feber
+* Oftest venstresidige smerter i venstre fossa.
+  * Kan faktisk forekomme hvor som helst i colon, men er hyppigst i colon sigmoideum (80%)
+    * Smertelokalisationen følger den anatomiske lokalisation af den afficerede del af colon:
+      * Højresidige smerter ved diverticulitis i colon ascendens (sjældent)
+      * Epigastrielle smerter ved diverticulitis i colon transversum (meget sjældent)
+      * Venstresidige smerter ved diverticulitis i colon descendens/sigmoideum (hyppigst)
+
+Dette står i kontrast til nyrestensanfald, hvor:
+
+* Smerterne er meget akutte ("som lyn fra klar himmel")
+* Maksimal intensitet næsten med det samme
+* Typisk kolikagtige med kraftige flankesmerter og udstråling til lysken
+:::
+---------------
+
+## Spørgsmål 11
+
+Hvad er det vigtigste diagnostiske redskab ved mistanke om urinvejsinfektion?
+
+A) Urindyrkning
+B) Urinmikroskopi
+C) Urinstix
+D) CT-scanning
+
+##  Svar 11
+
+Forklaring: A er korrekt da urindyrkning er guldstandard for diagnosen og giver resistensbestemmelse til målrettet behandling.
+
+Urinstix er et glimrende screeningsredskab, og ved positiv stix kan evt. påbegyndes behandling efter optagelse af urinprøve til dyrkning og resistens.
+Antibiotika behandling kan så evt. rettes ind ved svar på D+R, hvis nødvendigt.
+
+---------------
+
+## Spørgsmål 12
+
+Ved hvilken type inkontinens er bækkenbundstræning den primære og ofte tilstrækkelige behandling?
+
+A) Urge-inkontinens
+B) Stress-inkontinens
+C) Overflow-inkontinens
+D) Neurogen inkontinens
+
+## Svar 12
+
+Forklaring: B er korrekt da stress-inkontinens skyldes svag bækkenbund som kan trænes.
+
+Stress-inkontinens skyldes nedsat funktion af bækkenbundsmuskulaturen og den urethrale sphincter, hvilket medfører ufrivillig vandladning ved øget abdominalt tryk (fx ved host, nys, løft eller motion). Bækkenbundstræning styrker muskulaturen og øger dermed den urethrale lukketryk, hvilket reducerer eller eliminerer symptomerne.
+De øvrige typer responderer ikke primært på bækkenbundstræning:
+
+Urge-inkontinens skyldes overaktiv blære og kræver primært anden behandling (livsstilsændringer, medicinsk behandling). Ved denne kan bækkenbundstræning dog også bruges som del af behandlingen. 
+
+Overflow-inkontinens skyldes obstruktion eller neurogen blæredysfunktion med retention
+
+Neurogen inkontinens skyldes nerve- eller rygmarvsskade og kræver specifik neurologisk udredning og behandling
+
+--------------------
+
+## Spørgsmål 13
+
+En patient udvikler pludselig oliguri, kvalme og konfusion efter opstart af NSAID, ACE-hæmmer og diuretika. Hvad kaldes denne kombination?
+
+A) Dobbelt whammy
+B) Triple whammy
+C) Quadruple whammy
+D) Multiple whammy
+
+## Svar 13
+
+Forklaring: B er korrekt da kombinationen kaldes "triple whammy"
+Hvilken sygdom er det denne triple whammy kan føre til?
+Lidt for nemt spørgsmål, men det vigtige er dog at vide at disse tre præparater aldrig bør bruges samtidig. 
+
+## Svar 13.2
+
+Akut nyresvigt, hvilket også passer med symptomerne.
+
+---------------------
+
+## Spørgsmål 14
+
+Hvilken undersøgelse er bedst til at vurdere nyrefunktionen?
+
+A) Kreatinin
+B) eGFR
+C) Urinstix
+D) Ultralyd af nyrer
+
+## Svar 14
+
+::: {.r-fit-text}
+Forklaring: B er korrekt
+
+eGFR (estimeret glomerulær filtrationsrate) er den bedste undersøgelse til vurdering af nyrefunktionen fordi:
+
+Den tager højde for flere faktorer der påvirker nyrefunktionen (alder, køn, race, kreatinin).
+Den korrigerer for muskelmasse, hvilket gør den mere præcis end kreatinin alene.
+Den giver et estimat af hvor mange ml blod nyrerne kan filtrere per minut.
+
+De øvrige undersøgelser er mindre egnede:
+
+A) Kreatinin alene er upræcist fordi:
+Værdien påvirkes betydeligt af muskelmasse
+Samme kreatininværdi kan betyde forskellige ting hos forskellige personer (fx ældre vs. unge, mænd vs. kvinder)
+Kreatinin stiger først når nyrefunktionen er betydeligt nedsat (>50% reduktion)
+
+C) Urinstix kan vise tegn på nyresygdom (protein, blod) men:
+Giver ingen information om den faktiske nyrefunktion
+Kan være normal selv ved betydeligt nedsat nyrefunktion
+Er mere egnet til screening for akut nyresygdom eller urinvejsinfektion
+
+D) Ultralyd af nyrer:
+Viser nyrernes anatomi og struktur
+Kan påvise hydronefrose, cyster, tumorer eller sten
+Giver ingen direkte information om nyrefunktionen
+En normal ultralyd udelukker ikke nedsat nyrefunktion
+
+BONUS!
+Hvorfor er eGFR dog ikke en pålidelig markør ved akut nyresvigt?
+:::
+
+## Svar 14.2
+
+::: {.r-fit-text}
+Ved akut nyresvigt er eGFR mindre pålidelig fordi:
+
+Kreatinin (som indgår i eGFR-beregningen) er en forsinket markør.
+Det kan tage 24-48 timer før kreatinin stiger ved akut nyresvigt.
+I den akutte fase afspejler kreatinin/eGFR derfor ikke den aktuelle nyrefunktion.
+
+Dette skyldes at:
+
+Kreatinin produceres kontinuerligt i musklerne i et relativt stabilt tempo.
+Når nyrerne pludselig svigter, fortsætter kroppen med at producere kreatinin i samme tempo.
+Det tager derfor tid før kreatinin ophobes i blodet til et niveau der afspejler den reelle nyrefunktion.
+Dette betyder at en patient kan have meget dårlig nyrefunktion, men stadig have en relativt normal kreatinin i de første timer/dage.
+
+Ved akut nyresvigt vurderes nyrefunktionen primært på:
+
+Urinproduktion (oligo/anuri)
+
+Normal: >0,5 ml/kg/time
+Oliguri: <0,5 ml/kg/time
+Anuri: <100 ml/døgn
+
+Akutte ændringer i kreatinin
+
+Stigning i kreatinin på >26,5 μmol/l inden for 48 timer
+eller 50% stigning inden for 7 dage
+
+Andre markører der kan være relevante:
+
+Carbamid/Urinstof (stiger hurtigere end kreatinin)
+Kalium (kan stige hurtigt ved akut nyresvigt)
+Syre-base status
+:::
+
+## Spørgsmål 15
+
+En patient med kronisk nyresvigt har følgende symptomer: træthed, kvalme, kløe og ødemer. Hvilket stadie af nyresvigt er der sandsynligvis tale om?
+A) Stadie 1-2
+B) Stadie 3
+C) Stadie 4-5
+D) Akut på kronisk nyresvigt
+
+## Svar 15
+
+Forklaring: C er korrekt da disse symptomer typisk først ses ved fremskreden nyresygdom (stadie 4-5).
+
+## Slut
+

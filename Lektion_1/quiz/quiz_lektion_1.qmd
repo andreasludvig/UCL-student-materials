@@ -13,14 +13,14 @@ scrollable: true
 ## Spørgsmål 1
 **Hvilken af følgende er IKKE en del af ABCDE-tilgangen til den akutte patient?**
 
-A) Airway  
-B) Breathing  
-C) Circulation  
+A) Airway 
+B) Breathing 
+C) Circulation 
 D) Diagnosis
 
 ---
 
-**Korrekt svar:** D  
+**Korrekt svar:** D 
 **Forklaring:** ABCDE står for Airway, Breathing, Circulation, Disability, og Exposure/Environment. "Diagnosis" er ikke en del af denne akutte vurderingstilgang.
 
 ---
@@ -28,14 +28,14 @@ D) Diagnosis
 ## Spørgsmål 2
 **Hvad er den hyppigste årsag til akut pancreatitis i Danmark?**
 
-A) Galdesten  
-B) Alkohol  
-C) Rygning  
+A) Galdesten 
+B) Alkohol 
+C) Rygning 
 D) Fedme
 
 ---
 
-**Korrekt svar:** B  
+**Korrekt svar:** B 
 **Forklaring:** I Danmark er alkohol den hyppigste årsag til akut pancreatitis, efterfulgt af galdesten. Rygning og fedme er risikofaktorer, men ikke direkte årsager.
 Galdesten også acceptabelt svar jf pensumbogen. 
 
@@ -44,14 +44,14 @@ Galdesten også acceptabelt svar jf pensumbogen.
 ## Spørgsmål 3
 **Hvilken type anæstesi anvendes typisk ved større kirurgiske indgreb, hvor total immobilitet er nødvendig?**
 
-A) Lokal anæstesi  
-B) Regional anæstesi  
-C) Generel anæstesi  
+A) Lokal anæstesi 
+B) Regional anæstesi 
+C) Generel anæstesi 
 D) Epidural anæstesi
 
 ---
 
-**Korrekt svar:** C  
+**Korrekt svar:** C 
 **Forklaring:** Generel anæstesi bruges ved større indgreb, hvor total immobilitet er nødvendig.
 
 ---

@@ -1,0 +1,348 @@
+---
+title: "Eksamensspørgsmål 2022"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+Akutte mavesmerter kan skyldes mange ting. Hvad er farligst og skal især mistænkes ved mavesmerter med stor, oppustet mave, manglende afføring og luftafgang samt kvalme og opkastning?
+
+A) Galdestensanfald
+B) Tarmslyng (ileus)
+C) Divertikulitis
+D) Forstoppelse
+
+---
+
+## Svar 1
+**Korrekt svar: B**
+
+*Begrundelse:* Tarmslyng kan medføre strangulation og iskæmi i tarmen og kræver akut behandling.
+
+---
+
+## Spørgsmål 2
+Hvilken medicinsk behandling bør alle patienter med atrieflimren tilbydes (næsten) uanset hvad?
+
+A) Hjertesvigtbehandling
+B) Antikoagulerende (blodfortyndende) behandling
+C) Rytmekontrollerende behandling
+D) Vanddrivende behandling
+
+---
+
+## Svar 2
+**Korrekt svar: B**
+
+*Begrundelse:* Antikoagulation reducerer risikoen for apopleksi betydeligt ved AFLI.
+
+---
+
+## Spørgsmål 3
+Hvor metastaserer prostatacancer sig typisk til?
+
+A) Nyrer  
+B) Skelet og lymfeknuder  
+C) Hjerne  
+D) Lunge  
+
+---
+
+## Svar 3
+**Korrekt svar: B**
+
+*Begrundelse:* Prostatacancer metastaserer hyppigst til knogler og lymfeknuder.
+
+---
+
+## Spørgsmål 4
+76-årig kvinde med T2DM, hypertension, hyperlipidæmi og ryger. Får pludseligt smerter i venstre ben under træning, benet bliver blegt og snurrer. Hvad skal du især overveje?
+
+A) Fibersprængning  
+B) DVT  
+C) Akut arteriel iskæmi  
+D) Fraktur af tibia  
+
+---
+
+## Svar 4
+**Korrekt svar: C**
+
+*Begrundelse:* Klassiske tegn på akut arteriel iskæmi: smerte, pallor, parestesi, manglende puls.
+
+---
+
+## Spørgsmål 5
+Hvilket præparat til hypertension giver nedsat puls og dermed nedsat maksimal arbejdskapacitet?
+
+A) Betablokkere  
+B) Thiazider  
+C) Calciumantagonister  
+D) ACE-hæmmer  
+
+---
+
+## Svar 5
+**Korrekt svar: A**
+
+*Begrundelse:* Betablokkere sænker hjertefrekvensen og hæmmer maksimal pulsstigning under aktivitet.
+
+---
+
+## Spørgsmål 6
+Hvilket organ hos mænd kan vokse og er en almindelig årsag til LUTS?
+
+A) Blæren  
+B) Prostata  
+C) Nyren  
+D) Testiklerne  
+
+---
+
+## Svar 6
+**Korrekt svar: B**
+
+*Begrundelse:* Benign prostatahyperplasi er en hyppig årsag til vandladningsgener.
+
+---
+
+## Spørgsmål 7
+Hvad er den vigtigste årsag til kronisk nyreinsufficiens?
+
+A) Aterosklerose  
+B) Medicinforgiftning  
+C) Kræft  
+D) Glomerulonefritis  
+
+---
+
+## Svar 7
+**Korrekt svar: A**
+
+*Begrundelse:* Aterosklerose og diabetisk nefropati er de vigtigste årsager til kronisk nyresvigt.
+
+---
+
+## Spørgsmål 8
+Hvad er den mest frygtede komplikation til atrieflimren?
+
+A) AMI  
+B) Apopleksi  
+C) Hjertesvigt  
+D) Lungeemboli  
+
+---
+
+## Svar 8
+**Korrekt svar: B**
+
+*Begrundelse:* AFLI øger risikoen for blodprop i hjernen markant.
+
+---
+
+## Spørgsmål 9
+Hvilket fund er IKKE karakteristisk for astma?
+
+A) Natlig hoste  
+B) Allergi  
+C) Døgnvariation i peak-flow  
+D) Pibende indånding  
+
+---
+
+## Svar 9
+**Korrekt svar: D**
+
+*Begrundelse:* Astma giver typisk forlænget og pibende udånding – ikke indånding.
+
+---
+
+## Spørgsmål 10
+Hvilken bakterie er associeret med mavesår?
+
+A) Escherichia coli  
+B) Helicobacter pylori  
+C) Streptococcus pneumoniae  
+D) Haemophilus influenzae  
+
+---
+
+## Svar 10
+**Korrekt svar: B**
+
+*Begrundelse:* H. pylori er en central årsag til ulcus ventriculi og duodeni.
+
+---
+
+## Spørgsmål 11
+Hvor i maven sidder smerterne typisk ved galdestensanfald?
+
+A) Venstre fossa  
+B) Højre fossa  
+C) Øvre venstre kvadrant  
+D) Øvre højre kvadrant  
+
+---
+
+## Svar 11
+**Korrekt svar: D**
+
+*Begrundelse:* Smerter fra galdeblæren sidder i øvre højre kvadrant og kan stråle til ryg og skulder.
+
+---
+
+## Spørgsmål 12
+Bækkenbundstræning hjælper ved hvilken type inkontinens?
+
+A) Urge-inkontinens  
+B) Stress-inkontinens  
+C) Overløbsinkontinens  
+D) Neurogen blæredysfunktion  
+
+---
+
+## Svar 12
+**Korrekt svar: B**
+
+*Begrundelse:* Stressinkontinens skyldes svage bækkenbundsmuskler → træning hjælper.
+
+---
+
+## Spørgsmål 13
+Hvilket non-farmakologisk tiltag har størst positiv effekt på blodsukker ved T2DM?
+
+A) Rygestop  
+B) Fysisk træning og kostomlægning  
+C) Bedre nattesøvn  
+D) Stillesiddende arbejde  
+
+---
+
+## Svar 13
+**Korrekt svar: B**
+
+*Begrundelse:* Motion + kost er førstevalg og mest effektivt til at forbedre insulinresistens.
+
+---
+
+## Spørgsmål 14
+Hvilken lidelse rammer typisk yngre patienter og giver feber, kvalme og tiltagende smerter, der lokaliserer sig til højre fossa?
+
+A) Appendicitis  
+B) Colitis ulcerosa  
+C) Divertikulitis  
+D) Galdesten  
+
+---
+
+## Svar 14
+**Korrekt svar: A**
+
+*Begrundelse:* Klassisk symptomudvikling ved appendicitis: diffust → højre fossa.
+
+---
+
+## Spørgsmål 15
+Hvad er den hyppigste kræftsygdom hos mænd?
+
+A) Colorektalcancer  
+B) Pancreascancer  
+C) Lungecancer  
+D) Prostatacancer  
+
+---
+
+## Svar 15
+**Korrekt svar: D**
+
+*Begrundelse:* Prostatacancer er den hyppigste kræftform blandt mænd i Danmark.
+
+---
+
+## Spørgsmål 16
+Hvilken medicin bruges som anfaldsbehandling ved stabil angina pectoris?
+
+A) Betablokker  
+B) ACE-hæmmer  
+C) Diuretika  
+D) Nitroglycerin  
+
+---
+
+## Svar 16
+**Korrekt svar: D**
+
+*Begrundelse:* Nitroglycerin virker hurtigt karudvidende og lindrer anfald.
+
+---
+
+## Spørgsmål 17
+Hvilken symptomscore bruges hyppigst ved henvisning til KOL-rehabilitering?
+
+A) FEV1  
+B) GOLD-gruppe  
+C) MRC-skala  
+D) Peak-flow  
+
+---
+
+## Svar 17
+**Korrekt svar: C**
+
+*Begrundelse:* MRC-skalaen vurderer graden af dyspnø og bruges til rehabiliteringsindikation.
+
+---
+
+## Spørgsmål 18
+Hvilken lidelse viser EKG-forandringer, forhøjede koronarenzymer og trykkende brystsmerter, der IKKE forsvinder i hvile?
+
+A) Ustabil angina  
+B) Stabil angina  
+C) STEMI  
+D) Perikarditis  
+
+---
+
+## Svar 18
+**Korrekt svar: C**
+
+*Begrundelse:* STEMI giver varige smerter, ST-elevation og forhøjede biomarkører.
+
+---
+
+## Spørgsmål 19
+Hvilken rytmeforstyrrelse er mest almindelig i Danmark og uregelmæssig?
+
+A) Atrieflimren  
+B) Atrieflagren  
+C) Bradykardi  
+D) Sinustakykardi  
+
+---
+
+## Svar 19
+**Korrekt svar: A**
+
+*Begrundelse:* AFLI er både hyppig og karakteriseret ved uregelmæssig rytme.
+
+---
+
+## Spørgsmål 20
+Hvilket fund hos levercirrosepatient kræver invasiv undersøgelse og bør screenes for ved diagnose?
+
+A) Ascites  
+B) Caput medusae  
+C) Øsofagusvaricer  
+D) Spider naevi  
+
+---
+
+## Svar 20
+**Korrekt svar: C**
+
+*Begrundelse:* Øsofagusvaricer kræver endoskopi (invasiv) og er vigtig at identificere pga. blødningsrisiko.
+
+---
+

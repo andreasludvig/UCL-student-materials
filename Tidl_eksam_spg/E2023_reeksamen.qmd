@@ -1,0 +1,348 @@
+---
+title: "Eksamensspørgsmål E2023 Reeksamen"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+55-årig mand får pludseligt udslæt, bliver utilpas, klamtsvedende og får pibende vejrtrækning efter at have indtaget noget med nødder. Hvad mistænker du?
+
+A) Anafylaktisk shock  
+B) Hjertestop  
+C) Astma i exa  
+D) Overanstrengelse  
+
+---
+
+## Svar 1
+**Korrekt svar: A**
+
+*Begrundelse:* Akut allergisk reaktion med påvirket respiration og cirkulation tyder på anafylaksi.
+
+---
+
+## Spørgsmål 2
+Hvad er det hyppigste symptom på hypertension?
+
+A) Hovedpine  
+B) Brystsmerter  
+C) Svimmelhed  
+D) Asymptomatisk  
+
+---
+
+## Svar 2
+**Korrekt svar: D**
+
+*Begrundelse:* Hypertension giver ofte ingen symptomer før komplikationer opstår.
+
+---
+
+## Spørgsmål 3
+Hvad er de hyppigste symptomer på hjertesvigt?
+
+A) Åndenød, træthed, ødemer  
+B) Hoste, brystsmerter, træthed  
+C) Brystsmerter, ødemer, åndenød  
+D) Hjertebanken, åndenød, svimmelhed  
+
+---
+
+## Svar 3
+**Korrekt svar: A**
+
+*Begrundelse:* Klassisk triade ved hjertesvigt.
+
+---
+
+## Spørgsmål 4
+Hvad er karakteristisk for atrieflimmer?
+
+A) Ingen sikre p‐takker på EKG, uregelmæssig puls, hjertebanken  
+B) To-puklet p‐tak, hjertebanken, hurtig puls  
+C) Ingen sikre t-takker, hjertebanken, uregelmæssig puls  
+D) Normalt EKG, hjertebanken, brystsmerter  
+
+---
+
+## Svar 4
+**Korrekt svar: A**
+
+*Begrundelse:* AFLI viser manglende P-takker og uregelmæssig rytme.
+
+---
+
+## Spørgsmål 5
+GOLD-klassifikation bruges til at:
+
+A) Diagnosticere KOL  
+B) Klassificere sværhedsgraden af KOL  
+C) Vurdere symptombyrden ved KOL  
+D) Vurdere risiko ved pneumoni  
+
+---
+
+## Svar 5
+**Korrekt svar: B**
+
+*Begrundelse:* GOLD angiver graden af luftvejsobstruktion (FEV1 %).
+
+---
+
+## Spørgsmål 6
+Hvad er den hyppigste årsag til større blødninger i mavetarmkanalen?
+
+A) Øsofagusvaricer  
+B) Blødende hiatushernie  
+C) Aortaaneurisme  
+D) Hæmorider  
+
+---
+
+## Svar 6
+**Korrekt svar: A**
+
+*Begrundelse:* Øvre GI-blødninger skyldes ofte varicer hos cirrosepatienter.
+
+---
+
+## Spørgsmål 7
+Hvilken er den hyppigste årsag til ulcus ventrikuli?
+
+A) Alkohol  
+B) Helicobacter pylori  
+C) Rygning  
+D) Dyspepsi  
+
+---
+
+## Svar 7
+**Korrekt svar: B**
+
+*Begrundelse:* H. pylori er den primære årsag til mavesår.
+
+---
+
+## Spørgsmål 8
+Patient med svære mavesmerter, opkastning og afførings-/flatusstop. Hvad mistænkes og hvad er behandlingen?
+
+A) Ileus behandles med stentanlæggelse  
+B) Coloncancer behandles akut kirurgisk  
+C) Ileus behandles oftest akut kirurgisk  
+D) Ustabil GI blødning → ABCDE → endoskopi  
+
+---
+
+## Svar 8
+**Korrekt svar: C**
+
+*Begrundelse:* Mekanisk ileus kræver ofte akut operation.
+
+---
+
+## Spørgsmål 9
+Hvad er de hyppigste årsager til akut pancreatitis?
+
+A) Alkohol og galdesten  
+B) Rygning og galdesten  
+C) Pancreascancer  
+D) Rygning og alkohol  
+
+---
+
+## Svar 9
+**Korrekt svar: A**
+
+*Begrundelse:* 70–80 % skyldes alkohol eller galdesten.
+
+---
+
+## Spørgsmål 10
+Hvilken af disse er IKKE en komplikation til cirrose?
+
+A) Ascites  
+B) Øsofagusvaricer  
+C) Cholangitis  
+D) Hepatisk encefalopati  
+
+---
+
+## Svar 10
+**Korrekt svar: C**
+
+*Begrundelse:* Cholangitis skyldes galdevejsinfektion og er ikke et cirrose-stigma.
+
+---
+
+## Spørgsmål 11
+Ved type 1 diabetes destrueres beta-cellerne i pancreas. Det medfører?
+
+A) Insulinresistens  
+B) Hypoglykæmi  
+C) (Næsten) ophørt insulinproduktion  
+D) Pancreatitis  
+
+---
+
+## Svar 11
+**Korrekt svar: C**
+
+*Begrundelse:* Autoimmun destruktion → insulinmangel.
+
+---
+
+## Spørgsmål 12
+Hvilken diabetes-type er absolut den hyppigste?
+
+A) Type 1  
+B) Type 2  
+C) Gestationel diabetes  
+D) Prædiabetes  
+
+---
+
+## Svar 12
+**Korrekt svar: B**
+
+*Begrundelse:* T2DM udgør ca. 80–90 % af alle diabetes-tilfælde.
+
+---
+
+## Spørgsmål 13
+Anæmi: hvad er de hyppigste årsager?
+
+A) Jernmangel og kronisk sygdom  
+B) Akut blødning og underernæring  
+C) Hæmolyse og malabsorption  
+D) Autoimmune sygdomme og hæmolyse  
+
+---
+
+## Svar 13
+**Korrekt svar: A**
+
+*Begrundelse:* De to klart mest almindelige typer.
+
+---
+
+## Spørgsmål 14
+Hvad er de hyppigste symptomer på lymfomer?
+
+A) Knoglesmerter og B‐symptomer  
+B) Asymptomatisk  
+C) Hævede lymfeknuder og B‐symptomer  
+D) Øget trombosetendens  
+
+---
+
+## Svar 14
+**Korrekt svar: C**
+
+*Begrundelse:* Hævede lymfeknuder (ofte smertefri) og B-symptomer er klassisk.
+
+---
+
+## Spørgsmål 15
+Hvor metastaserer prostatacancer hyppigst til?
+
+A) Knogler og lymfeknuder  
+B) Lever og lymfeknuder  
+C) Nyrer og lymfeknuder  
+D) Blære og lymfeknuder  
+
+---
+
+## Svar 15
+**Korrekt svar: A**
+
+*Begrundelse:* Prostatacancer metastaserer oftest til knoglerne.
+
+---
+
+## Spørgsmål 16
+78-årig mand med træthed og makroskopisk hæmaturi. Hvad mistænkes?
+
+A) Urinvejsinfektion  
+B) Kronisk nyresvigt  
+C) Cancer i urinvejene  
+D) Nyresten >5 mm  
+
+---
+
+## Svar 16
+**Korrekt svar: C**
+
+*Begrundelse:* Synligt blod i urinen er alarmsymptom på urologisk cancer.
+
+---
+
+## Spørgsmål 17
+Hvilken sygdom kan udvikle sig til kronisk nyresvigt i 30–40 års alderen med gradvist faldende nyrefunktion?
+
+A) Urinretention  
+B) Cystenyrer  
+C) Benign prostatahyperplasi  
+D) Nyresten  
+
+---
+
+## Svar 17
+**Korrekt svar: B**
+
+*Begrundelse:* Autosomal dominant polycystisk nyresygdom giver gradvis nyresvigt.
+
+---
+
+## Spørgsmål 18
+Hvilket udsagn er SANDT for aortaaneurisme?
+
+A) Falsk lumen i karvæggen  
+B) Ofte asymptomatisk, men ruptur kan give pludselig død  
+C) Forekommer hos 50 % over 65 år  
+D) Giver akut indsættende brystsmerter  
+
+---
+
+## Svar 18
+**Korrekt svar: B**
+
+*Begrundelse:* Abdominale aortaaneurismer er ofte asymptomatiske indtil ruptur.
+
+---
+
+## Spørgsmål 19
+70-årig mand indlagt gentagne gange med pneumoni, vægttab, træthed og hæmoptyse. Infiltrat svinder ikke trods antibiotika. Mistanke?
+
+A) Atypisk pneumoni  
+B) Lungeemboli  
+C) Lungecancer  
+D) KOL  
+
+---
+
+## Svar 19
+**Korrekt svar: C**
+
+*Begrundelse:* Vedvarende infiltrat + vægttab + blodigt opspyt → mistanke om lungecancer.
+
+---
+
+## Spørgsmål 20
+Hvor er galdestenssmerter hyppigst lokaliseret?
+
+A) Højre fossa  
+B) Under højre kurvatur  
+C) Under venstre kurvatur  
+D) Centralt i brystet med udstråling  
+
+---
+
+## Svar 20
+**Korrekt svar: B**
+
+*Begrundelse:* Typisk smerte under højre kurvatur, evt. med udstråling til ryg/skulder.
+
+---
+

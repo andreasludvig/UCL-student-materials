@@ -1,0 +1,348 @@
+---
+title: "Eksamensspørgsmål – F2024 ordinær"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+Alle operative indgreb medfører fysiologisk stress. Hvilke postoperative komplikationer kan der være til kirurgi?
+
+A) DVT (dyb venøs trombose)  
+B) Blødning  
+C) Infektion  
+D) Alle ovenstående  
+
+---
+
+## Svar 1
+**Korrekt svar: D**
+
+*Begrundelse:* DVT, blødning og infektion er klassiske postoperative komplikationer.
+
+---
+
+## Spørgsmål 2
+Hvilke af disse sygdomme medfører øget risiko for blodpropper i hjernen?
+
+A) Atrieflimmer og aortastenose  
+B) Carotisstenose og hjertesvigt  
+C) Carotisstenose og atrieflimmer  
+D) Atrieflimmer og iskæmisk hjertesygdom  
+
+---
+
+## Svar 2
+**Korrekt svar: C**
+
+*Begrundelse:* Kombinationen af atrieflimren og carotisstenose giver særlig høj risiko for apopleksi.
+
+---
+
+## Spørgsmål 3
+Kronisk iskæmi i underekstremiteterne er en hyppig tilstand især hos kronikere. Hvornår er der tale om kritisk iskæmi?
+
+A) Sår eller hvilesmerter  
+B) Smerter ved gang <200 meter  
+C) Potensproblemer og claudicatio  
+D) Hvis man ikke kan mærke fodpulse  
+
+---
+
+## Svar 3
+**Korrekt svar: A**
+
+*Begrundelse:* Kritisk iskæmi defineres som hvilesmerter eller sår pga. alvorlig nedsat perfusion.
+
+---
+
+## Spørgsmål 4
+Almindelig pneumoni (lungebetændelse) skyldes ofte infektion med?
+
+A) Kighoste  
+B) Pneumokokker  
+C) Mycobacterium tuberculosis  
+D) Mycoplasma pneumoniae  
+
+---
+
+## Svar 4
+**Korrekt svar: B**
+
+*Begrundelse:* Pneumokokker er den hyppigste årsag til samfundserhvervet pneumoni.
+
+---
+
+## Spørgsmål 5
+Patienter med KOL er i øget risiko for?
+
+A) Tuberkulose-smitte  
+B) At udvikle astma  
+C) Alvorligt forløb ved pneumoni  
+D) Blodpropper  
+
+---
+
+## Svar 5
+**Korrekt svar: C**
+
+*Begrundelse:* Nedsat lungefunktion og immunforsvar gør pneumoni mere alvorlig hos KOL-patienter.
+
+---
+
+## Spørgsmål 6
+Hvornår har man fuld sygdomskontrol ved astma?
+
+A) Behov for anfaldsmedicin min. 2 gange om ugen  
+B) Behov for anfaldsmedicin max 2 gange om ugen  
+C) Mindre end 2 akutte forværringer om året  
+D) Hvis man tager sin medicin dagligt  
+
+---
+
+## Svar 6
+**Korrekt svar: B**
+
+*Begrundelse:* Fuldt kontrolleret astma indebærer sjældent behov for anfaldsmedicin.
+
+---
+
+## Spørgsmål 7
+Arne i KOL-rehab hoster fortsat 6 uger efter svær pneumoni, er træt og har tabt sig. Hvad skal man især overveje?
+
+A) Tuberkulose  
+B) Eksponering for asbest  
+C) Lungecancer  
+D) Om han tager sin KOL-medicin  
+
+---
+
+## Svar 7
+**Korrekt svar: C**
+
+*Begrundelse:* Ved vedvarende hoste og vægttab efter pneumoni skal lungecancer mistænkes.
+
+---
+
+## Spørgsmål 8
+Whipples operation er eneste kurative behandling af?
+
+A) Cancer i mavesækken  
+B) Cancer i pancreas  
+C) Cancer i leveren  
+D) Blødende mavesår  
+
+---
+
+## Svar 8
+**Korrekt svar: B**
+
+*Begrundelse:* Whipples operation (pancreaticoduodenektomi) anvendes primært ved pancreas-cancer.
+
+---
+
+## Spørgsmål 9
+Hvilket af følgende er IKKE karakteristisk for cirrose-patienter?
+
+A) Spider nævi  
+B) Caput medusae  
+C) Ascites  
+D) Hæmaturi  
+
+---
+
+## Svar 9
+**Korrekt svar: D**
+
+*Begrundelse:* Hæmaturi er ikke et klassisk cirrose-stigma.
+
+---
+
+## Spørgsmål 10
+Type 1 diabetes kan debutere akut med bevidsthedspåvirkning, mavesmerter og hyperventilation. Hvilken tilstand er der tale om?
+
+A) Hypoglykæmi  
+B) Ketoacidose  
+C) Diabetisk nefropati  
+D) Insulinshock  
+
+---
+
+## Svar 10
+**Korrekt svar: B**
+
+*Begrundelse:* DKA (ketoacidose) kan give Kussmaul-respiration, mavesmerter og påvirket bevidsthed.
+
+---
+
+## Spørgsmål 11
+Hvad er typiske debut-symptomer på type 2 diabetes?
+
+A) Hypoglykæmi  
+B) Polyuri, polydipsi, vægttab, sult  
+C) Ingen symptomer  
+D) Svedeture, rysten, hjertebanken  
+
+---
+
+## Svar 11
+**Korrekt svar: C**
+
+*Begrundelse:* T2DM debuterer ofte asymptomatisk og opdages tilfældigt.
+
+---
+
+## Spørgsmål 12
+Ukontrolleret diabetes kan medføre senkomplikationer i form af?
+
+A) Retinopati  
+B) Nefropati  
+C) Neuropati  
+D) Alle ovenstående  
+
+---
+
+## Svar 12
+**Korrekt svar: D**
+
+*Begrundelse:* Kronisk hyperglykæmi skader nyrer, øjne og nerver.
+
+---
+
+## Spørgsmål 13
+Anæmi er nedsat hæmoglobin. Hvad er de hyppigste årsager?
+
+A) Jernmangel og kronisk sygdom  
+B) Akut blødning og underernæring  
+C) Hæmolyse og malabsorption  
+D) Autoimmune blodsygdomme og hæmolyse  
+
+---
+
+## Svar 13
+**Korrekt svar: A**
+
+*Begrundelse:* Jernmangel og anæmi ved kronisk sygdom er langt de mest almindelige typer.
+
+---
+
+## Spørgsmål 14
+22-årig kvinde med dysuri, pollakisuri, ingen hæmaturi. Symptomer 3. gang på et år. Mest sandsynlige diagnose?
+
+A) Ingenting  
+B) Ekstrauterin graviditet  
+C) Blærecancer  
+D) Simpel cystit  
+
+---
+
+## Svar 14
+**Korrekt svar: D**
+
+*Begrundelse:* Klassisk præsentation ved ukompliceret cystit, især hos yngre kvinder.
+
+---
+
+## Spørgsmål 15
+LUTS hos mænd er oftest tegn på?
+
+A) Blærecancer  
+B) Urinvejsinfektion  
+C) Prostatacancer  
+D) Benign prostatahyperplasi  
+
+---
+
+## Svar 15
+**Korrekt svar: D**
+
+*Begrundelse:* BPH er langt den hyppigste årsag til LUTS hos mænd.
+
+---
+
+## Spørgsmål 16
+78-årig mand med træthed og makroskopisk hæmaturi. Hvad skal man mistænke?
+
+A) Urinvejsinfektion  
+B) Kronisk nyresvigt  
+C) Cancer i urinvejene  
+D) Nyresten >5 mm  
+
+---
+
+## Svar 16
+**Korrekt svar: C**
+
+*Begrundelse:* Makroskopisk hæmaturi er alarmsymptom på urologisk cancer.
+
+---
+
+## Spørgsmål 17
+Hvilket udsagn om aortadissektion og aortaaneurisme er korrekt?
+
+A) Aortaaneurisme giver akut indsættende brystsmerter  
+B) Aortadissektion er ofte asymptomatisk  
+C) Ved aortadissektion opstår et falsk lumen  
+D) Ved aortaaneurisme opstår et falsk lumen  
+
+---
+
+## Svar 17
+**Korrekt svar: C**
+
+*Begrundelse:* Aortadissektion skyldes rift i intima → blod trænger ind → falsk lumen i karvæggen.
+
+---
+
+## Spørgsmål 18
+200 cm høj, slank mand får pludseligt brystsmerter og åndenød efter hosteanfald. Mest sandsynlige diagnose?
+
+A) Ukontrolleret astma  
+B) Pneumoni  
+C) Lungeemboli  
+D) Spontan pneumothorax  
+
+---
+
+## Svar 18
+**Korrekt svar: D**
+
+*Begrundelse:* Spontan pneumothorax ses typisk hos høje, slanke unge mænd.
+
+---
+
+## Spørgsmål 19
+22-årig mand med feber og tiltagende smerter i højre nedre abdomen. Hvad mistænkes?
+
+A) Ileus  
+B) Appendicitis acuta  
+C) Gastroenterit  
+D) Diverticulitis  
+
+---
+
+## Svar 19
+**Korrekt svar: B**
+
+*Begrundelse:* Klassisk symptomudvikling ved akut appendicitis.
+
+---
+
+## Spørgsmål 20
+Patient med alkoholmisbrug og cirrose har det dårligt og har sort, klistret afføring. Hvad fejler han mest sandsynligt?
+
+A) Akut gastrointestinal blødning  
+B) Akut gastroenterit  
+C) Akut ileus  
+D) Colorectalcancer  
+
+---
+
+## Svar 20
+**Korrekt svar: A**
+
+*Begrundelse:* Melæna hos cirrosepatient tyder stærkt på øvre GI-blødning, ofte fra varicer.
+
+---
+

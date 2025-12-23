@@ -1,0 +1,308 @@
+---
+title: "Eksamensspørgsmål – F2023"
+format: 
+  revealjs:
+    embed-resources: true
+scrollable: true
+---
+
+## Spørgsmål 1
+28-årig gravid i uge 30 får akut åndenød, inspiratoriske brystsmerter, hjertebanken og hævede ben. Hvad er lægen mest bekymret for?
+
+A) Hjerteinfarkt  
+B) Lungebetændelse  
+C) Lungeemboli  
+D) Aortadissektion  
+
+---
+
+## Svar 1
+**Korrekt svar: C – Lungeemboli**
+
+---
+
+## Spørgsmål 2
+40-årig mand falder på cykel, har smerter i thorax, og røntgen viser pneumothorax. Hvad er behandlingen?
+
+A) Blodfortyndende  
+B) Anlæggelse af pleuradræn  
+C) Oxygen  
+D) Nyt røntgen om en uge  
+
+---
+
+## Svar 2
+**Korrekt svar: B – Pleuradræn**
+
+---
+
+## Spørgsmål 3
+40-årig mand får “værste hovedpine nogensinde”, kortvarigt bevidsthedstab, kvalme og opkast. Mistænkt diagnose?
+
+A) Apopleksi  
+B) Postural hypotension  
+C) Hjernetumor  
+D) Subaraknoidalblødning  
+
+---
+
+## Svar 3
+**Korrekt svar: D – Subaraknoidalblødning**
+
+---
+
+## Spørgsmål 4
+Hvad er ætiologien ved Parkinsons sygdom?
+
+A) Tab af dopaminproducerende nerveceller i substantia nigra  
+B) Tab af serotoninproducerende nerveceller  
+C) Pludselig hovedpine  
+D) Hjernetumor  
+
+---
+
+## Svar 4
+**Korrekt svar: A – Dopamin-neuron-tab i substantia nigra**
+
+---
+
+## Spørgsmål 5
+60-årig mand med hukommelsesproblemer, glemt aftaler og dårlig retention af ny information. Hvad skal han udredes for?
+
+A) Apopleksi  
+B) Demens  
+C) Hjernetumor  
+D) Depression  
+
+---
+
+## Svar 5
+**Korrekt svar: B – Demens**
+
+---
+
+## Spørgsmål 6
+23-årig kvinde med dysuri, pollakisuri og nedre abdominalsmerter. Ikke seksuelt aktiv. Hvad har hun sandsynligvis?
+
+A) Appendicitis  
+B) Divertikulitis  
+C) Divertikulose  
+D) Urinvejsinfektion  
+
+---
+
+## Svar 6
+**Korrekt svar: D – Urinvejsinfektion**
+
+---
+
+## Spørgsmål 7
+20-årig kvinde med vægttab, søvnbesvær, hjertebanken, svedtendens og rastløshed. Udredning for?
+
+A) Hypotyroidisme  
+B) Hypertyroidisme  
+C) Depression  
+D) Psykose  
+
+---
+
+## Svar 7
+**Korrekt svar: B – Hypertyroidisme**
+
+---
+
+## Spørgsmål 8
+Hvad kendetegner levercirrose?
+
+A) Muskelatrofi, ascites, icterus, gulsot  
+B) Cyanose  
+C) Mørk hud  
+D) Perifer aterosklerose  
+
+---
+
+## Svar 8
+**Korrekt svar: A – Cirrose-stigmata**
+
+---
+
+## Spørgsmål 9
+Behandling af akut cholecystit?
+
+A) Antibiotika  
+B) Smertestillende  
+C) Cholecystektomi (laparoskopisk/åben)  
+D) Dræn i galdeblæren  
+
+---
+
+## Svar 9
+**Korrekt svar: C – Cholecystektomi**
+
+---
+
+## Spørgsmål 10
+Hvilket er **ikke** et kendetegn ved kræftceller?
+
+A) Modstår celledød  
+B) Undvigelse af immundestruktion  
+C) Stopper invasion og metastasering  
+D) Undviger væksthæmning  
+
+---
+
+## Svar 10
+**Korrekt svar: C – Kræftceller stopper ikke invasion/metastasering**
+
+---
+
+## Spørgsmål 11
+Hyppigste dødsårsag globalt?
+
+A) Kræft  
+B) Trafikuheld  
+C) Alkoholisme  
+D) Iskæmisk hjertesygdom  
+
+---
+
+## Svar 11
+**Korrekt svar: D – Iskæmisk hjertesygdom**
+
+---
+
+## Spørgsmål 12
+Hyppigste hjerteklapsygdom i Danmark?
+
+A) Mitralinsufficiens  
+B) Aortainsufficiens  
+C) Aortastenose  
+D) Pulmonalstenose  
+
+---
+
+## Svar 12
+**Korrekt svar: C – Aortastenose**
+
+---
+
+## Spørgsmål 13
+Hvilken bakterie giver tuberkulose?
+
+A) Mycobacterium tuberculosis  
+B) Pseudomonas aeruginosa  
+C) Helicobacter pylori  
+D) Staphylococci ssp.  
+
+---
+
+## Svar 13
+**Korrekt svar: A – Mycobacterium tuberculosis**
+
+---
+
+## Spørgsmål 14
+Største risikofaktor for lungekræft?
+
+A) Alkohol  
+B) Overvægt  
+C) Diabetes  
+D) Tobaksrygning  
+
+---
+
+## Svar 14
+**Korrekt svar: D – Tobaksrygning**
+
+---
+
+## Spørgsmål 15
+Hvordan vurderes funktionsevne hos kræftpatienter?
+
+A) Performance Status  
+B) MMSE  
+C) CT abdomen  
+D) MR hjernen  
+
+---
+
+## Svar 15
+**Korrekt svar: A – Performance Status**
+
+---
+
+## Spørgsmål 16
+Hyppigste årsag til akut pancreatitis (udover galdesten)?
+
+A) Antidepressiva  
+B) Alkohol  
+C) Tobaksrygning  
+D) Fed mad  
+
+---
+
+## Svar 16
+**Korrekt svar: B – Alkohol**
+
+---
+
+## Spørgsmål 17
+Formålet med det nationale brystscreeningsprogram?
+
+A) Tidlig opsporing af brystkræft  
+B) Opsporing af laktationsproblemer  
+C) Tidlig opsporing af lungekræft  
+D) Opfølgning på hjertesvigt  
+
+---
+
+## Svar 17
+**Korrekt svar: A – Tidlig opsporing af brystkræft**
+
+---
+
+## Spørgsmål 18
+Behandling af appendicitis i Danmark?
+
+A) Antibiotika  
+B) Laparoskopisk appendektomi  
+C) Dræn i appendix  
+D) Tarmskylning  
+
+---
+
+## Svar 18
+**Korrekt svar: B – Laparoskopisk appendektomi**
+
+---
+
+## Spørgsmål 19
+Hvad indikerer *kritisk iskæmi*?
+
+A) Smerter >200 m  
+B) Smerter <200 m  
+C) Hvilesmerter  
+D) Åndenød  
+
+---
+
+## Svar 19
+**Korrekt svar: C – Hvilesmerter**
+
+---
+
+## Spørgsmål 20
+Hyppigste rytmeforstyrrelse i Danmark?
+
+A) Atrieflagren  
+B) Atrieflimren  
+C) Sinustakykardi  
+D) Sinusbradykardi  
+
+---
+
+## Svar 20
+**Korrekt svar: B – Atrieflimren**
+
+---
+
